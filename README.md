@@ -29,8 +29,8 @@ UPS is a weighted composite of six indices, each normalized to 0–100. The mode
 
 ### Sample Size (Qualification)
 
-- **Starters:** IP ≥ 80 and GS ≥ 14 → ~143 pitchers in 2025  
-- **Relievers:** IP ≥ 30 and GS &lt; 14 → ~317 pitchers in 2025  
+- **Starters:** IP ≥ 80 in 2025  
+- **Relievers:** IP ≥ 30 in 2025  
 
 Thresholds ensure meaningful sample sizes while excluding minimal-usage arms.
 
