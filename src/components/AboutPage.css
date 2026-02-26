@@ -1,0 +1,40 @@
+.about-page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1.5rem 2rem 3rem;
+  text-align: left;
+  line-height: 1.65;
+}
+
+.about-page p {
+  margin: 0 0 1.25rem;
+  color: #cbd5e1;
+}
+
+.about-page h3 {
+  margin: 2rem 0 0.75rem;
+  font-size: 1.1rem;
+  color: #f8fafc;
+}
+
+.about-page ul {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+}
+
+.about-page li {
+  margin-bottom: 0.5rem;
+  color: #cbd5e1;
+}
+
+.about-page .index-weights {
+  margin-bottom: 1.5rem;
+}
+
+.about-page .index-weights li {
+  margin-bottom: 0.4rem;
+}
+
+.about-page strong {
+  color: #e2e8f0;
+}

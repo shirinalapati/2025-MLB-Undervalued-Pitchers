@@ -1,0 +1,154 @@
+.app {
+  min-height: 100vh;
+  padding: 1.5rem 2rem;
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.app-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0;
+  color: #f8fafc;
+}
+
+.subtitle {
+  color: #94a3b8;
+  margin: 0.5rem 0 1rem;
+  font-size: 0.95rem;
+}
+
+.glossary-toggle {
+  display: block;
+  margin: 0 auto 1rem;
+  padding: 0.4rem 0.8rem;
+  background: transparent;
+  border: 1px solid #475569;
+  color: #94a3b8;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.glossary-toggle:hover {
+  color: #e2e8f0;
+  border-color: #64748b;
+}
+
+.glossary-panel {
+  max-width: 680px;
+  margin: 0 auto 1.5rem;
+  padding: 1rem 1.5rem;
+  background: #1e293b;
+  border-radius: 8px;
+  border: 1px solid #334155;
+  text-align: left;
+  font-size: 0.9rem;
+  color: #cbd5e1;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.glossary-panel dl {
+  margin: 0;
+}
+
+.glossary-panel dt {
+  font-weight: 600;
+  color: #e2e8f0;
+  margin-top: 0.75rem;
+}
+
+.glossary-panel dt:first-child {
+  margin-top: 0;
+}
+
+.glossary-panel dd {
+  margin: 0.25rem 0 0 0;
+  padding-left: 0;
+  line-height: 1.5;
+}
+
+.filters {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.filters.leaderboard-filters {
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+}
+
+.filters button {
+  padding: 0.5rem 1rem;
+  border: 1px solid #334155;
+  background: #1e293b;
+  color: #e2e8f0;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.filters button:hover {
+  background: #334155;
+}
+
+.filters button.active {
+  background: #0ea5e9;
+  border-color: #0ea5e9;
+  color: #0f172a;
+}
+
+.loading {
+  text-align: center;
+  padding: 3rem;
+  color: #94a3b8;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid #334155;
+  border-top-color: #0ea5e9;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin: 0 auto 1rem;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.error {
+  max-width: 480px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #1e293b;
+  border-radius: 12px;
+  border: 1px solid #334155;
+}
+
+.error h2 {
+  margin: 0 0 0.5rem;
+  color: #f87171;
+}
+
+.error .hint {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: #94a3b8;
+}
+
+.error code {
+  background: #334155;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-size: 0.9em;
+}

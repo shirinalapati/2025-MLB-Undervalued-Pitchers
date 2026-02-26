@@ -1,0 +1,174 @@
+.leaderboard {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.leaderboard-header {
+  margin-bottom: 1.5rem;
+}
+
+.leaderboard-header h2 {
+  margin: 0 0 0.25rem;
+  font-size: 1.4rem;
+  color: #f8fafc;
+}
+
+.ups-formulas {
+  margin-top: 1.25rem;
+  padding: 1.5rem 2rem;
+  background: linear-gradient(145deg, #1e293b 0%, #0f172a 100%);
+  border-radius: 12px;
+  border: 1px solid #475569;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.ups-formulas .ups-formula {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #f8fafc;
+  margin: 0 0 1rem;
+  letter-spacing: 0.02em;
+}
+
+.ups-formulas .index-formula {
+  font-size: 1rem;
+  margin: 0.6rem 0;
+  font-family: ui-monospace, 'SF Mono', 'Consolas', monospace;
+  color: #e2e8f0;
+  line-height: 1.6;
+}
+
+.ups-formulas .index-formula:last-child {
+  margin-bottom: 0;
+}
+
+.formula-note {
+  font-size: 0.85rem;
+  color: #94a3b8;
+  margin: 0;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  border-radius: 12px;
+  border: 1px solid #334155;
+  background: #1e293b;
+}
+
+.leaderboard-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.leaderboard-table th {
+  text-align: left;
+  padding: 0.5rem 0.75rem;
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: #94a3b8;
+  background: #0f172a;
+  border-bottom: 1px solid #334155;
+}
+
+.filter-row th {
+  padding: 0.35rem 0.5rem;
+  vertical-align: middle;
+}
+
+.filter-input,
+.filter-select {
+  width: 100%;
+  max-width: 120px;
+  padding: 0.35rem 0.5rem;
+  font-size: 0.8rem;
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 4px;
+  color: #e2e8f0;
+}
+
+.filter-input::placeholder {
+  color: #64748b;
+}
+
+.filter-number {
+  max-width: 80px;
+}
+
+.header-row th {
+  cursor: pointer;
+}
+
+.header-row th.sortable:hover {
+  color: #0ea5e9;
+}
+
+.sort-icon {
+  margin-left: 2px;
+}
+
+.result-count {
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+  color: #94a3b8;
+}
+
+.leaderboard-table td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #334155;
+  font-size: 0.9rem;
+}
+
+.leaderboard-table tbody tr.row-main {
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.leaderboard-table tbody tr.row-main:hover {
+  background: #334155;
+}
+
+.leaderboard-table tbody tr.row-main.expanded {
+  background: #334155;
+}
+
+.leaderboard-table .name {
+  font-weight: 500;
+  color: #f8fafc;
+}
+
+.leaderboard-table .ups-value {
+  color: #22c55e;
+  font-size: 1rem;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.2em 0.5em;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.badge.starter {
+  background: #0ea5e9;
+  color: #0f172a;
+}
+
+.badge.reliever {
+  background: #8b5cf6;
+  color: #fff;
+}
+
+.expand-icon {
+  font-size: 1.2rem;
+  color: #94a3b8;
+  font-weight: 300;
+}
+
+.row-detail td {
+  padding: 0;
+  border-bottom: 1px solid #334155;
+  background: #0f172a;
+  vertical-align: top;
+}

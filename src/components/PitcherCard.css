@@ -1,0 +1,104 @@
+.pitcher-card {
+  padding: 1.5rem 2rem;
+}
+
+.card-title {
+  margin: 0 0 1.25rem;
+  font-size: 1.1rem;
+  color: #f8fafc;
+}
+
+.traditional-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.5rem;
+  margin-bottom: 1.25rem;
+  padding: 0.75rem 1rem;
+  background: #1e293b;
+  border-radius: 8px;
+  border: 1px solid #334155;
+}
+
+.traditional-stat {
+  font-size: 0.9rem;
+  color: #cbd5e1;
+}
+
+.traditional-stat strong {
+  color: #94a3b8;
+  margin-right: 0.25rem;
+}
+
+.indices-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.index-block {
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.index-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.5rem;
+}
+
+.index-name {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #e2e8f0;
+}
+
+.index-weight {
+  font-size: 0.75rem;
+  color: #0ea5e9;
+}
+
+.index-values {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.value-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  color: #94a3b8;
+}
+
+.value-row .norm-value {
+  color: #22c55e;
+  font-weight: 600;
+}
+
+.components-section h4 {
+  margin: 0 0 0.75rem;
+  font-size: 0.9rem;
+  color: #94a3b8;
+}
+
+.components-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.5rem 1.5rem;
+}
+
+.components-grid div {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: #cbd5e1;
+}
+
+.components-grid div span:last-child {
+  font-weight: 500;
+  margin-left: 0.5rem;
+}
