@@ -104,6 +104,64 @@
   color: #0f172a;
 }
 
+.season-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 1rem 0;
+}
+
+.season-controls label {
+  font-size: 0.9rem;
+  color: #94a3b8;
+}
+
+.season-controls select,
+.player-search {
+  padding: 0.45rem 0.75rem;
+  border: 1px solid #334155;
+  background: #1e293b;
+  color: #e2e8f0;
+  border-radius: 6px;
+  font-size: 0.9rem;
+}
+
+.player-search {
+  min-width: 200px;
+}
+
+.live-timestamps {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  font-size: 0.85rem;
+  color: #94a3b8;
+  margin-bottom: 0.75rem;
+}
+
+.sample-size-notice {
+  background: #1e3a5f;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  font-size: 0.88rem;
+  color: #cbd5e1;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+.refresh-data-notice {
+  background: #1a2e1a;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  font-size: 0.88rem;
+  color: #cbd5e1;
+  margin-bottom: 0.75rem;
+  line-height: 1.5;
+}
+
 .loading {
   text-align: center;
   padding: 3rem;

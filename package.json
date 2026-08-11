@@ -8,6 +8,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "data": "python scripts/fetch_pitcher_data.py",
+    "data:2026": "python scripts/fetch_2026_pitcher_data.py",
+    "data:live": "python scripts/refresh_mlb_pitcher_live.py",
     "data:venv": ".venv/bin/python scripts/fetch_pitcher_data.py"
   },
   "dependencies": {

@@ -5,16 +5,85 @@ export default function AboutPage() {
     <article className="about-page">
       <h3>Project Overview</h3>
       <p>
-        This project identifies undervalued MLB pitchers from the 2025 season. First, all the basic and advanced
-        statistics are listed on a comprehensive table with lots of filtering options for both starting and relief
-        pitchers from the 2025 season. However, certain sample sizes must have been met as starters needed to have
-        pitched at least 80 innings while relievers needed to have pitched at least 30 innings.
+        This project identifies undervalued MLB pitchers. First, all the basic and advanced statistics are listed on a
+        comprehensive table with lots of filtering options for both starting and relief pitchers. Traditional metrics
+        like ERA and wins often misrepresent true pitcher skill. By incorporating advanced metrics such as xERA, FIP,
+        SIERA, K-BB%, and contact quality indicators, this model isolates sustainable performance and regression
+        candidates.
       </p>
 
+      <h3>2026 Live Season</h3>
       <p>
-        Traditional metrics like ERA and wins often misrepresent true pitcher skill. By incorporating advanced metrics
-        such as xERA, FIP, SIERA, K-BB%, and contact quality indicators, this model isolates sustainable performance
-        and regression candidates.
+        The app now includes a <strong>2026 Live Season</strong> view alongside the frozen 2025 full-season benchmark.
+        Use the season dropdown in the header to switch between them. Updates run on two schedules because UPS
+        depends heavily on advanced metrics that are not available from the MLB box-score API alone.
+      </p>
+
+      <h4>Two refresh tiers</h4>
+      <ul className="index-weights">
+        <li>
+          <strong>Counting stats (~every 2 hours)</strong> — IP, ERA, strikeouts, walks, WHIP, wins/losses,
+          saves, and holds from the MLB Stats API. These show up quickly on the stats tabs.
+        </li>
+        <li>
+          <strong>UPS / advanced stats (~4× per day)</strong> — xERA, barrel%, hard-hit%, WAR, and the full
+          six-index UPS calculation from Statcast and Baseball Reference.{' '}
+          <strong>Raw UPS only changes on this schedule.</strong> Most of the UPS formula weight sits here:
+          Run Prevention (25%) uses xERA/FIP/SIERA, Salary Efficiency (15%) uses WAR, Stuff Quality (10%) uses
+          contact metrics, and Luck Adjustment (15%) uses xERA and BABIP.
+        </li>
+      </ul>
+      <p>
+        Between Statcast refreshes, <strong>Reliability %</strong> and <strong>Adj. UPS</strong> can still move
+        when IP updates (more innings → higher reliability → Adj. UPS drifts toward Raw UPS), but{' '}
+        <strong>Raw UPS itself stays frozen</strong> until the next full Statcast pull. Check both timestamps
+        in the header when judging how current a ranking is.
+      </p>
+      <p>
+        Unlike 2025, the 2026 view includes every pitcher with Statcast data and does not require a minimum innings
+        threshold. Because early-season samples can be noisy, the leaderboard uses a <strong>reliability-adjusted UPS</strong>{' '}
+        that regresses scores toward the league average for pitchers with fewer innings. Rows highlighted in{' '}
+        <strong>yellow</strong> flag low sample sizes — treat those pitchers with caution until they accumulate more
+        innings.
+      </p>
+
+      <h4>2026 leaderboard columns: Raw UPS, Reliability %, and Adj. UPS</h4>
+      <p>
+        The 2026 UPS Leaderboard shows three related columns. They use the same six-index UPS formula as 2025 — the
+        only difference is how much we trust that score based on innings pitched.
+      </p>
+      <ul className="index-weights">
+        <li>
+          <strong>Raw UPS</strong> — The standard Undervalued Pitcher Score computed from the six weighted indexes
+          (Dominance, Command, Run Prevention, Stuff, Luck Adjustment, Salary Efficiency). This is the same UPS
+          calculation used in 2025. A reliever with 10 IP and great rate stats can still show a very high Raw UPS
+          even though that score is mostly noise.
+        </li>
+        <li>
+          <strong>Reliability %</strong> — How much weight we give to that pitcher&apos;s Raw UPS based on sample
+          size. It is calculated as <strong>IP ÷ (IP + k)</strong>, where <em>k</em> is 40 for starters and 20 for
+          relievers. More innings → higher Reliability %. At 40 IP a starter is at 50% reliability; at 80 IP, about
+          67%. At 20 IP a reliever is at 50%; at 40 IP, about 67%.
+        </li>
+        <li>
+          <strong>Adj. UPS (Adjusted UPS)</strong> — The score used to rank the 2026 leaderboard. It blends Raw UPS
+          with a neutral score of 50 (league-average UPS on the 0–100 scale):{' '}
+          <strong>Adj. UPS = (Reliability × Raw UPS) + ((1 − Reliability) × 50)</strong>. A pitcher with low IP
+          gets pulled toward 50; a pitcher with lots of IP looks almost identical to their Raw UPS. Example: Raw UPS
+          of 80 with 20% reliability → Adj. UPS of 56 (mostly regressed). Same Raw UPS with 80% reliability → Adj.
+          UPS of 74 (mostly trusted).
+        </li>
+      </ul>
+      <p>
+        <strong>Which column should you use?</strong> For 2026 rankings, use <strong>Adj. UPS</strong>. Check{' '}
+        <strong>Raw UPS</strong> to see how extreme the underlying metrics look before sample-size adjustment, and
+        check <strong>Reliability %</strong> (and yellow highlighting) to decide how much to trust either number.
+      </p>
+
+      <h3>2025 Full Season</h3>
+      <p>
+        The 2025 view is a completed-season snapshot. Starters needed at least 80 innings pitched and relievers at
+        least 30 innings to qualify. Rankings use raw UPS with no reliability adjustment.
       </p>
 
       <p>

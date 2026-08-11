@@ -25,6 +25,5 @@ __pycache__/
 *.swo
 .DS_Store
 
-# Logs
-*.log
-npm-debug.log*
+# Subprojects (separate repos / deployments)
+Stuff_Quality/

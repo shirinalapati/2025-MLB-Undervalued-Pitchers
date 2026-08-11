@@ -1,5 +1,6 @@
 import React, { useState, useMemo, useEffect } from 'react'
 import type { PitcherData } from '../types'
+import { pitcherMatchesTeam } from '../utils/teams'
 import PitcherCard from './PitcherCard'
 import './Leaderboard.css'
 
@@ -13,6 +14,8 @@ type SortKey =
   | 'WAR'
   | 'salary'
   | 'UPS'
+  | 'adjusted_UPS'
+  | 'reliability_pct'
   | 'SV'
   | 'HLD'
   | 'H'
@@ -40,6 +43,7 @@ interface LeaderboardProps {
   pitchers: PitcherData[]
   showUPSColumn?: boolean
   showTraditionalStats?: boolean
+  isLiveSeason?: boolean
 }
 
 /** Get stat from top-level or components for display/sort. */
@@ -63,6 +67,22 @@ const MLB_TEAMS = [
 ]
 
 /** 5 columns for UPS Leaderboard tab only */
+const UPS_LEADERBOARD_COLUMNS_LIVE: {
+  key: SortKey
+  label: string
+  filterable?: 'text' | 'number' | 'select'
+  filterMode?: 'min' | 'max'
+}[] = [
+  { key: 'rank', label: 'Rank', filterable: 'number', filterMode: 'max' },
+  { key: 'name', label: 'Name', filterable: 'text' },
+  { key: 'team', label: 'Team', filterable: 'select' },
+  { key: 'role', label: 'Role' },
+  { key: 'IP', label: 'IP', filterable: 'number', filterMode: 'min' },
+  { key: 'adjusted_UPS', label: 'Adj. UPS', filterable: 'number', filterMode: 'min' },
+  { key: 'UPS', label: 'Raw UPS', filterable: 'number', filterMode: 'min' },
+  { key: 'reliability_pct', label: 'Reliability %', filterable: 'number', filterMode: 'min' },
+]
+
 const UPS_LEADERBOARD_COLUMNS: {
   key: SortKey
   label: string
@@ -121,29 +141,32 @@ function lastName(p: PitcherData): string {
   return parts.length > 1 ? parts[parts.length - 1] : p.name
 }
 
-function Leaderboard({ pitchers, showUPSColumn = true, showTraditionalStats = false }: LeaderboardProps) {
+function Leaderboard({ pitchers, showUPSColumn = true, showTraditionalStats = false, isLiveSeason = false }: LeaderboardProps) {
   const [expandedId, setExpandedId] = useState<number | null>(null)
-  const [sortKey, setSortKey] = useState<SortKey>(showUPSColumn ? 'UPS' : 'name')
+  const defaultSort: SortKey = showUPSColumn ? (isLiveSeason ? 'adjusted_UPS' : 'UPS') : 'name'
+  const [sortKey, setSortKey] = useState<SortKey>(defaultSort)
   const [sortDir, setSortDir] = useState<SortDir>(showUPSColumn ? 'desc' : 'asc')
   const [filters, setFilters] = useState<Record<string, string>>({})
 
   const COLUMNS = useMemo(
     () =>
       showUPSColumn
-        ? UPS_LEADERBOARD_COLUMNS
+        ? isLiveSeason
+          ? UPS_LEADERBOARD_COLUMNS_LIVE
+          : UPS_LEADERBOARD_COLUMNS
         : ALL_COLUMNS.filter((c) => c.includeWhenUPSHidden !== false),
-    [showUPSColumn]
+    [showUPSColumn, isLiveSeason]
   )
 
   useEffect(() => {
     if (showUPSColumn) {
-      setSortKey('UPS')
+      setSortKey(isLiveSeason ? 'adjusted_UPS' : 'UPS')
       setSortDir('desc')
     } else {
       setSortKey('name')
       setSortDir('asc')
     }
-  }, [showUPSColumn])
+  }, [showUPSColumn, isLiveSeason])
 
   const formatSalary = (n: number) =>
     new Intl.NumberFormat('en-US', {
@@ -170,7 +193,7 @@ function Leaderboard({ pitchers, showUPSColumn = true, showTraditionalStats = fa
         )
       } else if (col.filterable === 'select') {
         if (col.key === 'team') {
-          list = list.filter((p) => p.team.split('/').some((t) => t.trim().toLowerCase() === val.toLowerCase()))
+          list = list.filter((p) => pitcherMatchesTeam(p.team, val))
         } else {
           list = list.filter(
             (p) => String((p as unknown as Record<string, unknown>)[col.key]).toLowerCase() === val.toLowerCase()
@@ -232,6 +255,15 @@ function Leaderboard({ pitchers, showUPSColumn = true, showTraditionalStats = fa
         {showUPSColumn && (
           <div className="ups-formulas">
             <p className="ups-formula">UPS = 0.2(DI) + 0.15(CCI) + 0.25(RPSI) + 0.1(SQI) + 0.15(LAI) + 0.15(SEI)</p>
+            {isLiveSeason && (
+              <p className="formula-note">
+                Raw UPS and index scores refresh with Statcast (~4× daily). Counting stats (IP, ERA, K, BB) update
+                more often via the MLB API; Reliability % and Adj. UPS can shift between Statcast runs as IP changes.
+              </p>
+            )}
+            {isLiveSeason && (
+              <p className="index-formula">Adj. UPS = reliability × UPS + (1 − reliability) × 50, where reliability = IP / (IP + k)</p>
+            )}
             <p className="index-formula">Dominance Index (DI) = 0.6(K-BB%) + 0.4(K%)</p>
             <p className="index-formula">Command &amp; Control Index (CCI) = 100 − BB%</p>
             <p className="index-formula">Run Prevention Skill Index (RPSI) = 1/3(xERA + FIP + SIERA)</p>
@@ -308,7 +340,7 @@ function Leaderboard({ pitchers, showUPSColumn = true, showTraditionalStats = fa
             {filteredAndSorted.map((p, idx) => (
               <React.Fragment key={`${p.name}-${p.team}-${idx}`}>
                 <tr
-                  className={`row-main ${expandedId === p.rank ? 'expanded' : ''}`}
+                  className={`row-main ${expandedId === p.rank ? 'expanded' : ''} ${isLiveSeason && p.low_sample ? 'low-sample' : ''}`}
                   onClick={() => setExpandedId(expandedId === p.rank ? null : p.rank)}
                 >
                   {COLUMNS.map((col) => {
@@ -316,8 +348,16 @@ function Leaderboard({ pitchers, showUPSColumn = true, showTraditionalStats = fa
                     const raw = (p as unknown as Record<string, unknown>)[col.key]
                     const displayVal: unknown = col.key === 'rank' ? p.rank : col.key === 'name' ? p.name : col.key === 'team' ? p.team : col.key === 'salary' ? formatSalary(p.salary) : v ?? raw
                     const num = typeof displayVal === 'number' ? displayVal : parseFloat(String(displayVal))
+                    const isUpsCol = col.key === 'UPS' || col.key === 'adjusted_UPS'
+                    const isIpCol = col.key === 'IP'
                     return (
-                      <td key={col.key} className={col.key === 'name' ? 'name' : ''}>
+                      <td
+                        key={col.key}
+                        className={[
+                          col.key === 'name' ? 'name' : '',
+                          isLiveSeason && p.low_sample && isIpCol ? 'low-sample-ip' : '',
+                        ].filter(Boolean).join(' ')}
+                      >
                         {col.key === 'name' ? (
                           String(displayVal ?? '')
                         ) : col.key === 'team' ? (
@@ -326,7 +366,7 @@ function Leaderboard({ pitchers, showUPSColumn = true, showTraditionalStats = fa
                           typeof p.salary === 'number' && !Number.isNaN(p.salary) ? formatSalary(p.salary) : '—'
                         ) : col.key === 'role' ? (
                           <span className={`badge ${displayVal}`}>{String(displayVal ?? '')}</span>
-                        ) : col.key === 'UPS' ? (
+                        ) : isUpsCol ? (
                           <strong className="ups-value">{typeof displayVal === 'number' ? (displayVal as number).toFixed(1) : String(displayVal ?? '')}</strong>
                         ) : displayVal === undefined || displayVal === null ? (
                           '—'
@@ -334,7 +374,7 @@ function Leaderboard({ pitchers, showUPSColumn = true, showTraditionalStats = fa
                           num.toFixed(3)
                         ) : col.key === 'fb_velo' ? (
                           `${num} mph`
-                        ) : ['K_pct', 'BB_pct', 'hardhit_pct', 'barrel_pct', 'LOB_pct'].includes(col.key) ? (
+                        ) : ['K_pct', 'BB_pct', 'hardhit_pct', 'barrel_pct', 'LOB_pct', 'reliability_pct'].includes(col.key) ? (
                           `${num}%`
                         ) : col.key === 'ERA' || col.key === 'WAR' ? (
                           typeof displayVal === 'number' ? (displayVal as number).toFixed(2) : String(displayVal)

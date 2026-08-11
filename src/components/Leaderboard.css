@@ -132,6 +132,19 @@
   background: #334155;
 }
 
+.leaderboard-table tbody tr.row-main.low-sample {
+  background: #3d3520;
+}
+
+.leaderboard-table tbody tr.row-main.low-sample:hover {
+  background: #4a4028;
+}
+
+.leaderboard-table td.low-sample-ip {
+  color: #fbbf24;
+  font-weight: 700;
+}
+
 .leaderboard-table .name {
   font-weight: 500;
   color: #f8fafc;

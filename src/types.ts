@@ -8,6 +8,14 @@ export interface PitcherData {
   salary: number
   rank: number
   UPS: number
+  /** MLBAM id — present on 2026 live records */
+  player_id?: number
+  season?: number
+  /** Sample-size-adjusted UPS for 2026 live season */
+  adjusted_UPS?: number
+  reliability_pct?: number
+  low_sample?: boolean
+  low_sample_threshold?: number
   /** Raw strikeouts */
   K?: number
   /** Raw walks */
