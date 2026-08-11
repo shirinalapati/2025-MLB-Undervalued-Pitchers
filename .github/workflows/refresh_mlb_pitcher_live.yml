@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: mlb-pitcher-live-2026
+  group: pitchers-2026-data
   cancel-in-progress: false
 
 permissions:
@@ -56,4 +56,5 @@ jobs:
             exit 0
           fi
           git commit -m "chore: MLB live pitcher refresh [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          git push
+          git pull --rebase origin main
+          git push origin main
