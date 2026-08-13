@@ -64,7 +64,7 @@
     "reliability_pct": 76.9,
     "adjusted_UPS": 79.3,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 146.2,
@@ -131,7 +131,7 @@
     "reliability_pct": 78.5,
     "adjusted_UPS": 77.98,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 155.2,
@@ -198,7 +198,7 @@
     "reliability_pct": 79.5,
     "adjusted_UPS": 73.32,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 62.1,
@@ -399,7 +399,7 @@
     "reliability_pct": 77.5,
     "adjusted_UPS": 72.06,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 142.1,
@@ -466,7 +466,7 @@
     "reliability_pct": 78.0,
     "adjusted_UPS": 71.65,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 51.1,
@@ -600,7 +600,7 @@
     "reliability_pct": 73.9,
     "adjusted_UPS": 70.94,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 135.2,
@@ -667,7 +667,7 @@
     "reliability_pct": 77.2,
     "adjusted_UPS": 70.77,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 136.1,
@@ -734,7 +734,7 @@
     "reliability_pct": 77.3,
     "adjusted_UPS": 70.71,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 85.2,
@@ -801,7 +801,7 @@
     "reliability_pct": 68.1,
     "adjusted_UPS": 70.63,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 80.0,
@@ -868,7 +868,7 @@
     "reliability_pct": 66.7,
     "adjusted_UPS": 70.48,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 77.0,
@@ -1002,7 +1002,7 @@
     "reliability_pct": 76.2,
     "adjusted_UPS": 70.2,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 51.2,
@@ -1093,7 +1093,7 @@
     "HR": 13,
     "SV": 0,
     "HLD": 0,
-    "W": 7,
+    "W": 8,
     "L": 6,
     "K9": 10.02,
     "WHIP": 1.06,
@@ -1136,7 +1136,7 @@
     "reliability_pct": 74.2,
     "adjusted_UPS": 70.11,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 136.2,
@@ -1203,7 +1203,7 @@
     "reliability_pct": 77.3,
     "adjusted_UPS": 70.06,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 58.1,
@@ -1337,7 +1337,7 @@
     "reliability_pct": 76.3,
     "adjusted_UPS": 69.74,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 64.1,
@@ -1471,7 +1471,7 @@
     "reliability_pct": 75.0,
     "adjusted_UPS": 68.83,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 55.0,
@@ -1672,7 +1672,7 @@
     "reliability_pct": 75.5,
     "adjusted_UPS": 68.71,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 61.1,
@@ -1806,7 +1806,7 @@
     "reliability_pct": 76.6,
     "adjusted_UPS": 68.58,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 48.1,
@@ -2074,7 +2074,7 @@
     "reliability_pct": 78.2,
     "adjusted_UPS": 68.36,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 65.1,
@@ -2208,7 +2208,7 @@
     "reliability_pct": 78.3,
     "adjusted_UPS": 68.23,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 141.1,
@@ -2275,7 +2275,7 @@
     "reliability_pct": 77.9,
     "adjusted_UPS": 68.17,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 59.2,
@@ -2409,7 +2409,7 @@
     "reliability_pct": 66.7,
     "adjusted_UPS": 68.08,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 54.2,
@@ -2543,7 +2543,7 @@
     "reliability_pct": 72.8,
     "adjusted_UPS": 67.85,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 45.1,
@@ -2744,7 +2744,7 @@
     "reliability_pct": 71.7,
     "adjusted_UPS": 67.61,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 47.2,
@@ -2945,7 +2945,7 @@
     "reliability_pct": 74.2,
     "adjusted_UPS": 67.57,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 113.2,
@@ -3012,7 +3012,7 @@
     "reliability_pct": 73.9,
     "adjusted_UPS": 67.52,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 47.2,
@@ -3213,7 +3213,7 @@
     "reliability_pct": 77.0,
     "adjusted_UPS": 67.43,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 55.1,
@@ -3347,7 +3347,7 @@
     "reliability_pct": 77.7,
     "adjusted_UPS": 67.31,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 75.0,
@@ -3481,7 +3481,7 @@
     "reliability_pct": 78.4,
     "adjusted_UPS": 67.25,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 44.0,
@@ -3615,7 +3615,7 @@
     "reliability_pct": 74.4,
     "adjusted_UPS": 67.24,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 117.1,
@@ -3682,7 +3682,7 @@
     "reliability_pct": 74.5,
     "adjusted_UPS": 67.23,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 78.1,
@@ -3749,7 +3749,7 @@
     "reliability_pct": 66.1,
     "adjusted_UPS": 67.21,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 125.0,
@@ -3816,7 +3816,7 @@
     "reliability_pct": 75.8,
     "adjusted_UPS": 67.2,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 48.2,
@@ -4084,7 +4084,7 @@
     "reliability_pct": 75.6,
     "adjusted_UPS": 67.08,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 131.2,
@@ -4151,7 +4151,7 @@
     "reliability_pct": 76.6,
     "adjusted_UPS": 67.04,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 93.1,
@@ -4218,7 +4218,74 @@
     "reliability_pct": 69.9,
     "adjusted_UPS": 66.98,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
+  },
+  {
+    "IP": 136.2,
+    "ERA": 3.36,
+    "WAR": 1.74,
+    "salary": 5047363.0,
+    "K": 151,
+    "BB": 41,
+    "K_pct": 26.1,
+    "BB_pct": 7.1,
+    "xERA": 4.12,
+    "FIP": 3.32,
+    "SIERA": 3.43,
+    "fb_velo": 93.0,
+    "hardhit_pct": 40.6,
+    "barrel_pct": 7.5,
+    "BABIP": 0.329,
+    "LOB_pct": 65.4,
+    "H": 129,
+    "ER": 51,
+    "HR": 15,
+    "SV": 0,
+    "HLD": 0,
+    "W": 10,
+    "L": 5,
+    "K9": 9.98,
+    "WHIP": 1.24,
+    "role": "starter",
+    "raw": {
+      "DI": 21.3,
+      "CCI": 92.93,
+      "RPSI": 3.66,
+      "SQI": 44.9,
+      "LAI": -7.15,
+      "SEI": 0.3447
+    },
+    "components": {
+      "K_pct": 26.1,
+      "BB_pct": 7.1,
+      "K_BB_pct": 19.0,
+      "xERA": 4.12,
+      "FIP": 3.32,
+      "SIERA": 3.43,
+      "Velo": 93.0,
+      "HardHit_pct": 40.6,
+      "Barrel_pct": 7.5,
+      "BABIP": 0.329,
+      "LOB_pct": 65.4
+    },
+    "name": "Cade Cavalli",
+    "team": "WSN",
+    "player_id": 676917,
+    "season": 2026,
+    "normalized": {
+      "DI": 64.12,
+      "CCI": 85.86,
+      "RPSI": 97.95,
+      "SQI": 75.95,
+      "LAI": 67.54,
+      "SEI": 26.98
+    },
+    "UPS": 71.96,
+    "rank": 64,
+    "reliability_pct": 77.3,
+    "adjusted_UPS": 66.97,
+    "low_sample": false,
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 67.1,
@@ -4281,7 +4348,7 @@
       "SEI": 33.62
     },
     "UPS": 72.01,
-    "rank": 64,
+    "rank": 65,
     "reliability_pct": 77.0,
     "adjusted_UPS": 66.96,
     "low_sample": false,
@@ -4348,11 +4415,11 @@
       "SEI": 50.0
     },
     "UPS": 74.38,
-    "rank": 65,
+    "rank": 66,
     "reliability_pct": 69.5,
     "adjusted_UPS": 66.95,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 66.1,
@@ -4415,78 +4482,11 @@
       "SEI": 24.53
     },
     "UPS": 72.08,
-    "rank": 66,
+    "rank": 67,
     "reliability_pct": 76.8,
     "adjusted_UPS": 66.95,
     "low_sample": false,
     "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 133.2,
-    "ERA": 3.43,
-    "WAR": 1.74,
-    "salary": 5047363.0,
-    "K": 147,
-    "BB": 39,
-    "K_pct": 25.9,
-    "BB_pct": 6.9,
-    "xERA": 4.12,
-    "FIP": 3.34,
-    "SIERA": 3.43,
-    "fb_velo": 93.0,
-    "hardhit_pct": 40.6,
-    "barrel_pct": 7.5,
-    "BABIP": 0.329,
-    "LOB_pct": 65.4,
-    "H": 128,
-    "ER": 51,
-    "HR": 15,
-    "SV": 0,
-    "HLD": 0,
-    "W": 9,
-    "L": 5,
-    "K9": 9.93,
-    "WHIP": 1.25,
-    "role": "starter",
-    "raw": {
-      "DI": 21.3,
-      "CCI": 92.93,
-      "RPSI": 3.66,
-      "SQI": 44.9,
-      "LAI": -7.15,
-      "SEI": 0.3447
-    },
-    "components": {
-      "K_pct": 25.9,
-      "BB_pct": 6.9,
-      "K_BB_pct": 19.0,
-      "xERA": 4.12,
-      "FIP": 3.34,
-      "SIERA": 3.43,
-      "Velo": 93.0,
-      "HardHit_pct": 40.6,
-      "Barrel_pct": 7.5,
-      "BABIP": 0.329,
-      "LOB_pct": 65.4
-    },
-    "name": "Cade Cavalli",
-    "team": "WSN",
-    "player_id": 676917,
-    "season": 2026,
-    "normalized": {
-      "DI": 64.12,
-      "CCI": 85.86,
-      "RPSI": 97.95,
-      "SQI": 75.95,
-      "LAI": 67.54,
-      "SEI": 26.98
-    },
-    "UPS": 71.96,
-    "rank": 67,
-    "reliability_pct": 76.9,
-    "adjusted_UPS": 66.89,
-    "low_sample": false,
-    "low_sample_threshold": 29.7
   },
   {
     "IP": 46.1,
@@ -4620,7 +4620,7 @@
     "reliability_pct": 70.0,
     "adjusted_UPS": 66.85,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 125.2,
@@ -4687,7 +4687,7 @@
     "reliability_pct": 75.8,
     "adjusted_UPS": 66.83,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 34.0,
@@ -4821,7 +4821,7 @@
     "reliability_pct": 76.8,
     "adjusted_UPS": 66.79,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 135.0,
@@ -4888,7 +4888,7 @@
     "reliability_pct": 77.1,
     "adjusted_UPS": 66.79,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 50.0,
@@ -5022,7 +5022,7 @@
     "reliability_pct": 77.4,
     "adjusted_UPS": 66.72,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 118.2,
@@ -5089,7 +5089,7 @@
     "reliability_pct": 74.7,
     "adjusted_UPS": 66.71,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 163.2,
@@ -5156,7 +5156,7 @@
     "reliability_pct": 80.3,
     "adjusted_UPS": 66.62,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 119.2,
@@ -5223,7 +5223,7 @@
     "reliability_pct": 74.9,
     "adjusted_UPS": 66.58,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 61.2,
@@ -5491,7 +5491,7 @@
     "reliability_pct": 58.4,
     "adjusted_UPS": 66.43,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 47.1,
@@ -5759,7 +5759,7 @@
     "reliability_pct": 76.8,
     "adjusted_UPS": 66.37,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 125.2,
@@ -5826,7 +5826,7 @@
     "reliability_pct": 75.8,
     "adjusted_UPS": 66.35,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 126.2,
@@ -5893,7 +5893,7 @@
     "reliability_pct": 75.9,
     "adjusted_UPS": 66.34,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 138.0,
@@ -5960,7 +5960,7 @@
     "reliability_pct": 77.5,
     "adjusted_UPS": 66.31,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 132.0,
@@ -6027,7 +6027,7 @@
     "reliability_pct": 76.7,
     "adjusted_UPS": 66.3,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 99.0,
@@ -6094,7 +6094,7 @@
     "reliability_pct": 71.2,
     "adjusted_UPS": 66.29,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 40.0,
@@ -6295,7 +6295,7 @@
     "reliability_pct": 75.2,
     "adjusted_UPS": 66.26,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 49.1,
@@ -6429,7 +6429,7 @@
     "reliability_pct": 76.9,
     "adjusted_UPS": 66.2,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 37.1,
@@ -6563,7 +6563,7 @@
     "reliability_pct": 73.0,
     "adjusted_UPS": 66.17,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 27.0,
@@ -6634,7 +6634,7 @@
   },
   {
     "IP": 139.0,
-    "ERA": 4.47,
+    "ERA": 4.53,
     "WAR": 1.44,
     "salary": 23000000.0,
     "K": 138,
@@ -6649,15 +6649,15 @@
     "barrel_pct": 7.3,
     "BABIP": 0.309,
     "LOB_pct": 58.8,
-    "H": 137,
-    "ER": 69,
+    "H": 139,
+    "ER": 70,
     "HR": 17,
     "SV": 0,
     "HLD": 0,
     "W": 6,
-    "L": 10,
+    "L": 11,
     "K9": 8.94,
-    "WHIP": 1.26,
+    "WHIP": 1.27,
     "role": "starter",
     "raw": {
       "DI": 19.22,
@@ -6697,7 +6697,7 @@
     "reliability_pct": 77.7,
     "adjusted_UPS": 66.13,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 55.1,
@@ -6831,7 +6831,7 @@
     "reliability_pct": 74.4,
     "adjusted_UPS": 66.11,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 65.2,
@@ -6965,7 +6965,7 @@
     "reliability_pct": 65.6,
     "adjusted_UPS": 66.09,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 57.0,
@@ -7099,7 +7099,7 @@
     "reliability_pct": 79.0,
     "adjusted_UPS": 66.07,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 144.1,
@@ -7166,7 +7166,7 @@
     "reliability_pct": 78.3,
     "adjusted_UPS": 65.97,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 43.2,
@@ -7367,7 +7367,7 @@
     "reliability_pct": 76.9,
     "adjusted_UPS": 65.88,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 134.0,
@@ -7434,7 +7434,7 @@
     "reliability_pct": 77.0,
     "adjusted_UPS": 65.87,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 50.0,
@@ -7568,7 +7568,7 @@
     "reliability_pct": 75.5,
     "adjusted_UPS": 65.85,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 85.0,
@@ -7635,7 +7635,7 @@
     "reliability_pct": 68.0,
     "adjusted_UPS": 65.81,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 111.0,
@@ -7702,7 +7702,7 @@
     "reliability_pct": 73.5,
     "adjusted_UPS": 65.8,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 51.1,
@@ -7970,7 +7970,7 @@
     "reliability_pct": 76.5,
     "adjusted_UPS": 65.74,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 48.0,
@@ -8439,7 +8439,7 @@
     "reliability_pct": 69.9,
     "adjusted_UPS": 65.59,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 45.1,
@@ -8707,7 +8707,7 @@
     "reliability_pct": 75.2,
     "adjusted_UPS": 65.52,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 111.0,
@@ -8774,7 +8774,7 @@
     "reliability_pct": 73.5,
     "adjusted_UPS": 65.45,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 96.0,
@@ -8841,7 +8841,7 @@
     "reliability_pct": 70.6,
     "adjusted_UPS": 65.43,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 143.1,
@@ -8908,7 +8908,7 @@
     "reliability_pct": 78.2,
     "adjusted_UPS": 65.43,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 52.0,
@@ -9042,7 +9042,7 @@
     "reliability_pct": 76.3,
     "adjusted_UPS": 65.4,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 139.1,
@@ -9109,7 +9109,7 @@
     "reliability_pct": 77.7,
     "adjusted_UPS": 65.39,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 86.1,
@@ -9176,7 +9176,7 @@
     "reliability_pct": 68.3,
     "adjusted_UPS": 65.32,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 68.0,
@@ -9243,7 +9243,7 @@
     "reliability_pct": 63.0,
     "adjusted_UPS": 65.31,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 126.0,
@@ -9310,7 +9310,7 @@
     "reliability_pct": 75.9,
     "adjusted_UPS": 65.3,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 122.0,
@@ -9377,7 +9377,7 @@
     "reliability_pct": 75.3,
     "adjusted_UPS": 65.27,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 48.2,
@@ -9578,7 +9578,7 @@
     "reliability_pct": 68.5,
     "adjusted_UPS": 65.17,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 90.1,
@@ -9645,7 +9645,7 @@
     "reliability_pct": 69.3,
     "adjusted_UPS": 65.12,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 44.2,
@@ -9779,7 +9779,7 @@
     "reliability_pct": 68.3,
     "adjusted_UPS": 65.11,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 119.2,
@@ -9846,7 +9846,7 @@
     "reliability_pct": 74.9,
     "adjusted_UPS": 65.1,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 127.0,
@@ -9913,7 +9913,7 @@
     "reliability_pct": 76.0,
     "adjusted_UPS": 65.1,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 49.2,
@@ -10248,7 +10248,7 @@
     "reliability_pct": 76.6,
     "adjusted_UPS": 65.01,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 59.2,
@@ -10382,7 +10382,7 @@
     "reliability_pct": 64.3,
     "adjusted_UPS": 64.97,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 98.2,
@@ -10449,7 +10449,7 @@
     "reliability_pct": 71.1,
     "adjusted_UPS": 64.97,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 49.2,
@@ -10717,7 +10717,7 @@
     "reliability_pct": 75.8,
     "adjusted_UPS": 64.92,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 49.2,
@@ -11256,6 +11256,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 46.1,
+    "ERA": 3.88,
+    "WAR": 0.1,
+    "salary": 3116892.0,
+    "K": 45,
+    "BB": 15,
+    "K_pct": 23.1,
+    "BB_pct": 7.7,
+    "xERA": 3.42,
+    "FIP": 4.2,
+    "SIERA": 4.2,
+    "fb_velo": 93.0,
+    "hardhit_pct": 31.5,
+    "barrel_pct": 4.6,
+    "BABIP": 0.285,
+    "LOB_pct": 63.8,
+    "H": 42,
+    "ER": 20,
+    "HR": 7,
+    "SV": 1,
+    "HLD": 6,
+    "W": 3,
+    "L": 2,
+    "K9": 8.79,
+    "WHIP": 1.23,
+    "role": "reliever",
+    "raw": {
+      "DI": 18.64,
+      "CCI": 92.67,
+      "RPSI": 3.94,
+      "SQI": 56.9,
+      "LAI": -7.66,
+      "SEI": 0.0321
+    },
+    "components": {
+      "K_pct": 23.1,
+      "BB_pct": 7.7,
+      "K_BB_pct": 15.4,
+      "xERA": 3.42,
+      "FIP": 4.2,
+      "SIERA": 4.2,
+      "Velo": 93.0,
+      "HardHit_pct": 31.5,
+      "Barrel_pct": 4.6,
+      "BABIP": 0.285,
+      "LOB_pct": 63.8
+    },
+    "name": "Greg Weissert",
+    "team": "BOS",
+    "player_id": 669711,
+    "season": 2026,
+    "normalized": {
+      "DI": 60.8,
+      "CCI": 85.34,
+      "RPSI": 97.74,
+      "SQI": 81.95,
+      "LAI": 67.3,
+      "SEI": 23.08
+    },
+    "UPS": 71.15,
+    "rank": 169,
+    "reliability_pct": 69.7,
+    "adjusted_UPS": 64.75,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
+  },
+  {
     "IP": 39.2,
     "ERA": 2.04,
     "WAR": 1.25,
@@ -11316,75 +11383,8 @@
       "SEI": 24.13
     },
     "UPS": 72.13,
-    "rank": 169,
-    "reliability_pct": 66.2,
-    "adjusted_UPS": 64.65,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 45.1,
-    "ERA": 3.97,
-    "WAR": 0.1,
-    "salary": 3116892.0,
-    "K": 44,
-    "BB": 14,
-    "K_pct": 23.0,
-    "BB_pct": 7.3,
-    "xERA": 3.42,
-    "FIP": 4.2,
-    "SIERA": 4.2,
-    "fb_velo": 93.0,
-    "hardhit_pct": 31.5,
-    "barrel_pct": 4.6,
-    "BABIP": 0.285,
-    "LOB_pct": 63.8,
-    "H": 42,
-    "ER": 20,
-    "HR": 7,
-    "SV": 1,
-    "HLD": 6,
-    "W": 3,
-    "L": 2,
-    "K9": 8.78,
-    "WHIP": 1.24,
-    "role": "reliever",
-    "raw": {
-      "DI": 18.64,
-      "CCI": 92.67,
-      "RPSI": 3.94,
-      "SQI": 56.9,
-      "LAI": -7.66,
-      "SEI": 0.0321
-    },
-    "components": {
-      "K_pct": 23.0,
-      "BB_pct": 7.3,
-      "K_BB_pct": 15.7,
-      "xERA": 3.42,
-      "FIP": 4.2,
-      "SIERA": 4.2,
-      "Velo": 93.0,
-      "HardHit_pct": 31.5,
-      "Barrel_pct": 4.6,
-      "BABIP": 0.285,
-      "LOB_pct": 63.8
-    },
-    "name": "Greg Weissert",
-    "team": "BOS",
-    "player_id": 669711,
-    "season": 2026,
-    "normalized": {
-      "DI": 60.8,
-      "CCI": 85.34,
-      "RPSI": 97.74,
-      "SQI": 81.95,
-      "LAI": 67.3,
-      "SEI": 23.08
-    },
-    "UPS": 71.15,
     "rank": 170,
-    "reliability_pct": 69.3,
+    "reliability_pct": 66.2,
     "adjusted_UPS": 64.65,
     "low_sample": false,
     "low_sample_threshold": 8.0
@@ -11454,7 +11454,7 @@
     "reliability_pct": 72.6,
     "adjusted_UPS": 64.63,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 104.2,
@@ -11521,7 +11521,7 @@
     "reliability_pct": 72.3,
     "adjusted_UPS": 64.61,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 61.0,
@@ -11722,7 +11722,7 @@
     "reliability_pct": 74.7,
     "adjusted_UPS": 64.57,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 34.1,
@@ -11923,7 +11923,7 @@
     "reliability_pct": 72.6,
     "adjusted_UPS": 64.54,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 47.1,
@@ -12191,7 +12191,7 @@
     "reliability_pct": 76.9,
     "adjusted_UPS": 64.45,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 95.1,
@@ -12258,7 +12258,7 @@
     "reliability_pct": 70.4,
     "adjusted_UPS": 64.42,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 46.1,
@@ -12459,7 +12459,7 @@
     "reliability_pct": 75.5,
     "adjusted_UPS": 64.31,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 133.0,
@@ -12526,7 +12526,7 @@
     "reliability_pct": 76.9,
     "adjusted_UPS": 64.28,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 119.2,
@@ -12593,7 +12593,7 @@
     "reliability_pct": 74.9,
     "adjusted_UPS": 64.26,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 134.2,
@@ -12660,7 +12660,7 @@
     "reliability_pct": 77.0,
     "adjusted_UPS": 64.25,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 114.0,
@@ -12727,7 +12727,7 @@
     "reliability_pct": 74.0,
     "adjusted_UPS": 64.21,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 91.2,
@@ -12794,7 +12794,7 @@
     "reliability_pct": 69.5,
     "adjusted_UPS": 64.2,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 28.0,
@@ -13196,7 +13196,7 @@
     "reliability_pct": 73.7,
     "adjusted_UPS": 64.06,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 105.0,
@@ -13263,7 +13263,7 @@
     "reliability_pct": 72.4,
     "adjusted_UPS": 64.04,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 56.2,
@@ -13397,7 +13397,7 @@
     "reliability_pct": 63.3,
     "adjusted_UPS": 64.03,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 113.2,
@@ -13464,7 +13464,7 @@
     "reliability_pct": 73.9,
     "adjusted_UPS": 64.02,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 44.1,
@@ -13665,7 +13665,7 @@
     "reliability_pct": 73.4,
     "adjusted_UPS": 63.96,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 40.1,
@@ -14000,7 +14000,7 @@
     "reliability_pct": 72.6,
     "adjusted_UPS": 63.92,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 131.2,
@@ -14067,7 +14067,7 @@
     "reliability_pct": 76.6,
     "adjusted_UPS": 63.92,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 114.1,
@@ -14134,7 +14134,7 @@
     "reliability_pct": 74.0,
     "adjusted_UPS": 63.84,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 48.2,
@@ -14402,7 +14402,7 @@
     "reliability_pct": 68.1,
     "adjusted_UPS": 63.69,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 40.0,
@@ -14536,7 +14536,7 @@
     "reliability_pct": 54.0,
     "adjusted_UPS": 63.66,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 47.2,
@@ -14804,7 +14804,7 @@
     "reliability_pct": 73.3,
     "adjusted_UPS": 63.6,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 116.1,
@@ -14871,7 +14871,7 @@
     "reliability_pct": 74.4,
     "adjusted_UPS": 63.6,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 59.2,
@@ -15005,7 +15005,7 @@
     "reliability_pct": 75.2,
     "adjusted_UPS": 63.59,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 99.2,
@@ -15072,7 +15072,7 @@
     "reliability_pct": 71.3,
     "adjusted_UPS": 63.56,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 99.0,
@@ -15139,7 +15139,7 @@
     "reliability_pct": 71.2,
     "adjusted_UPS": 63.55,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 94.1,
@@ -15206,7 +15206,7 @@
     "reliability_pct": 70.2,
     "adjusted_UPS": 63.54,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 38.2,
@@ -15407,7 +15407,7 @@
     "reliability_pct": 64.0,
     "adjusted_UPS": 63.43,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 79.2,
@@ -15474,7 +15474,7 @@
     "reliability_pct": 66.4,
     "adjusted_UPS": 63.43,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 67.0,
@@ -15541,7 +15541,7 @@
     "reliability_pct": 62.6,
     "adjusted_UPS": 63.41,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 44.0,
@@ -15742,7 +15742,7 @@
     "reliability_pct": 73.9,
     "adjusted_UPS": 63.34,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 41.2,
@@ -15876,7 +15876,7 @@
     "reliability_pct": 68.6,
     "adjusted_UPS": 63.28,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 115.2,
@@ -15943,7 +15943,7 @@
     "reliability_pct": 74.2,
     "adjusted_UPS": 63.26,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 47.2,
@@ -16144,7 +16144,7 @@
     "reliability_pct": 55.2,
     "adjusted_UPS": 63.22,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 111.0,
@@ -16211,7 +16211,7 @@
     "reliability_pct": 73.5,
     "adjusted_UPS": 63.2,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 109.2,
@@ -16278,7 +16278,7 @@
     "reliability_pct": 73.2,
     "adjusted_UPS": 63.2,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 41.0,
@@ -16412,7 +16412,7 @@
     "reliability_pct": 72.0,
     "adjusted_UPS": 63.15,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 68.2,
@@ -16546,7 +16546,7 @@
     "reliability_pct": 67.3,
     "adjusted_UPS": 63.04,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 86.1,
@@ -16613,7 +16613,7 @@
     "reliability_pct": 68.3,
     "adjusted_UPS": 63.01,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 37.2,
@@ -16747,7 +16747,74 @@
     "reliability_pct": 68.8,
     "adjusted_UPS": 62.99,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
+  },
+  {
+    "IP": 87.1,
+    "ERA": 5.05,
+    "WAR": 0.57,
+    "salary": 19047930.0,
+    "K": 68,
+    "BB": 25,
+    "K_pct": 17.3,
+    "BB_pct": 6.3,
+    "xERA": 4.95,
+    "FIP": 5.04,
+    "SIERA": 5.13,
+    "fb_velo": 93.0,
+    "hardhit_pct": 45.1,
+    "barrel_pct": 9.8,
+    "BABIP": 0.341,
+    "LOB_pct": 63.7,
+    "H": 111,
+    "ER": 49,
+    "HR": 17,
+    "SV": 1,
+    "HLD": 0,
+    "W": 5,
+    "L": 7,
+    "K9": 7.03,
+    "WHIP": 1.56,
+    "role": "starter",
+    "raw": {
+      "DI": 13.65,
+      "CCI": 93.44,
+      "RPSI": 5.07,
+      "SQI": 38.1,
+      "LAI": -8.06,
+      "SEI": 0.0299
+    },
+    "components": {
+      "K_pct": 17.3,
+      "BB_pct": 6.3,
+      "K_BB_pct": 11.0,
+      "xERA": 4.95,
+      "FIP": 5.04,
+      "SIERA": 5.13,
+      "Velo": 93.0,
+      "HardHit_pct": 45.1,
+      "Barrel_pct": 9.8,
+      "BABIP": 0.341,
+      "LOB_pct": 63.7
+    },
+    "name": "Aaron Civale",
+    "team": "ATH/Chicago",
+    "player_id": 650644,
+    "season": 2026,
+    "normalized": {
+      "DI": 54.56,
+      "CCI": 86.88,
+      "RPSI": 96.92,
+      "SQI": 72.55,
+      "LAI": 67.11,
+      "SEI": 23.06
+    },
+    "UPS": 68.95,
+    "rank": 251,
+    "reliability_pct": 68.5,
+    "adjusted_UPS": 62.99,
+    "low_sample": false,
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 33.0,
@@ -16810,7 +16877,7 @@
       "SEI": 27.8
     },
     "UPS": 70.85,
-    "rank": 251,
+    "rank": 252,
     "reliability_pct": 62.3,
     "adjusted_UPS": 62.98,
     "low_sample": false,
@@ -16877,7 +16944,7 @@
       "SEI": 29.07
     },
     "UPS": 70.19,
-    "rank": 252,
+    "rank": 253,
     "reliability_pct": 64.3,
     "adjusted_UPS": 62.98,
     "low_sample": false,
@@ -16944,7 +17011,7 @@
       "SEI": 23.01
     },
     "UPS": 71.03,
-    "rank": 253,
+    "rank": 254,
     "reliability_pct": 61.6,
     "adjusted_UPS": 62.96,
     "low_sample": false,
@@ -17011,7 +17078,7 @@
       "SEI": 26.04
     },
     "UPS": 68.68,
-    "rank": 254,
+    "rank": 255,
     "reliability_pct": 69.3,
     "adjusted_UPS": 62.95,
     "low_sample": false,
@@ -17078,11 +17145,11 @@
       "SEI": 26.93
     },
     "UPS": 69.38,
-    "rank": 255,
+    "rank": 256,
     "reliability_pct": 66.7,
     "adjusted_UPS": 62.93,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 40.2,
@@ -17145,7 +17212,7 @@
       "SEI": 22.38
     },
     "UPS": 69.37,
-    "rank": 256,
+    "rank": 257,
     "reliability_pct": 66.8,
     "adjusted_UPS": 62.93,
     "low_sample": false,
@@ -17212,7 +17279,7 @@
       "SEI": 20.61
     },
     "UPS": 67.62,
-    "rank": 257,
+    "rank": 258,
     "reliability_pct": 73.4,
     "adjusted_UPS": 62.93,
     "low_sample": false,
@@ -17279,11 +17346,11 @@
       "SEI": 32.05
     },
     "UPS": 71.93,
-    "rank": 258,
+    "rank": 259,
     "reliability_pct": 58.8,
     "adjusted_UPS": 62.91,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 50.2,
@@ -17346,7 +17413,7 @@
       "SEI": 21.13
     },
     "UPS": 68.01,
-    "rank": 259,
+    "rank": 260,
     "reliability_pct": 71.5,
     "adjusted_UPS": 62.88,
     "low_sample": false,
@@ -17413,11 +17480,11 @@
       "SEI": 28.91
     },
     "UPS": 69.15,
-    "rank": 260,
+    "rank": 261,
     "reliability_pct": 67.2,
     "adjusted_UPS": 62.87,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 46.1,
@@ -17480,7 +17547,7 @@
       "SEI": 12.78
     },
     "UPS": 68.46,
-    "rank": 261,
+    "rank": 262,
     "reliability_pct": 69.7,
     "adjusted_UPS": 62.87,
     "low_sample": false,
@@ -17547,7 +17614,7 @@
       "SEI": 31.54
     },
     "UPS": 69.62,
-    "rank": 262,
+    "rank": 263,
     "reliability_pct": 65.5,
     "adjusted_UPS": 62.85,
     "low_sample": false,
@@ -17614,7 +17681,7 @@
       "SEI": 22.68
     },
     "UPS": 68.94,
-    "rank": 263,
+    "rank": 264,
     "reliability_pct": 67.8,
     "adjusted_UPS": 62.85,
     "low_sample": false,
@@ -17681,7 +17748,7 @@
       "SEI": 21.88
     },
     "UPS": 68.21,
-    "rank": 264,
+    "rank": 265,
     "reliability_pct": 70.6,
     "adjusted_UPS": 62.85,
     "low_sample": false,
@@ -17748,7 +17815,7 @@
       "SEI": 22.66
     },
     "UPS": 68.55,
-    "rank": 265,
+    "rank": 266,
     "reliability_pct": 69.3,
     "adjusted_UPS": 62.85,
     "low_sample": false,
@@ -17815,11 +17882,11 @@
       "SEI": 29.87
     },
     "UPS": 71.55,
-    "rank": 266,
+    "rank": 267,
     "reliability_pct": 59.6,
     "adjusted_UPS": 62.84,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 35.2,
@@ -17882,78 +17949,11 @@
       "SEI": 22.13
     },
     "UPS": 70.14,
-    "rank": 267,
+    "rank": 268,
     "reliability_pct": 63.8,
     "adjusted_UPS": 62.84,
     "low_sample": false,
     "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 84.0,
-    "ERA": 5.14,
-    "WAR": 0.57,
-    "salary": 19047930.0,
-    "K": 67,
-    "BB": 25,
-    "K_pct": 17.6,
-    "BB_pct": 6.6,
-    "xERA": 4.95,
-    "FIP": 5.13,
-    "SIERA": 5.13,
-    "fb_velo": 93.0,
-    "hardhit_pct": 45.1,
-    "barrel_pct": 9.8,
-    "BABIP": 0.341,
-    "LOB_pct": 63.7,
-    "H": 108,
-    "ER": 48,
-    "HR": 17,
-    "SV": 1,
-    "HLD": 0,
-    "W": 5,
-    "L": 7,
-    "K9": 7.18,
-    "WHIP": 1.58,
-    "role": "starter",
-    "raw": {
-      "DI": 13.65,
-      "CCI": 93.44,
-      "RPSI": 5.07,
-      "SQI": 38.1,
-      "LAI": -8.06,
-      "SEI": 0.0299
-    },
-    "components": {
-      "K_pct": 17.6,
-      "BB_pct": 6.6,
-      "K_BB_pct": 11.0,
-      "xERA": 4.95,
-      "FIP": 5.13,
-      "SIERA": 5.13,
-      "Velo": 93.0,
-      "HardHit_pct": 45.1,
-      "Barrel_pct": 9.8,
-      "BABIP": 0.341,
-      "LOB_pct": 63.7
-    },
-    "name": "Aaron Civale",
-    "team": "ATH/Chicago",
-    "player_id": 650644,
-    "season": 2026,
-    "normalized": {
-      "DI": 54.56,
-      "CCI": 86.88,
-      "RPSI": 96.92,
-      "SQI": 72.55,
-      "LAI": 67.11,
-      "SEI": 23.06
-    },
-    "UPS": 68.95,
-    "rank": 268,
-    "reliability_pct": 67.7,
-    "adjusted_UPS": 62.84,
-    "low_sample": false,
-    "low_sample_threshold": 29.7
   },
   {
     "IP": 91.0,
@@ -18020,7 +18020,7 @@
     "reliability_pct": 69.5,
     "adjusted_UPS": 62.84,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 70.2,
@@ -18087,7 +18087,7 @@
     "reliability_pct": 63.7,
     "adjusted_UPS": 62.83,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 116.0,
@@ -18154,7 +18154,7 @@
     "reliability_pct": 74.4,
     "adjusted_UPS": 62.83,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 35.2,
@@ -18355,7 +18355,7 @@
     "reliability_pct": 71.0,
     "adjusted_UPS": 62.76,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 38.1,
@@ -18690,7 +18690,7 @@
     "reliability_pct": 74.5,
     "adjusted_UPS": 62.68,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 35.0,
@@ -18824,7 +18824,7 @@
     "reliability_pct": 62.7,
     "adjusted_UPS": 62.66,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 108.0,
@@ -18891,7 +18891,7 @@
     "reliability_pct": 73.0,
     "adjusted_UPS": 62.61,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 46.1,
@@ -19025,7 +19025,7 @@
     "reliability_pct": 66.7,
     "adjusted_UPS": 62.55,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 43.0,
@@ -19226,7 +19226,7 @@
     "reliability_pct": 63.0,
     "adjusted_UPS": 62.48,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 37.1,
@@ -19360,7 +19360,7 @@
     "reliability_pct": 66.7,
     "adjusted_UPS": 62.47,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 31.1,
@@ -19628,7 +19628,7 @@
     "reliability_pct": 70.4,
     "adjusted_UPS": 62.42,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 35.1,
@@ -19963,7 +19963,7 @@
     "reliability_pct": 66.7,
     "adjusted_UPS": 62.27,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 34.1,
@@ -20097,7 +20097,7 @@
     "reliability_pct": 67.5,
     "adjusted_UPS": 62.26,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 22.1,
@@ -20298,7 +20298,7 @@
     "reliability_pct": 75.8,
     "adjusted_UPS": 62.17,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 46.0,
@@ -20499,7 +20499,7 @@
     "reliability_pct": 67.5,
     "adjusted_UPS": 62.09,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 42.2,
@@ -20767,7 +20767,74 @@
     "reliability_pct": 73.7,
     "adjusted_UPS": 62.0,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
+  },
+  {
+    "IP": 37.0,
+    "ERA": 3.65,
+    "WAR": 0.56,
+    "salary": 780000,
+    "K": 38,
+    "BB": 23,
+    "K_pct": 24.5,
+    "BB_pct": 14.8,
+    "xERA": 4.32,
+    "FIP": 5.12,
+    "SIERA": 5.23,
+    "fb_velo": 93.0,
+    "hardhit_pct": 42.2,
+    "barrel_pct": 6.7,
+    "BABIP": 0.195,
+    "LOB_pct": 66.0,
+    "H": 22,
+    "ER": 15,
+    "HR": 6,
+    "SV": 12,
+    "HLD": 5,
+    "W": 5,
+    "L": 3,
+    "K9": 9.24,
+    "WHIP": 1.22,
+    "role": "reliever",
+    "raw": {
+      "DI": 15.26,
+      "CCI": 84.87,
+      "RPSI": 4.93,
+      "SQI": 44.1,
+      "LAI": -6.71,
+      "SEI": 0.7179
+    },
+    "components": {
+      "K_pct": 24.5,
+      "BB_pct": 14.8,
+      "K_BB_pct": 9.7,
+      "xERA": 4.32,
+      "FIP": 5.12,
+      "SIERA": 5.23,
+      "Velo": 93.0,
+      "HardHit_pct": 42.2,
+      "Barrel_pct": 6.7,
+      "BABIP": 0.195,
+      "LOB_pct": 66.0
+    },
+    "name": "Clayton Beeter",
+    "team": "WSN",
+    "player_id": 690925,
+    "season": 2026,
+    "normalized": {
+      "DI": 56.57,
+      "CCI": 69.74,
+      "RPSI": 97.02,
+      "SQI": 75.55,
+      "LAI": 67.75,
+      "SEI": 31.63
+    },
+    "UPS": 68.49,
+    "rank": 311,
+    "reliability_pct": 64.9,
+    "adjusted_UPS": 62.0,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
   },
   {
     "IP": 84.0,
@@ -20830,11 +20897,11 @@
       "SEI": 22.12
     },
     "UPS": 67.7,
-    "rank": 311,
+    "rank": 312,
     "reliability_pct": 67.7,
     "adjusted_UPS": 61.99,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 44.2,
@@ -20897,7 +20964,7 @@
       "SEI": 21.55
     },
     "UPS": 67.38,
-    "rank": 312,
+    "rank": 313,
     "reliability_pct": 68.8,
     "adjusted_UPS": 61.97,
     "low_sample": false,
@@ -20964,7 +21031,7 @@
       "SEI": 23.09
     },
     "UPS": 68.72,
-    "rank": 313,
+    "rank": 314,
     "reliability_pct": 63.8,
     "adjusted_UPS": 61.94,
     "low_sample": false,
@@ -21031,11 +21098,11 @@
       "SEI": 24.09
     },
     "UPS": 72.47,
-    "rank": 314,
+    "rank": 315,
     "reliability_pct": 53.0,
     "adjusted_UPS": 61.91,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 35.0,
@@ -21098,76 +21165,9 @@
       "SEI": 23.2
     },
     "UPS": 68.71,
-    "rank": 315,
+    "rank": 316,
     "reliability_pct": 63.6,
     "adjusted_UPS": 61.91,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 36.0,
-    "ERA": 3.75,
-    "WAR": 0.56,
-    "salary": 780000,
-    "K": 37,
-    "BB": 23,
-    "K_pct": 24.3,
-    "BB_pct": 15.1,
-    "xERA": 4.32,
-    "FIP": 5.23,
-    "SIERA": 5.23,
-    "fb_velo": 93.0,
-    "hardhit_pct": 42.2,
-    "barrel_pct": 6.7,
-    "BABIP": 0.195,
-    "LOB_pct": 66.0,
-    "H": 22,
-    "ER": 15,
-    "HR": 6,
-    "SV": 12,
-    "HLD": 5,
-    "W": 5,
-    "L": 3,
-    "K9": 9.25,
-    "WHIP": 1.25,
-    "role": "reliever",
-    "raw": {
-      "DI": 15.26,
-      "CCI": 84.87,
-      "RPSI": 4.93,
-      "SQI": 44.1,
-      "LAI": -6.71,
-      "SEI": 0.7179
-    },
-    "components": {
-      "K_pct": 24.3,
-      "BB_pct": 15.1,
-      "K_BB_pct": 9.2,
-      "xERA": 4.32,
-      "FIP": 5.23,
-      "SIERA": 5.23,
-      "Velo": 93.0,
-      "HardHit_pct": 42.2,
-      "Barrel_pct": 6.7,
-      "BABIP": 0.195,
-      "LOB_pct": 66.0
-    },
-    "name": "Clayton Beeter",
-    "team": "WSN",
-    "player_id": 690925,
-    "season": 2026,
-    "normalized": {
-      "DI": 56.57,
-      "CCI": 69.74,
-      "RPSI": 97.02,
-      "SQI": 75.55,
-      "LAI": 67.75,
-      "SEI": 31.63
-    },
-    "UPS": 68.49,
-    "rank": 316,
-    "reliability_pct": 64.3,
-    "adjusted_UPS": 61.89,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -21504,7 +21504,7 @@
     "reliability_pct": 53.0,
     "adjusted_UPS": 61.86,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 30.2,
@@ -21839,7 +21839,7 @@
     "reliability_pct": 63.7,
     "adjusted_UPS": 61.8,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 35.0,
@@ -21973,7 +21973,7 @@
     "reliability_pct": 71.0,
     "adjusted_UPS": 61.77,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 27.1,
@@ -22174,7 +22174,7 @@
     "reliability_pct": 61.2,
     "adjusted_UPS": 61.73,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 26.1,
@@ -22375,7 +22375,7 @@
     "reliability_pct": 68.5,
     "adjusted_UPS": 61.72,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 61.0,
@@ -22442,7 +22442,7 @@
     "reliability_pct": 60.4,
     "adjusted_UPS": 61.71,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 41.1,
@@ -22643,7 +22643,7 @@
     "reliability_pct": 58.4,
     "adjusted_UPS": 61.57,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 23.2,
@@ -22777,7 +22777,7 @@
     "reliability_pct": 60.9,
     "adjusted_UPS": 61.53,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 66.2,
@@ -22844,7 +22844,7 @@
     "reliability_pct": 62.3,
     "adjusted_UPS": 61.53,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 24.2,
@@ -23380,7 +23380,7 @@
     "reliability_pct": 64.3,
     "adjusted_UPS": 61.26,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 30.0,
@@ -23581,7 +23581,7 @@
     "reliability_pct": 56.1,
     "adjusted_UPS": 61.21,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 26.0,
@@ -23916,7 +23916,7 @@
     "reliability_pct": 49.5,
     "adjusted_UPS": 61.19,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 39.2,
@@ -24050,7 +24050,7 @@
     "reliability_pct": 61.6,
     "adjusted_UPS": 61.15,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 35.0,
@@ -24452,7 +24452,7 @@
     "reliability_pct": 57.4,
     "adjusted_UPS": 61.01,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 23.0,
@@ -24586,7 +24586,7 @@
     "reliability_pct": 52.9,
     "adjusted_UPS": 60.94,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 65.1,
@@ -24653,7 +24653,7 @@
     "reliability_pct": 61.9,
     "adjusted_UPS": 60.91,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 49.0,
@@ -24720,7 +24720,7 @@
     "reliability_pct": 55.1,
     "adjusted_UPS": 60.9,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 26.2,
@@ -24988,7 +24988,7 @@
     "reliability_pct": 60.9,
     "adjusted_UPS": 60.88,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 94.2,
@@ -25055,7 +25055,7 @@
     "reliability_pct": 70.2,
     "adjusted_UPS": 60.88,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 26.0,
@@ -25323,7 +25323,7 @@
     "reliability_pct": 54.5,
     "adjusted_UPS": 60.79,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 81.2,
@@ -25390,7 +25390,7 @@
     "reliability_pct": 67.0,
     "adjusted_UPS": 60.77,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 37.1,
@@ -25859,7 +25859,7 @@
     "reliability_pct": 58.4,
     "adjusted_UPS": 60.66,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 26.2,
@@ -26261,7 +26261,7 @@
     "reliability_pct": 63.6,
     "adjusted_UPS": 60.56,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 32.2,
@@ -26395,7 +26395,7 @@
     "reliability_pct": 58.8,
     "adjusted_UPS": 60.51,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 25.1,
@@ -26797,7 +26797,7 @@
     "reliability_pct": 47.4,
     "adjusted_UPS": 60.36,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 27.2,
@@ -26931,7 +26931,7 @@
     "reliability_pct": 55.6,
     "adjusted_UPS": 60.34,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 46.1,
@@ -26998,7 +26998,7 @@
     "reliability_pct": 53.5,
     "adjusted_UPS": 60.32,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 16.2,
@@ -27467,7 +27467,7 @@
     "reliability_pct": 61.9,
     "adjusted_UPS": 60.16,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 25.1,
@@ -27735,7 +27735,7 @@
     "reliability_pct": 59.2,
     "adjusted_UPS": 59.95,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 33.1,
@@ -28003,7 +28003,7 @@
     "reliability_pct": 64.0,
     "adjusted_UPS": 59.77,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 22.2,
@@ -28539,7 +28539,7 @@
     "reliability_pct": 45.4,
     "adjusted_UPS": 59.38,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 39.0,
@@ -28606,7 +28606,7 @@
     "reliability_pct": 49.4,
     "adjusted_UPS": 59.31,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 53.0,
@@ -28673,7 +28673,7 @@
     "reliability_pct": 57.0,
     "adjusted_UPS": 59.31,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 24.2,
@@ -28874,7 +28874,7 @@
     "reliability_pct": 61.5,
     "adjusted_UPS": 59.2,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 24.2,
@@ -29276,7 +29276,7 @@
     "reliability_pct": 47.5,
     "adjusted_UPS": 58.88,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 12.1,
@@ -29477,7 +29477,7 @@
     "reliability_pct": 42.9,
     "adjusted_UPS": 58.84,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 29.0,
@@ -30147,7 +30147,7 @@
     "reliability_pct": 54.1,
     "adjusted_UPS": 58.55,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 30.0,
@@ -30214,7 +30214,7 @@
     "reliability_pct": 42.9,
     "adjusted_UPS": 58.49,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 10.2,
@@ -30574,7 +30574,7 @@
     "SV": 0,
     "HLD": 0,
     "W": 1,
-    "L": 4,
+    "L": 5,
     "K9": 6.8,
     "WHIP": 1.46,
     "role": "starter",
@@ -30616,7 +30616,7 @@
     "reliability_pct": 50.6,
     "adjusted_UPS": 58.34,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 31.0,
@@ -30683,7 +30683,7 @@
     "reliability_pct": 43.7,
     "adjusted_UPS": 58.28,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 35.1,
@@ -30750,7 +30750,7 @@
     "reliability_pct": 46.7,
     "adjusted_UPS": 58.28,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 15.1,
@@ -30884,7 +30884,7 @@
     "reliability_pct": 45.4,
     "adjusted_UPS": 58.27,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 41.0,
@@ -30951,7 +30951,7 @@
     "reliability_pct": 50.6,
     "adjusted_UPS": 58.24,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 20.0,
@@ -31219,7 +31219,7 @@
     "reliability_pct": 51.3,
     "adjusted_UPS": 58.14,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 22.1,
@@ -31487,7 +31487,7 @@
     "reliability_pct": 44.6,
     "adjusted_UPS": 58.05,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 15.1,
@@ -31621,7 +31621,7 @@
     "reliability_pct": 40.5,
     "adjusted_UPS": 58.01,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 20.2,
@@ -31822,7 +31822,7 @@
     "reliability_pct": 57.9,
     "adjusted_UPS": 57.86,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 22.0,
@@ -31956,7 +31956,7 @@
     "reliability_pct": 46.0,
     "adjusted_UPS": 57.8,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 55.0,
@@ -32023,7 +32023,7 @@
     "reliability_pct": 57.9,
     "adjusted_UPS": 57.8,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 14.1,
@@ -32157,7 +32157,7 @@
     "reliability_pct": 41.3,
     "adjusted_UPS": 57.74,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 60.2,
@@ -32224,7 +32224,7 @@
     "reliability_pct": 60.1,
     "adjusted_UPS": 57.74,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 30.1,
@@ -32291,7 +32291,7 @@
     "reliability_pct": 42.9,
     "adjusted_UPS": 57.71,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 15.1,
@@ -32559,7 +32559,7 @@
     "reliability_pct": 52.4,
     "adjusted_UPS": 57.54,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 27.2,
@@ -33229,7 +33229,7 @@
     "reliability_pct": 44.5,
     "adjusted_UPS": 57.39,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 20.0,
@@ -33765,7 +33765,7 @@
     "reliability_pct": 45.4,
     "adjusted_UPS": 57.07,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 11.0,
@@ -34234,7 +34234,7 @@
     "reliability_pct": 28.6,
     "adjusted_UPS": 56.82,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 20.1,
@@ -34301,7 +34301,7 @@
     "reliability_pct": 33.4,
     "adjusted_UPS": 56.82,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 11.0,
@@ -35038,7 +35038,7 @@
     "reliability_pct": 37.7,
     "adjusted_UPS": 56.32,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 15.0,
@@ -35641,7 +35641,7 @@
     "reliability_pct": 41.2,
     "adjusted_UPS": 55.92,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 12.1,
@@ -35842,7 +35842,7 @@
     "reliability_pct": 45.2,
     "adjusted_UPS": 55.82,
     "low_sample": false,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 18.2,
@@ -35909,7 +35909,7 @@
     "reliability_pct": 31.3,
     "adjusted_UPS": 55.77,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 29.2,
@@ -35976,7 +35976,7 @@
     "reliability_pct": 42.2,
     "adjusted_UPS": 55.7,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 16.2,
@@ -36244,7 +36244,7 @@
     "reliability_pct": 35.6,
     "adjusted_UPS": 55.61,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 22.2,
@@ -36311,7 +36311,7 @@
     "reliability_pct": 35.7,
     "adjusted_UPS": 55.55,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 28.0,
@@ -36378,7 +36378,7 @@
     "reliability_pct": 41.2,
     "adjusted_UPS": 55.53,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 19.1,
@@ -36448,6 +36448,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 13.0,
+    "ERA": 5.54,
+    "WAR": 0.14,
+    "salary": 780000,
+    "K": 9,
+    "BB": 10,
+    "K_pct": 15.8,
+    "BB_pct": 17.5,
+    "xERA": 4.06,
+    "FIP": 6.12,
+    "SIERA": 6.03,
+    "fb_velo": 93.0,
+    "hardhit_pct": 41.2,
+    "barrel_pct": 8.8,
+    "BABIP": 0.156,
+    "LOB_pct": 53.3,
+    "H": 8,
+    "ER": 8,
+    "HR": 2,
+    "SV": 1,
+    "HLD": 0,
+    "W": 1,
+    "L": 1,
+    "K9": 6.23,
+    "WHIP": 1.38,
+    "role": "reliever",
+    "raw": {
+      "DI": 6.4,
+      "CCI": 84.0,
+      "RPSI": 5.38,
+      "SQI": 43.0,
+      "LAI": -18.36,
+      "SEI": 0.1795
+    },
+    "components": {
+      "K_pct": 15.8,
+      "BB_pct": 17.5,
+      "K_BB_pct": -1.7,
+      "xERA": 4.06,
+      "FIP": 6.12,
+      "SIERA": 6.03,
+      "Velo": 93.0,
+      "HardHit_pct": 41.2,
+      "Barrel_pct": 8.8,
+      "BABIP": 0.156,
+      "LOB_pct": 53.3
+    },
+    "name": "Lazaro Estrada",
+    "team": "TOR",
+    "player_id": 681751,
+    "season": 2026,
+    "normalized": {
+      "DI": 45.5,
+      "CCI": 68.0,
+      "RPSI": 96.7,
+      "SQI": 75.0,
+      "LAI": 62.21,
+      "SEI": 24.92
+    },
+    "UPS": 64.04,
+    "rank": 545,
+    "reliability_pct": 39.4,
+    "adjusted_UPS": 55.53,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
+  },
+  {
     "IP": 13.1,
     "ERA": 6.08,
     "WAR": -0.03,
@@ -36508,7 +36575,7 @@
       "SEI": 22.2
     },
     "UPS": 63.91,
-    "rank": 545,
+    "rank": 546,
     "reliability_pct": 39.6,
     "adjusted_UPS": 55.51,
     "low_sample": false,
@@ -36575,7 +36642,7 @@
       "SEI": 25.24
     },
     "UPS": 73.65,
-    "rank": 546,
+    "rank": 547,
     "reliability_pct": 23.1,
     "adjusted_UPS": 55.46,
     "low_sample": true,
@@ -36642,7 +36709,7 @@
       "SEI": 24.44
     },
     "UPS": 73.08,
-    "rank": 547,
+    "rank": 548,
     "reliability_pct": 23.7,
     "adjusted_UPS": 55.46,
     "low_sample": true,
@@ -36709,7 +36776,7 @@
       "SEI": 14.06
     },
     "UPS": 67.34,
-    "rank": 548,
+    "rank": 549,
     "reliability_pct": 31.3,
     "adjusted_UPS": 55.42,
     "low_sample": false,
@@ -36776,7 +36843,7 @@
       "SEI": 23.04
     },
     "UPS": 72.88,
-    "rank": 549,
+    "rank": 550,
     "reliability_pct": 23.7,
     "adjusted_UPS": 55.41,
     "low_sample": true,
@@ -36843,7 +36910,7 @@
       "SEI": 19.38
     },
     "UPS": 64.24,
-    "rank": 550,
+    "rank": 551,
     "reliability_pct": 37.9,
     "adjusted_UPS": 55.4,
     "low_sample": false,
@@ -36910,7 +36977,7 @@
       "SEI": 16.61
     },
     "UPS": 64.89,
-    "rank": 551,
+    "rank": 552,
     "reliability_pct": 35.9,
     "adjusted_UPS": 55.35,
     "low_sample": false,
@@ -36977,7 +37044,7 @@
       "SEI": 21.41
     },
     "UPS": 72.51,
-    "rank": 552,
+    "rank": 553,
     "reliability_pct": 23.7,
     "adjusted_UPS": 55.33,
     "low_sample": true,
@@ -37044,75 +37111,8 @@
       "SEI": 22.11
     },
     "UPS": 68.31,
-    "rank": 553,
-    "reliability_pct": 29.1,
-    "adjusted_UPS": 55.32,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 12.2,
-    "ERA": 4.97,
-    "WAR": 0.14,
-    "salary": 780000,
-    "K": 8,
-    "BB": 10,
-    "K_pct": 14.5,
-    "BB_pct": 18.2,
-    "xERA": 4.06,
-    "FIP": 6.48,
-    "SIERA": 6.03,
-    "fb_velo": 93.0,
-    "hardhit_pct": 41.2,
-    "barrel_pct": 8.8,
-    "BABIP": 0.156,
-    "LOB_pct": 53.3,
-    "H": 7,
-    "ER": 7,
-    "HR": 2,
-    "SV": 1,
-    "HLD": 0,
-    "W": 1,
-    "L": 1,
-    "K9": 5.9,
-    "WHIP": 1.34,
-    "role": "reliever",
-    "raw": {
-      "DI": 6.4,
-      "CCI": 84.0,
-      "RPSI": 5.38,
-      "SQI": 43.0,
-      "LAI": -18.36,
-      "SEI": 0.1795
-    },
-    "components": {
-      "K_pct": 14.5,
-      "BB_pct": 18.2,
-      "K_BB_pct": -3.7,
-      "xERA": 4.06,
-      "FIP": 6.48,
-      "SIERA": 6.03,
-      "Velo": 93.0,
-      "HardHit_pct": 41.2,
-      "Barrel_pct": 8.8,
-      "BABIP": 0.156,
-      "LOB_pct": 53.3
-    },
-    "name": "Lazaro Estrada",
-    "team": "TOR",
-    "player_id": 681751,
-    "season": 2026,
-    "normalized": {
-      "DI": 45.5,
-      "CCI": 68.0,
-      "RPSI": 96.7,
-      "SQI": 75.0,
-      "LAI": 62.21,
-      "SEI": 24.92
-    },
-    "UPS": 64.04,
     "rank": 554,
-    "reliability_pct": 37.9,
+    "reliability_pct": 29.1,
     "adjusted_UPS": 55.32,
     "low_sample": false,
     "low_sample_threshold": 8.0
@@ -37249,7 +37249,7 @@
     "reliability_pct": 30.1,
     "adjusted_UPS": 55.29,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 8.0,
@@ -37651,7 +37651,7 @@
     "reliability_pct": 31.3,
     "adjusted_UPS": 55.2,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 16.1,
@@ -37718,7 +37718,7 @@
     "reliability_pct": 28.7,
     "adjusted_UPS": 55.15,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 7.2,
@@ -38388,7 +38388,7 @@
     "reliability_pct": 28.8,
     "adjusted_UPS": 54.95,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 7.1,
@@ -38522,7 +38522,7 @@
     "reliability_pct": 32.3,
     "adjusted_UPS": 54.91,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 14.2,
@@ -38723,7 +38723,7 @@
     "reliability_pct": 27.5,
     "adjusted_UPS": 54.89,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 6.2,
@@ -38857,7 +38857,7 @@
     "reliability_pct": 29.8,
     "adjusted_UPS": 54.78,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 11.2,
@@ -38991,7 +38991,7 @@
     "reliability_pct": 31.2,
     "adjusted_UPS": 54.74,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 8.0,
@@ -39192,7 +39192,7 @@
     "reliability_pct": 18.4,
     "adjusted_UPS": 54.66,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 4.0,
@@ -39996,7 +39996,7 @@
     "reliability_pct": 21.7,
     "adjusted_UPS": 54.37,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 9.1,
@@ -40331,7 +40331,7 @@
     "reliability_pct": 32.3,
     "adjusted_UPS": 54.2,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 5.0,
@@ -42341,7 +42341,7 @@
     "reliability_pct": 26.2,
     "adjusted_UPS": 53.43,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 6.0,
@@ -42609,7 +42609,7 @@
     "reliability_pct": 20.2,
     "adjusted_UPS": 53.41,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 3.0,
@@ -42944,7 +42944,7 @@
     "reliability_pct": 20.0,
     "adjusted_UPS": 53.3,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 3.1,
@@ -43681,7 +43681,7 @@
     "reliability_pct": 15.1,
     "adjusted_UPS": 52.93,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 6.0,
@@ -44217,7 +44217,7 @@
     "reliability_pct": 15.1,
     "adjusted_UPS": 52.85,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 3.0,
@@ -44552,7 +44552,7 @@
     "reliability_pct": 20.3,
     "adjusted_UPS": 52.72,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 4.0,
@@ -44686,7 +44686,7 @@
     "reliability_pct": 11.1,
     "adjusted_UPS": 52.69,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 8.0,
@@ -44753,7 +44753,7 @@
     "reliability_pct": 16.7,
     "adjusted_UPS": 52.69,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 3.0,
@@ -45758,7 +45758,7 @@
     "reliability_pct": 16.8,
     "adjusted_UPS": 52.35,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 3.2,
@@ -46763,7 +46763,7 @@
     "reliability_pct": 11.1,
     "adjusted_UPS": 52.0,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 5.0,
@@ -47500,7 +47500,7 @@
     "reliability_pct": 9.3,
     "adjusted_UPS": 51.8,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 2.1,
@@ -47902,7 +47902,7 @@
     "reliability_pct": 7.4,
     "adjusted_UPS": 51.63,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 4.1,
@@ -47969,7 +47969,7 @@
     "reliability_pct": 9.3,
     "adjusted_UPS": 51.63,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 3.0,
@@ -48907,7 +48907,7 @@
     "reliability_pct": 9.1,
     "adjusted_UPS": 51.32,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 4.0,
@@ -49108,7 +49108,7 @@
     "reliability_pct": 11.1,
     "adjusted_UPS": 51.29,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 3.0,
@@ -49577,7 +49577,7 @@
     "reliability_pct": 13.4,
     "adjusted_UPS": 51.12,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 4.0,
@@ -49912,7 +49912,7 @@
     "reliability_pct": 5.0,
     "adjusted_UPS": 51.06,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 2.0,
@@ -50850,7 +50850,7 @@
     "reliability_pct": 5.2,
     "adjusted_UPS": 50.92,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 1.2,
@@ -51051,7 +51051,7 @@
     "reliability_pct": 7.0,
     "adjusted_UPS": 50.89,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 5.1,
@@ -51386,7 +51386,7 @@
     "reliability_pct": 7.4,
     "adjusted_UPS": 50.79,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 4.1,
@@ -51453,7 +51453,7 @@
     "reliability_pct": 9.3,
     "adjusted_UPS": 50.79,
     "low_sample": true,
-    "low_sample_threshold": 29.7
+    "low_sample_threshold": 29.8
   },
   {
     "IP": 1.2,
