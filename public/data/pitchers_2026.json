@@ -43416,6 +43416,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 9.0,
+    "ERA": 3.0,
+    "WAR": 0.06,
+    "salary": 780000,
+    "K": 10,
+    "BB": 6,
+    "K_pct": 24.4,
+    "BB_pct": 14.6,
+    "xERA": 3.6,
+    "FIP": 4.42,
+    "SIERA": 3.8,
+    "fb_velo": 93.0,
+    "hardhit_pct": 22.2,
+    "barrel_pct": 0.0,
+    "BABIP": 0.333,
+    "LOB_pct": 77.8,
+    "H": 8,
+    "ER": 3,
+    "HR": 1,
+    "SV": 0,
+    "HLD": 0,
+    "W": 0,
+    "L": 1,
+    "K9": 10.0,
+    "WHIP": 1.56,
+    "role": "starter",
+    "raw": {
+      "DI": 5.0,
+      "CCI": 87.5,
+      "RPSI": 3.73,
+      "SQI": 70.8,
+      "LAI": 5.82,
+      "SEI": 0.0769
+    },
+    "components": {
+      "K_pct": 24.4,
+      "BB_pct": 14.6,
+      "K_BB_pct": 9.8,
+      "xERA": 3.6,
+      "FIP": 4.42,
+      "SIERA": 3.8,
+      "Velo": 93.0,
+      "HardHit_pct": 22.2,
+      "Barrel_pct": 0.0,
+      "BABIP": 0.333,
+      "LOB_pct": 77.8
+    },
+    "name": "Quinn Mathews",
+    "team": "STL",
+    "player_id": 687273,
+    "season": 2026,
+    "normalized": {
+      "DI": 47.67,
+      "CCI": 79.17,
+      "RPSI": 97.89,
+      "SQI": 88.9,
+      "LAI": 73.7,
+      "SEI": 22.39
+    },
+    "UPS": 69.19,
+    "rank": 649,
+    "reliability_pct": 18.4,
+    "adjusted_UPS": 53.52,
+    "low_sample": true,
+    "low_sample_threshold": 30.2
+  },
+  {
     "IP": 8.0,
     "ERA": 9.0,
     "WAR": -0.17,
@@ -43476,7 +43543,7 @@
       "SEI": 18.87
     },
     "UPS": 62.12,
-    "rank": 649,
+    "rank": 650,
     "reliability_pct": 28.6,
     "adjusted_UPS": 53.46,
     "low_sample": false,
@@ -43543,7 +43610,7 @@
       "SEI": 23.01
     },
     "UPS": 76.29,
-    "rank": 650,
+    "rank": 651,
     "reliability_pct": 13.0,
     "adjusted_UPS": 53.43,
     "low_sample": true,
@@ -43610,7 +43677,7 @@
       "SEI": 20.55
     },
     "UPS": 66.52,
-    "rank": 651,
+    "rank": 652,
     "reliability_pct": 20.6,
     "adjusted_UPS": 53.41,
     "low_sample": true,
@@ -43677,7 +43744,7 @@
       "SEI": 10.58
     },
     "UPS": 61.84,
-    "rank": 652,
+    "rank": 653,
     "reliability_pct": 28.8,
     "adjusted_UPS": 53.41,
     "low_sample": false,
@@ -43744,7 +43811,7 @@
       "SEI": 15.49
     },
     "UPS": 60.91,
-    "rank": 653,
+    "rank": 654,
     "reliability_pct": 31.3,
     "adjusted_UPS": 53.41,
     "low_sample": false,
@@ -43811,7 +43878,7 @@
       "SEI": 21.41
     },
     "UPS": 69.75,
-    "rank": 654,
+    "rank": 655,
     "reliability_pct": 17.0,
     "adjusted_UPS": 53.36,
     "low_sample": true,
@@ -43878,7 +43945,7 @@
       "SEI": 21.47
     },
     "UPS": 74.79,
-    "rank": 655,
+    "rank": 656,
     "reliability_pct": 13.4,
     "adjusted_UPS": 53.33,
     "low_sample": true,
@@ -43945,7 +44012,7 @@
       "SEI": 23.16
     },
     "UPS": 74.79,
-    "rank": 656,
+    "rank": 657,
     "reliability_pct": 13.4,
     "adjusted_UPS": 53.33,
     "low_sample": true,
@@ -44012,7 +44079,7 @@
       "SEI": 21.93
     },
     "UPS": 66.65,
-    "rank": 657,
+    "rank": 658,
     "reliability_pct": 20.0,
     "adjusted_UPS": 53.33,
     "low_sample": true,
@@ -44079,7 +44146,7 @@
       "SEI": 23.16
     },
     "UPS": 75.25,
-    "rank": 658,
+    "rank": 659,
     "reliability_pct": 13.0,
     "adjusted_UPS": 53.29,
     "low_sample": true,
@@ -44146,7 +44213,7 @@
       "SEI": 16.72
     },
     "UPS": 64.19,
-    "rank": 659,
+    "rank": 660,
     "reliability_pct": 23.1,
     "adjusted_UPS": 53.27,
     "low_sample": true,
@@ -44213,7 +44280,7 @@
       "SEI": 19.94
     },
     "UPS": 69.29,
-    "rank": 660,
+    "rank": 661,
     "reliability_pct": 16.7,
     "adjusted_UPS": 53.22,
     "low_sample": true,
@@ -44280,7 +44347,7 @@
       "SEI": 22.7
     },
     "UPS": 65.58,
-    "rank": 661,
+    "rank": 662,
     "reliability_pct": 20.6,
     "adjusted_UPS": 53.21,
     "low_sample": true,
@@ -44347,7 +44414,7 @@
       "SEI": 18.1
     },
     "UPS": 65.93,
-    "rank": 662,
+    "rank": 663,
     "reliability_pct": 20.0,
     "adjusted_UPS": 53.19,
     "low_sample": true,
@@ -44414,7 +44481,7 @@
       "SEI": 17.79
     },
     "UPS": 61.87,
-    "rank": 663,
+    "rank": 664,
     "reliability_pct": 26.2,
     "adjusted_UPS": 53.11,
     "low_sample": true,
@@ -44481,7 +44548,7 @@
       "SEI": 19.33
     },
     "UPS": 63.06,
-    "rank": 664,
+    "rank": 665,
     "reliability_pct": 23.7,
     "adjusted_UPS": 53.09,
     "low_sample": true,
@@ -44548,7 +44615,7 @@
       "SEI": 19.79
     },
     "UPS": 63.04,
-    "rank": 665,
+    "rank": 666,
     "reliability_pct": 23.4,
     "adjusted_UPS": 53.05,
     "low_sample": true,
@@ -44615,7 +44682,7 @@
       "SEI": 25.46
     },
     "UPS": 67.5,
-    "rank": 666,
+    "rank": 667,
     "reliability_pct": 17.4,
     "adjusted_UPS": 53.04,
     "low_sample": true,
@@ -44682,7 +44749,7 @@
       "SEI": 20.35
     },
     "UPS": 64.86,
-    "rank": 667,
+    "rank": 668,
     "reliability_pct": 20.3,
     "adjusted_UPS": 53.02,
     "low_sample": true,
@@ -44749,7 +44816,7 @@
       "SEI": 23.16
     },
     "UPS": 73.07,
-    "rank": 668,
+    "rank": 669,
     "reliability_pct": 13.0,
     "adjusted_UPS": 53.01,
     "low_sample": true,
@@ -44816,7 +44883,7 @@
       "SEI": 19.63
     },
     "UPS": 68.05,
-    "rank": 669,
+    "rank": 670,
     "reliability_pct": 16.7,
     "adjusted_UPS": 53.01,
     "low_sample": true,
@@ -44883,7 +44950,7 @@
       "SEI": 21.96
     },
     "UPS": 69.81,
-    "rank": 670,
+    "rank": 671,
     "reliability_pct": 15.1,
     "adjusted_UPS": 52.99,
     "low_sample": true,
@@ -44950,7 +45017,7 @@
       "SEI": 22.85
     },
     "UPS": 67.18,
-    "rank": 671,
+    "rank": 672,
     "reliability_pct": 17.4,
     "adjusted_UPS": 52.98,
     "low_sample": true,
@@ -45017,7 +45084,7 @@
       "SEI": 21.01
     },
     "UPS": 67.09,
-    "rank": 672,
+    "rank": 673,
     "reliability_pct": 17.4,
     "adjusted_UPS": 52.97,
     "low_sample": true,
@@ -45084,7 +45151,7 @@
       "SEI": 20.09
     },
     "UPS": 67.31,
-    "rank": 673,
+    "rank": 674,
     "reliability_pct": 17.0,
     "adjusted_UPS": 52.94,
     "low_sample": true,
@@ -45151,7 +45218,7 @@
       "SEI": 21.01
     },
     "UPS": 72.39,
-    "rank": 674,
+    "rank": 675,
     "reliability_pct": 13.0,
     "adjusted_UPS": 52.92,
     "low_sample": true,
@@ -45218,7 +45285,7 @@
       "SEI": 19.33
     },
     "UPS": 63.93,
-    "rank": 675,
+    "rank": 676,
     "reliability_pct": 20.3,
     "adjusted_UPS": 52.83,
     "low_sample": true,
@@ -45285,7 +45352,7 @@
       "SEI": 19.63
     },
     "UPS": 66.76,
-    "rank": 676,
+    "rank": 677,
     "reliability_pct": 16.7,
     "adjusted_UPS": 52.79,
     "low_sample": true,
@@ -45352,7 +45419,7 @@
       "SEI": 12.88
     },
     "UPS": 61.86,
-    "rank": 677,
+    "rank": 678,
     "reliability_pct": 23.4,
     "adjusted_UPS": 52.77,
     "low_sample": true,
@@ -45419,7 +45486,7 @@
       "SEI": 23.77
     },
     "UPS": 63.12,
-    "rank": 678,
+    "rank": 679,
     "reliability_pct": 20.6,
     "adjusted_UPS": 52.71,
     "low_sample": true,
@@ -45486,7 +45553,7 @@
       "SEI": 20.5
     },
     "UPS": 60.26,
-    "rank": 679,
+    "rank": 680,
     "reliability_pct": 26.2,
     "adjusted_UPS": 52.69,
     "low_sample": true,
@@ -45553,7 +45620,7 @@
       "SEI": 17.49
     },
     "UPS": 59.41,
-    "rank": 680,
+    "rank": 681,
     "reliability_pct": 28.6,
     "adjusted_UPS": 52.69,
     "low_sample": false,
@@ -45620,7 +45687,7 @@
       "SEI": 22.7
     },
     "UPS": 69.94,
-    "rank": 681,
+    "rank": 682,
     "reliability_pct": 13.4,
     "adjusted_UPS": 52.68,
     "low_sample": true,
@@ -45687,7 +45754,7 @@
       "SEI": 16.95
     },
     "UPS": 63.33,
-    "rank": 682,
+    "rank": 683,
     "reliability_pct": 20.0,
     "adjusted_UPS": 52.67,
     "low_sample": true,
@@ -45754,7 +45821,7 @@
       "SEI": 22.39
     },
     "UPS": 65.63,
-    "rank": 683,
+    "rank": 684,
     "reliability_pct": 16.7,
     "adjusted_UPS": 52.61,
     "low_sample": true,
@@ -45821,7 +45888,7 @@
       "SEI": 14.99
     },
     "UPS": 65.42,
-    "rank": 684,
+    "rank": 685,
     "reliability_pct": 16.8,
     "adjusted_UPS": 52.6,
     "low_sample": true,
@@ -45888,7 +45955,7 @@
       "SEI": 21.01
     },
     "UPS": 65.38,
-    "rank": 685,
+    "rank": 686,
     "reliability_pct": 16.7,
     "adjusted_UPS": 52.56,
     "low_sample": true,
@@ -45955,7 +46022,7 @@
       "SEI": 22.85
     },
     "UPS": 69.57,
-    "rank": 686,
+    "rank": 687,
     "reliability_pct": 13.0,
     "adjusted_UPS": 52.55,
     "low_sample": true,
@@ -46022,7 +46089,7 @@
       "SEI": 23.93
     },
     "UPS": 69.45,
-    "rank": 687,
+    "rank": 688,
     "reliability_pct": 13.0,
     "adjusted_UPS": 52.54,
     "low_sample": true,
@@ -46089,7 +46156,7 @@
       "SEI": 22.7
     },
     "UPS": 65.09,
-    "rank": 688,
+    "rank": 689,
     "reliability_pct": 16.7,
     "adjusted_UPS": 52.52,
     "low_sample": true,
@@ -46156,7 +46223,7 @@
       "SEI": 17.94
     },
     "UPS": 64.49,
-    "rank": 689,
+    "rank": 690,
     "reliability_pct": 17.4,
     "adjusted_UPS": 52.51,
     "low_sample": true,
@@ -46223,7 +46290,7 @@
       "SEI": 24.23
     },
     "UPS": 68.1,
-    "rank": 690,
+    "rank": 691,
     "reliability_pct": 13.8,
     "adjusted_UPS": 52.5,
     "low_sample": true,
@@ -46290,7 +46357,7 @@
       "SEI": 18.41
     },
     "UPS": 64.34,
-    "rank": 691,
+    "rank": 692,
     "reliability_pct": 17.4,
     "adjusted_UPS": 52.49,
     "low_sample": true,
@@ -46357,7 +46424,7 @@
       "SEI": 13.5
     },
     "UPS": 68.13,
-    "rank": 692,
+    "rank": 693,
     "reliability_pct": 13.4,
     "adjusted_UPS": 52.43,
     "low_sample": true,
@@ -46424,7 +46491,7 @@
       "SEI": 11.81
     },
     "UPS": 60.29,
-    "rank": 693,
+    "rank": 694,
     "reliability_pct": 23.4,
     "adjusted_UPS": 52.4,
     "low_sample": true,
@@ -46491,7 +46558,7 @@
       "SEI": 18.56
     },
     "UPS": 67.32,
-    "rank": 694,
+    "rank": 695,
     "reliability_pct": 13.8,
     "adjusted_UPS": 52.39,
     "low_sample": true,
@@ -46558,7 +46625,7 @@
       "SEI": 22.7
     },
     "UPS": 74.86,
-    "rank": 695,
+    "rank": 696,
     "reliability_pct": 9.5,
     "adjusted_UPS": 52.36,
     "low_sample": true,
@@ -46625,7 +46692,7 @@
       "SEI": 21.17
     },
     "UPS": 68.12,
-    "rank": 696,
+    "rank": 697,
     "reliability_pct": 13.0,
     "adjusted_UPS": 52.36,
     "low_sample": true,
@@ -46692,7 +46759,7 @@
       "SEI": 22.24
     },
     "UPS": 67.82,
-    "rank": 697,
+    "rank": 698,
     "reliability_pct": 13.0,
     "adjusted_UPS": 52.32,
     "low_sample": true,
@@ -46759,7 +46826,7 @@
       "SEI": 19.63
     },
     "UPS": 61.48,
-    "rank": 698,
+    "rank": 699,
     "reliability_pct": 20.0,
     "adjusted_UPS": 52.3,
     "low_sample": true,
@@ -46826,7 +46893,7 @@
       "SEI": 18.56
     },
     "UPS": 63.75,
-    "rank": 699,
+    "rank": 700,
     "reliability_pct": 16.7,
     "adjusted_UPS": 52.29,
     "low_sample": true,
@@ -46893,7 +46960,7 @@
       "SEI": 21.24
     },
     "UPS": 66.1,
-    "rank": 700,
+    "rank": 701,
     "reliability_pct": 13.8,
     "adjusted_UPS": 52.22,
     "low_sample": true,
@@ -46960,7 +47027,7 @@
       "SEI": 22.24
     },
     "UPS": 62.97,
-    "rank": 701,
+    "rank": 702,
     "reliability_pct": 17.0,
     "adjusted_UPS": 52.21,
     "low_sample": true,
@@ -47027,7 +47094,7 @@
       "SEI": 23.47
     },
     "UPS": 72.21,
-    "rank": 702,
+    "rank": 703,
     "reliability_pct": 9.9,
     "adjusted_UPS": 52.2,
     "low_sample": true,
@@ -47094,7 +47161,7 @@
       "SEI": 23.31
     },
     "UPS": 66.84,
-    "rank": 703,
+    "rank": 704,
     "reliability_pct": 13.0,
     "adjusted_UPS": 52.2,
     "low_sample": true,
@@ -47161,7 +47228,7 @@
       "SEI": 13.65
     },
     "UPS": 62.91,
-    "rank": 704,
+    "rank": 705,
     "reliability_pct": 17.0,
     "adjusted_UPS": 52.2,
     "low_sample": true,
@@ -47228,78 +47295,11 @@
       "SEI": 20.71
     },
     "UPS": 72.63,
-    "rank": 705,
+    "rank": 706,
     "reliability_pct": 9.5,
     "adjusted_UPS": 52.15,
     "low_sample": true,
     "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 5.0,
-    "ERA": 3.6,
-    "WAR": 0.06,
-    "salary": 780000,
-    "K": 3,
-    "BB": 3,
-    "K_pct": 12.5,
-    "BB_pct": 12.5,
-    "xERA": 3.6,
-    "FIP": 3.8,
-    "SIERA": 3.8,
-    "fb_velo": 93.0,
-    "hardhit_pct": 22.2,
-    "barrel_pct": 0.0,
-    "BABIP": 0.333,
-    "LOB_pct": 77.8,
-    "H": 6,
-    "ER": 2,
-    "HR": 0,
-    "SV": 0,
-    "HLD": 0,
-    "W": 0,
-    "L": 1,
-    "K9": 5.4,
-    "WHIP": 1.8,
-    "role": "starter",
-    "raw": {
-      "DI": 5.0,
-      "CCI": 87.5,
-      "RPSI": 3.73,
-      "SQI": 70.8,
-      "LAI": 5.82,
-      "SEI": 0.0769
-    },
-    "components": {
-      "K_pct": 12.5,
-      "BB_pct": 12.5,
-      "K_BB_pct": 0.0,
-      "xERA": 3.6,
-      "FIP": 3.8,
-      "SIERA": 3.8,
-      "Velo": 93.0,
-      "HardHit_pct": 22.2,
-      "Barrel_pct": 0.0,
-      "BABIP": 0.333,
-      "LOB_pct": 77.8
-    },
-    "name": "Quinn Mathews",
-    "team": "STL",
-    "player_id": 687273,
-    "season": 2026,
-    "normalized": {
-      "DI": 47.67,
-      "CCI": 79.17,
-      "RPSI": 97.89,
-      "SQI": 88.9,
-      "LAI": 73.7,
-      "SEI": 22.39
-    },
-    "UPS": 69.19,
-    "rank": 706,
-    "reliability_pct": 11.1,
-    "adjusted_UPS": 52.13,
-    "low_sample": true,
-    "low_sample_threshold": 30.2
   },
   {
     "IP": 2.2,
