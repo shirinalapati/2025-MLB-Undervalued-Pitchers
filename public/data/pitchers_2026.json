@@ -64,7 +64,7 @@
     "reliability_pct": 78.4,
     "adjusted_UPS": 80.03,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 158.0,
@@ -131,7 +131,7 @@
     "reliability_pct": 79.8,
     "adjusted_UPS": 78.87,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 161.2,
@@ -198,7 +198,7 @@
     "reliability_pct": 80.1,
     "adjusted_UPS": 73.76,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 65.1,
@@ -399,7 +399,7 @@
     "reliability_pct": 78.3,
     "adjusted_UPS": 72.9,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 149.0,
@@ -466,19 +466,19 @@
     "reliability_pct": 78.8,
     "adjusted_UPS": 72.82,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
-    "IP": 52.1,
-    "ERA": 0.86,
+    "IP": 53.1,
+    "ERA": 0.84,
     "WAR": 3.04,
     "salary": 3952456.0,
-    "K": 95,
+    "K": 98,
     "BB": 19,
-    "K_pct": 47.7,
-    "BB_pct": 9.5,
+    "K_pct": 48.5,
+    "BB_pct": 9.4,
     "xERA": 1.49,
-    "FIP": 0.65,
+    "FIP": 0.58,
     "SIERA": 0.65,
     "fb_velo": 93.0,
     "hardhit_pct": 27.7,
@@ -492,8 +492,8 @@
     "HLD": 0,
     "W": 4,
     "L": 1,
-    "K9": 16.41,
-    "WHIP": 0.82,
+    "K9": 16.61,
+    "WHIP": 0.81,
     "role": "reliever",
     "raw": {
       "DI": 42.01,
@@ -504,11 +504,11 @@
       "SEI": 0.7691
     },
     "components": {
-      "K_pct": 47.7,
-      "BB_pct": 9.5,
-      "K_BB_pct": 38.2,
+      "K_pct": 48.5,
+      "BB_pct": 9.4,
+      "K_BB_pct": 39.1,
       "xERA": 1.49,
-      "FIP": 0.65,
+      "FIP": 0.58,
       "SIERA": 0.65,
       "Velo": 93.0,
       "HardHit_pct": 27.7,
@@ -530,8 +530,8 @@
     },
     "UPS": 80.05,
     "rank": 8,
-    "reliability_pct": 72.3,
-    "adjusted_UPS": 71.71,
+    "reliability_pct": 72.6,
+    "adjusted_UPS": 71.83,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -600,7 +600,7 @@
     "reliability_pct": 78.8,
     "adjusted_UPS": 71.51,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 90.0,
@@ -667,7 +667,7 @@
     "reliability_pct": 69.2,
     "adjusted_UPS": 71.31,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 133.2,
@@ -734,7 +734,7 @@
     "reliability_pct": 76.9,
     "adjusted_UPS": 71.3,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 120.0,
@@ -801,7 +801,7 @@
     "reliability_pct": 75.0,
     "adjusted_UPS": 71.0,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 80.0,
@@ -1002,7 +1002,7 @@
     "reliability_pct": 78.5,
     "adjusted_UPS": 70.79,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 85.2,
@@ -1069,7 +1069,7 @@
     "reliability_pct": 68.1,
     "adjusted_UPS": 70.74,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 142.2,
@@ -1136,7 +1136,7 @@
     "reliability_pct": 78.0,
     "adjusted_UPS": 70.49,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 122.1,
@@ -1203,7 +1203,7 @@
     "reliability_pct": 75.3,
     "adjusted_UPS": 70.28,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 70.0,
@@ -1337,7 +1337,7 @@
     "reliability_pct": 69.7,
     "adjusted_UPS": 69.93,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 134.1,
@@ -1404,7 +1404,7 @@
     "reliability_pct": 77.0,
     "adjusted_UPS": 69.8,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 67.0,
@@ -1474,6 +1474,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 57.1,
+    "ERA": 2.04,
+    "WAR": 1.39,
+    "salary": 780000,
+    "K": 61,
+    "BB": 17,
+    "K_pct": 26.1,
+    "BB_pct": 7.3,
+    "xERA": 2.11,
+    "FIP": 2.64,
+    "SIERA": 2.67,
+    "fb_velo": 93.0,
+    "hardhit_pct": 28.6,
+    "barrel_pct": 2.6,
+    "BABIP": 0.269,
+    "LOB_pct": 71.7,
+    "H": 43,
+    "ER": 13,
+    "HR": 3,
+    "SV": 1,
+    "HLD": 10,
+    "W": 3,
+    "L": 2,
+    "K9": 9.61,
+    "WHIP": 1.05,
+    "role": "reliever",
+    "raw": {
+      "DI": 21.56,
+      "CCI": 92.64,
+      "RPSI": 2.48,
+      "SQI": 61.8,
+      "LAI": -0.38,
+      "SEI": 1.7821
+    },
+    "components": {
+      "K_pct": 26.1,
+      "BB_pct": 7.3,
+      "K_BB_pct": 18.8,
+      "xERA": 2.11,
+      "FIP": 2.64,
+      "SIERA": 2.67,
+      "Velo": 93.0,
+      "HardHit_pct": 28.6,
+      "Barrel_pct": 2.6,
+      "BABIP": 0.269,
+      "LOB_pct": 71.7
+    },
+    "name": "Bradgley Rodriguez",
+    "team": "SDP",
+    "player_id": 699134,
+    "season": 2026,
+    "normalized": {
+      "DI": 66.93,
+      "CCI": 87.73,
+      "RPSI": 98.7,
+      "SQI": 84.4,
+      "LAI": 70.75,
+      "SEI": 41.56
+    },
+    "UPS": 76.51,
+    "rank": 23,
+    "reliability_pct": 74.1,
+    "adjusted_UPS": 69.63,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
+  },
+  {
     "IP": 61.1,
     "ERA": 2.79,
     "WAR": 1.6,
@@ -1534,76 +1601,9 @@
       "SEI": 44.79
     },
     "UPS": 75.99,
-    "rank": 23,
+    "rank": 24,
     "reliability_pct": 75.3,
     "adjusted_UPS": 69.58,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 56.1,
-    "ERA": 2.08,
-    "WAR": 1.39,
-    "salary": 780000,
-    "K": 60,
-    "BB": 17,
-    "K_pct": 26.0,
-    "BB_pct": 7.4,
-    "xERA": 2.11,
-    "FIP": 2.67,
-    "SIERA": 2.67,
-    "fb_velo": 93.0,
-    "hardhit_pct": 28.6,
-    "barrel_pct": 2.6,
-    "BABIP": 0.269,
-    "LOB_pct": 71.7,
-    "H": 43,
-    "ER": 13,
-    "HR": 3,
-    "SV": 1,
-    "HLD": 10,
-    "W": 3,
-    "L": 2,
-    "K9": 9.63,
-    "WHIP": 1.07,
-    "role": "reliever",
-    "raw": {
-      "DI": 21.56,
-      "CCI": 92.64,
-      "RPSI": 2.48,
-      "SQI": 61.8,
-      "LAI": -0.38,
-      "SEI": 1.7821
-    },
-    "components": {
-      "K_pct": 26.0,
-      "BB_pct": 7.4,
-      "K_BB_pct": 18.6,
-      "xERA": 2.11,
-      "FIP": 2.67,
-      "SIERA": 2.67,
-      "Velo": 93.0,
-      "HardHit_pct": 28.6,
-      "Barrel_pct": 2.6,
-      "BABIP": 0.269,
-      "LOB_pct": 71.7
-    },
-    "name": "Bradgley Rodriguez",
-    "team": "SDP",
-    "player_id": 699134,
-    "season": 2026,
-    "normalized": {
-      "DI": 66.93,
-      "CCI": 87.73,
-      "RPSI": 98.7,
-      "SQI": 84.4,
-      "LAI": 70.75,
-      "SEI": 41.56
-    },
-    "UPS": 76.51,
-    "rank": 24,
-    "reliability_pct": 73.7,
-    "adjusted_UPS": 69.54,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -1672,7 +1672,7 @@
     "reliability_pct": 77.1,
     "adjusted_UPS": 69.49,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 58.0,
@@ -1940,7 +1940,7 @@
     "reliability_pct": 78.8,
     "adjusted_UPS": 69.25,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 112.2,
@@ -2007,7 +2007,7 @@
     "reliability_pct": 73.7,
     "adjusted_UPS": 69.19,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 137.2,
@@ -2074,7 +2074,7 @@
     "reliability_pct": 77.4,
     "adjusted_UPS": 69.19,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 126.1,
@@ -2141,7 +2141,7 @@
     "reliability_pct": 75.9,
     "adjusted_UPS": 69.1,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 156.0,
@@ -2208,7 +2208,7 @@
     "reliability_pct": 79.6,
     "adjusted_UPS": 69.09,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 46.1,
@@ -2476,7 +2476,7 @@
     "reliability_pct": 79.4,
     "adjusted_UPS": 68.48,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 48.1,
@@ -2610,7 +2610,7 @@
     "reliability_pct": 76.1,
     "adjusted_UPS": 68.39,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 78.0,
@@ -2878,7 +2878,7 @@
     "reliability_pct": 77.3,
     "adjusted_UPS": 68.3,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 113.2,
@@ -2945,7 +2945,7 @@
     "reliability_pct": 73.9,
     "adjusted_UPS": 68.19,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 142.2,
@@ -3012,7 +3012,7 @@
     "reliability_pct": 78.0,
     "adjusted_UPS": 68.12,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 51.1,
@@ -3146,33 +3146,33 @@
     "reliability_pct": 75.3,
     "adjusted_UPS": 68.09,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
-    "IP": 149.1,
-    "ERA": 2.65,
+    "IP": 151.2,
+    "ERA": 2.61,
     "WAR": 4.24,
     "salary": 18333333.0,
-    "K": 142,
-    "BB": 34,
-    "K_pct": 24.8,
-    "BB_pct": 5.9,
+    "K": 145,
+    "BB": 35,
+    "K_pct": 24.9,
+    "BB_pct": 6.0,
     "xERA": 3.08,
-    "FIP": 3.29,
+    "FIP": 3.27,
     "SIERA": 3.37,
     "fb_velo": 93.0,
     "hardhit_pct": 35.9,
     "barrel_pct": 6.5,
     "BABIP": 0.221,
     "LOB_pct": 67.9,
-    "H": 100,
+    "H": 101,
     "ER": 44,
     "HR": 15,
     "SV": 0,
     "HLD": 0,
     "W": 12,
     "L": 7,
-    "K9": 8.57,
+    "K9": 8.63,
     "WHIP": 0.9,
     "role": "starter",
     "raw": {
@@ -3184,11 +3184,11 @@
       "SEI": 0.2313
     },
     "components": {
-      "K_pct": 24.8,
-      "BB_pct": 5.9,
+      "K_pct": 24.9,
+      "BB_pct": 6.0,
       "K_BB_pct": 18.9,
       "xERA": 3.08,
-      "FIP": 3.29,
+      "FIP": 3.27,
       "SIERA": 3.37,
       "Velo": 93.0,
       "HardHit_pct": 35.9,
@@ -3210,10 +3210,10 @@
     },
     "UPS": 72.85,
     "rank": 48,
-    "reliability_pct": 78.8,
-    "adjusted_UPS": 68.02,
+    "reliability_pct": 79.1,
+    "adjusted_UPS": 68.07,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 57.0,
@@ -3481,7 +3481,7 @@
     "reliability_pct": 75.0,
     "adjusted_UPS": 67.87,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 149.0,
@@ -3548,7 +3548,7 @@
     "reliability_pct": 78.8,
     "adjusted_UPS": 67.86,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 130.1,
@@ -3615,7 +3615,7 @@
     "reliability_pct": 76.5,
     "adjusted_UPS": 67.81,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 84.2,
@@ -3682,7 +3682,7 @@
     "reliability_pct": 67.8,
     "adjusted_UPS": 67.8,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 50.0,
@@ -3950,7 +3950,7 @@
     "reliability_pct": 77.7,
     "adjusted_UPS": 67.71,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 98.1,
@@ -4017,7 +4017,7 @@
     "reliability_pct": 71.0,
     "adjusted_UPS": 67.68,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 150.1,
@@ -4084,7 +4084,7 @@
     "reliability_pct": 79.0,
     "adjusted_UPS": 67.66,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 63.1,
@@ -4151,7 +4151,7 @@
     "reliability_pct": 61.2,
     "adjusted_UPS": 67.64,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 50.0,
@@ -4285,7 +4285,7 @@
     "reliability_pct": 74.6,
     "adjusted_UPS": 67.61,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 140.2,
@@ -4352,7 +4352,7 @@
     "reliability_pct": 77.8,
     "adjusted_UPS": 67.55,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 48.1,
@@ -4486,7 +4486,7 @@
     "reliability_pct": 75.9,
     "adjusted_UPS": 67.42,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 44.0,
@@ -4687,7 +4687,7 @@
     "reliability_pct": 77.5,
     "adjusted_UPS": 67.31,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 138.2,
@@ -4754,7 +4754,7 @@
     "reliability_pct": 77.6,
     "adjusted_UPS": 67.31,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 59.1,
@@ -4888,7 +4888,7 @@
     "reliability_pct": 78.2,
     "adjusted_UPS": 67.2,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 57.1,
@@ -4958,6 +4958,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 133.2,
+    "ERA": 3.37,
+    "WAR": 2.63,
+    "salary": 6689680.0,
+    "K": 125,
+    "BB": 32,
+    "K_pct": 23.0,
+    "BB_pct": 5.9,
+    "xERA": 3.97,
+    "FIP": 3.8,
+    "SIERA": 3.72,
+    "fb_velo": 93.0,
+    "hardhit_pct": 41.1,
+    "barrel_pct": 8.3,
+    "BABIP": 0.273,
+    "LOB_pct": 67.3,
+    "H": 118,
+    "ER": 50,
+    "HR": 18,
+    "SV": 0,
+    "HLD": 0,
+    "W": 7,
+    "L": 7,
+    "K9": 8.45,
+    "WHIP": 1.12,
+    "role": "starter",
+    "raw": {
+      "DI": 19.34,
+      "CCI": 93.8,
+      "RPSI": 3.8,
+      "SQI": 43.6,
+      "LAI": -5.34,
+      "SEI": 0.3931
+    },
+    "components": {
+      "K_pct": 23.0,
+      "BB_pct": 5.9,
+      "K_BB_pct": 17.1,
+      "xERA": 3.97,
+      "FIP": 3.8,
+      "SIERA": 3.72,
+      "Velo": 93.0,
+      "HardHit_pct": 41.1,
+      "Barrel_pct": 8.3,
+      "BABIP": 0.273,
+      "LOB_pct": 67.3
+    },
+    "name": "Emerson Hancock",
+    "team": "SEA",
+    "player_id": 676106,
+    "season": 2026,
+    "normalized": {
+      "DI": 64.35,
+      "CCI": 89.67,
+      "RPSI": 97.74,
+      "SQI": 75.3,
+      "LAI": 68.39,
+      "SEI": 24.95
+    },
+    "UPS": 72.29,
+    "rank": 75,
+    "reliability_pct": 76.9,
+    "adjusted_UPS": 67.14,
+    "low_sample": false,
+    "low_sample_threshold": 31.2
+  },
+  {
     "IP": 93.2,
     "ERA": 3.65,
     "WAR": 2.05,
@@ -5018,11 +5085,11 @@
       "SEI": 51.69
     },
     "UPS": 74.48,
-    "rank": 75,
+    "rank": 76,
     "reliability_pct": 70.0,
     "adjusted_UPS": 67.13,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 176.2,
@@ -5085,11 +5152,11 @@
       "SEI": 22.44
     },
     "UPS": 71.02,
-    "rank": 76,
+    "rank": 77,
     "reliability_pct": 81.5,
     "adjusted_UPS": 67.13,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 50.0,
@@ -5152,7 +5219,7 @@
       "SEI": 25.13
     },
     "UPS": 73.98,
-    "rank": 77,
+    "rank": 78,
     "reliability_pct": 71.4,
     "adjusted_UPS": 67.13,
     "low_sample": false,
@@ -5219,78 +5286,11 @@
       "SEI": 45.24
     },
     "UPS": 74.62,
-    "rank": 78,
+    "rank": 79,
     "reliability_pct": 69.5,
     "adjusted_UPS": 67.11,
     "low_sample": false,
-    "low_sample_threshold": 31.1
-  },
-  {
-    "IP": 132.1,
-    "ERA": 3.4,
-    "WAR": 2.63,
-    "salary": 6689680.0,
-    "K": 124,
-    "BB": 32,
-    "K_pct": 23.0,
-    "BB_pct": 5.9,
-    "xERA": 3.97,
-    "FIP": 3.82,
-    "SIERA": 3.72,
-    "fb_velo": 93.0,
-    "hardhit_pct": 41.1,
-    "barrel_pct": 8.3,
-    "BABIP": 0.273,
-    "LOB_pct": 67.3,
-    "H": 117,
-    "ER": 50,
-    "HR": 18,
-    "SV": 0,
-    "HLD": 0,
-    "W": 7,
-    "L": 7,
-    "K9": 8.45,
-    "WHIP": 1.13,
-    "role": "starter",
-    "raw": {
-      "DI": 19.34,
-      "CCI": 93.8,
-      "RPSI": 3.8,
-      "SQI": 43.6,
-      "LAI": -5.34,
-      "SEI": 0.3931
-    },
-    "components": {
-      "K_pct": 23.0,
-      "BB_pct": 5.9,
-      "K_BB_pct": 17.1,
-      "xERA": 3.97,
-      "FIP": 3.82,
-      "SIERA": 3.72,
-      "Velo": 93.0,
-      "HardHit_pct": 41.1,
-      "Barrel_pct": 8.3,
-      "BABIP": 0.273,
-      "LOB_pct": 67.3
-    },
-    "name": "Emerson Hancock",
-    "team": "SEA",
-    "player_id": 676106,
-    "season": 2026,
-    "normalized": {
-      "DI": 64.35,
-      "CCI": 89.67,
-      "RPSI": 97.74,
-      "SQI": 75.3,
-      "LAI": 68.39,
-      "SEI": 24.95
-    },
-    "UPS": 72.29,
-    "rank": 79,
-    "reliability_pct": 76.8,
-    "adjusted_UPS": 67.11,
-    "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 40.2,
@@ -5424,7 +5424,74 @@
     "reliability_pct": 75.8,
     "adjusted_UPS": 67.08,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
+  },
+  {
+    "IP": 69.1,
+    "ERA": 2.99,
+    "WAR": 1.89,
+    "salary": 2505601.0,
+    "K": 80,
+    "BB": 42,
+    "K_pct": 26.7,
+    "BB_pct": 14.0,
+    "xERA": 3.47,
+    "FIP": 3.46,
+    "SIERA": 3.45,
+    "fb_velo": 93.0,
+    "hardhit_pct": 30.1,
+    "barrel_pct": 4.8,
+    "BABIP": 0.272,
+    "LOB_pct": 72.7,
+    "H": 48,
+    "ER": 23,
+    "HR": 4,
+    "SV": 1,
+    "HLD": 6,
+    "W": 6,
+    "L": 3,
+    "K9": 10.42,
+    "WHIP": 1.3,
+    "role": "reliever",
+    "raw": {
+      "DI": 18.38,
+      "CCI": 86.15,
+      "RPSI": 3.46,
+      "SQI": 58.1,
+      "LAI": 0.27,
+      "SEI": 0.7543
+    },
+    "components": {
+      "K_pct": 26.7,
+      "BB_pct": 14.0,
+      "K_BB_pct": 12.7,
+      "xERA": 3.47,
+      "FIP": 3.46,
+      "SIERA": 3.45,
+      "Velo": 93.0,
+      "HardHit_pct": 30.1,
+      "Barrel_pct": 4.8,
+      "BABIP": 0.272,
+      "LOB_pct": 72.7
+    },
+    "name": "Yohan Ram\u00edrez",
+    "team": "PIT",
+    "player_id": 670990,
+    "season": 2026,
+    "normalized": {
+      "DI": 63.23,
+      "CCI": 76.92,
+      "RPSI": 97.99,
+      "SQI": 82.55,
+      "LAI": 71.05,
+      "SEI": 29.27
+    },
+    "UPS": 71.98,
+    "rank": 82,
+    "reliability_pct": 77.6,
+    "adjusted_UPS": 67.05,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
   },
   {
     "IP": 134.0,
@@ -5487,11 +5554,11 @@
       "SEI": 23.74
     },
     "UPS": 72.11,
-    "rank": 82,
+    "rank": 83,
     "reliability_pct": 77.0,
     "adjusted_UPS": 67.03,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 125.0,
@@ -5554,11 +5621,11 @@
       "SEI": 34.33
     },
     "UPS": 72.46,
-    "rank": 83,
+    "rank": 84,
     "reliability_pct": 75.8,
     "adjusted_UPS": 67.02,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 36.1,
@@ -5621,76 +5688,9 @@
       "SEI": 36.04
     },
     "UPS": 76.44,
-    "rank": 84,
+    "rank": 85,
     "reliability_pct": 64.3,
     "adjusted_UPS": 67.01,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 68.1,
-    "ERA": 3.03,
-    "WAR": 1.89,
-    "salary": 2505601.0,
-    "K": 79,
-    "BB": 41,
-    "K_pct": 26.7,
-    "BB_pct": 13.9,
-    "xERA": 3.47,
-    "FIP": 3.45,
-    "SIERA": 3.45,
-    "fb_velo": 93.0,
-    "hardhit_pct": 30.1,
-    "barrel_pct": 4.8,
-    "BABIP": 0.272,
-    "LOB_pct": 72.7,
-    "H": 48,
-    "ER": 23,
-    "HR": 4,
-    "SV": 1,
-    "HLD": 6,
-    "W": 6,
-    "L": 3,
-    "K9": 10.44,
-    "WHIP": 1.3,
-    "role": "reliever",
-    "raw": {
-      "DI": 18.38,
-      "CCI": 86.15,
-      "RPSI": 3.46,
-      "SQI": 58.1,
-      "LAI": 0.27,
-      "SEI": 0.7543
-    },
-    "components": {
-      "K_pct": 26.7,
-      "BB_pct": 13.9,
-      "K_BB_pct": 12.8,
-      "xERA": 3.47,
-      "FIP": 3.45,
-      "SIERA": 3.45,
-      "Velo": 93.0,
-      "HardHit_pct": 30.1,
-      "Barrel_pct": 4.8,
-      "BABIP": 0.272,
-      "LOB_pct": 72.7
-    },
-    "name": "Yohan Ram\u00edrez",
-    "team": "PIT",
-    "player_id": 670990,
-    "season": 2026,
-    "normalized": {
-      "DI": 63.23,
-      "CCI": 76.92,
-      "RPSI": 97.99,
-      "SQI": 82.55,
-      "LAI": 71.05,
-      "SEI": 29.27
-    },
-    "UPS": 71.98,
-    "rank": 85,
-    "reliability_pct": 77.3,
-    "adjusted_UPS": 66.99,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -5759,7 +5759,74 @@
     "reliability_pct": 77.7,
     "adjusted_UPS": 66.86,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
+  },
+  {
+    "IP": 57.0,
+    "ERA": 2.21,
+    "WAR": 1.24,
+    "salary": 3680469.0,
+    "K": 64,
+    "BB": 20,
+    "K_pct": 27.1,
+    "BB_pct": 8.5,
+    "xERA": 3.75,
+    "FIP": 3.38,
+    "SIERA": 3.41,
+    "fb_velo": 93.0,
+    "hardhit_pct": 41.6,
+    "barrel_pct": 6.0,
+    "BABIP": 0.28,
+    "LOB_pct": 74.2,
+    "H": 47,
+    "ER": 14,
+    "HR": 6,
+    "SV": 9,
+    "HLD": 8,
+    "W": 6,
+    "L": 2,
+    "K9": 10.11,
+    "WHIP": 1.18,
+    "role": "reliever",
+    "raw": {
+      "DI": 21.98,
+      "CCI": 91.38,
+      "RPSI": 3.53,
+      "SQI": 45.4,
+      "LAI": 0.73,
+      "SEI": 0.3369
+    },
+    "components": {
+      "K_pct": 27.1,
+      "BB_pct": 8.5,
+      "K_BB_pct": 18.6,
+      "xERA": 3.75,
+      "FIP": 3.38,
+      "SIERA": 3.41,
+      "Velo": 93.0,
+      "HardHit_pct": 41.6,
+      "Barrel_pct": 6.0,
+      "BABIP": 0.28,
+      "LOB_pct": 74.2
+    },
+    "name": "Jacob Webb",
+    "team": "CHC",
+    "player_id": 657097,
+    "season": 2026,
+    "normalized": {
+      "DI": 67.42,
+      "CCI": 85.63,
+      "RPSI": 97.94,
+      "SQI": 76.2,
+      "LAI": 71.27,
+      "SEI": 24.28
+    },
+    "UPS": 72.77,
+    "rank": 87,
+    "reliability_pct": 74.0,
+    "adjusted_UPS": 66.86,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
   },
   {
     "IP": 55.0,
@@ -5822,8 +5889,75 @@
       "SEI": 20.38
     },
     "UPS": 72.92,
-    "rank": 87,
+    "rank": 88,
     "reliability_pct": 73.3,
+    "adjusted_UPS": 66.81,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
+  },
+  {
+    "IP": 58.0,
+    "ERA": 3.1,
+    "WAR": 0.89,
+    "salary": 2129891.0,
+    "K": 58,
+    "BB": 18,
+    "K_pct": 23.6,
+    "BB_pct": 7.3,
+    "xERA": 4.2,
+    "FIP": 4.15,
+    "SIERA": 3.87,
+    "fb_velo": 93.0,
+    "hardhit_pct": 37.6,
+    "barrel_pct": 8.5,
+    "BABIP": 0.31,
+    "LOB_pct": 69.9,
+    "H": 58,
+    "ER": 20,
+    "HR": 9,
+    "SV": 0,
+    "HLD": 24,
+    "W": 3,
+    "L": 3,
+    "K9": 9.0,
+    "WHIP": 1.31,
+    "role": "reliever",
+    "raw": {
+      "DI": 19.83,
+      "CCI": 93.31,
+      "RPSI": 3.98,
+      "SQI": 46.9,
+      "LAI": -3.32,
+      "SEI": 0.4179
+    },
+    "components": {
+      "K_pct": 23.6,
+      "BB_pct": 7.3,
+      "K_BB_pct": 16.3,
+      "xERA": 4.2,
+      "FIP": 4.15,
+      "SIERA": 3.87,
+      "Velo": 93.0,
+      "HardHit_pct": 37.6,
+      "Barrel_pct": 8.5,
+      "BABIP": 0.31,
+      "LOB_pct": 69.9
+    },
+    "name": "Eduard Bazardo",
+    "team": "SEA",
+    "player_id": 660825,
+    "season": 2026,
+    "normalized": {
+      "DI": 64.92,
+      "CCI": 88.85,
+      "RPSI": 97.61,
+      "SQI": 76.95,
+      "LAI": 69.35,
+      "SEI": 25.24
+    },
+    "UPS": 72.6,
+    "rank": 89,
+    "reliability_pct": 74.4,
     "adjusted_UPS": 66.81,
     "low_sample": false,
     "low_sample_threshold": 8.0
@@ -5889,76 +6023,9 @@
       "SEI": 36.5
     },
     "UPS": 75.15,
-    "rank": 88,
+    "rank": 90,
     "reliability_pct": 66.8,
     "adjusted_UPS": 66.79,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 56.0,
-    "ERA": 2.25,
-    "WAR": 1.24,
-    "salary": 3680469.0,
-    "K": 63,
-    "BB": 20,
-    "K_pct": 27.2,
-    "BB_pct": 8.6,
-    "xERA": 3.75,
-    "FIP": 3.41,
-    "SIERA": 3.41,
-    "fb_velo": 93.0,
-    "hardhit_pct": 41.6,
-    "barrel_pct": 6.0,
-    "BABIP": 0.28,
-    "LOB_pct": 74.2,
-    "H": 46,
-    "ER": 14,
-    "HR": 6,
-    "SV": 9,
-    "HLD": 8,
-    "W": 6,
-    "L": 2,
-    "K9": 10.12,
-    "WHIP": 1.18,
-    "role": "reliever",
-    "raw": {
-      "DI": 21.98,
-      "CCI": 91.38,
-      "RPSI": 3.53,
-      "SQI": 45.4,
-      "LAI": 0.73,
-      "SEI": 0.3369
-    },
-    "components": {
-      "K_pct": 27.2,
-      "BB_pct": 8.6,
-      "K_BB_pct": 18.6,
-      "xERA": 3.75,
-      "FIP": 3.41,
-      "SIERA": 3.41,
-      "Velo": 93.0,
-      "HardHit_pct": 41.6,
-      "Barrel_pct": 6.0,
-      "BABIP": 0.28,
-      "LOB_pct": 74.2
-    },
-    "name": "Jacob Webb",
-    "team": "CHC",
-    "player_id": 657097,
-    "season": 2026,
-    "normalized": {
-      "DI": 67.42,
-      "CCI": 85.63,
-      "RPSI": 97.94,
-      "SQI": 76.2,
-      "LAI": 71.27,
-      "SEI": 24.28
-    },
-    "UPS": 72.77,
-    "rank": 89,
-    "reliability_pct": 73.7,
-    "adjusted_UPS": 66.78,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -6023,11 +6090,11 @@
       "SEI": 40.8
     },
     "UPS": 73.32,
-    "rank": 90,
+    "rank": 91,
     "reliability_pct": 71.9,
     "adjusted_UPS": 66.76,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 122.2,
@@ -6090,78 +6157,11 @@
       "SEI": 28.36
     },
     "UPS": 72.22,
-    "rank": 91,
+    "rank": 92,
     "reliability_pct": 75.3,
     "adjusted_UPS": 66.74,
     "low_sample": false,
-    "low_sample_threshold": 31.1
-  },
-  {
-    "IP": 57.0,
-    "ERA": 3.0,
-    "WAR": 0.89,
-    "salary": 2129891.0,
-    "K": 57,
-    "BB": 16,
-    "K_pct": 23.8,
-    "BB_pct": 6.7,
-    "xERA": 4.2,
-    "FIP": 3.87,
-    "SIERA": 3.87,
-    "fb_velo": 93.0,
-    "hardhit_pct": 37.6,
-    "barrel_pct": 8.5,
-    "BABIP": 0.31,
-    "LOB_pct": 69.9,
-    "H": 56,
-    "ER": 19,
-    "HR": 8,
-    "SV": 0,
-    "HLD": 24,
-    "W": 3,
-    "L": 3,
-    "K9": 9.0,
-    "WHIP": 1.26,
-    "role": "reliever",
-    "raw": {
-      "DI": 19.83,
-      "CCI": 93.31,
-      "RPSI": 3.98,
-      "SQI": 46.9,
-      "LAI": -3.32,
-      "SEI": 0.4179
-    },
-    "components": {
-      "K_pct": 23.8,
-      "BB_pct": 6.7,
-      "K_BB_pct": 17.1,
-      "xERA": 4.2,
-      "FIP": 3.87,
-      "SIERA": 3.87,
-      "Velo": 93.0,
-      "HardHit_pct": 37.6,
-      "Barrel_pct": 8.5,
-      "BABIP": 0.31,
-      "LOB_pct": 69.9
-    },
-    "name": "Eduard Bazardo",
-    "team": "SEA",
-    "player_id": 660825,
-    "season": 2026,
-    "normalized": {
-      "DI": 64.92,
-      "CCI": 88.85,
-      "RPSI": 97.61,
-      "SQI": 76.95,
-      "LAI": 69.35,
-      "SEI": 25.24
-    },
-    "UPS": 72.6,
-    "rank": 92,
-    "reliability_pct": 74.0,
-    "adjusted_UPS": 66.73,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 141.2,
@@ -6228,7 +6228,7 @@
     "reliability_pct": 77.9,
     "adjusted_UPS": 66.72,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 56.1,
@@ -6429,7 +6429,7 @@
     "reliability_pct": 76.8,
     "adjusted_UPS": 66.67,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 51.2,
@@ -6563,7 +6563,7 @@
     "reliability_pct": 78.2,
     "adjusted_UPS": 66.63,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 141.2,
@@ -6630,7 +6630,7 @@
     "reliability_pct": 77.9,
     "adjusted_UPS": 66.62,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 71.0,
@@ -6764,7 +6764,7 @@
     "reliability_pct": 78.4,
     "adjusted_UPS": 66.57,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 52.2,
@@ -6898,7 +6898,7 @@
     "reliability_pct": 78.2,
     "adjusted_UPS": 66.53,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 132.1,
@@ -6965,7 +6965,7 @@
     "reliability_pct": 76.8,
     "adjusted_UPS": 66.53,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 113.1,
@@ -7032,7 +7032,7 @@
     "reliability_pct": 73.9,
     "adjusted_UPS": 66.52,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 155.2,
@@ -7099,7 +7099,7 @@
     "reliability_pct": 79.5,
     "adjusted_UPS": 66.51,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 53.0,
@@ -7434,7 +7434,74 @@
     "reliability_pct": 77.8,
     "adjusted_UPS": 66.42,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
+  },
+  {
+    "IP": 49.0,
+    "ERA": 2.2,
+    "WAR": 1.81,
+    "salary": 16206018.0,
+    "K": 52,
+    "BB": 12,
+    "K_pct": 27.4,
+    "BB_pct": 6.3,
+    "xERA": 2.99,
+    "FIP": 2.61,
+    "SIERA": 2.72,
+    "fb_velo": 93.0,
+    "hardhit_pct": 35.5,
+    "barrel_pct": 8.1,
+    "BABIP": 0.225,
+    "LOB_pct": 70.5,
+    "H": 30,
+    "ER": 12,
+    "HR": 3,
+    "SV": 1,
+    "HLD": 15,
+    "W": 2,
+    "L": 1,
+    "K9": 9.55,
+    "WHIP": 0.86,
+    "role": "reliever",
+    "raw": {
+      "DI": 22.35,
+      "CCI": 93.58,
+      "RPSI": 2.81,
+      "SQI": 49.4,
+      "LAI": -2.35,
+      "SEI": 0.1117
+    },
+    "components": {
+      "K_pct": 27.4,
+      "BB_pct": 6.3,
+      "K_BB_pct": 21.1,
+      "xERA": 2.99,
+      "FIP": 2.61,
+      "SIERA": 2.72,
+      "Velo": 93.0,
+      "HardHit_pct": 35.5,
+      "Barrel_pct": 8.1,
+      "BABIP": 0.225,
+      "LOB_pct": 70.5
+    },
+    "name": "Luke Weaver",
+    "team": "New York/PIT",
+    "player_id": 596133,
+    "season": 2026,
+    "normalized": {
+      "DI": 67.85,
+      "CCI": 89.3,
+      "RPSI": 98.46,
+      "SQI": 78.2,
+      "LAI": 69.81,
+      "SEI": 21.58
+    },
+    "UPS": 73.11,
+    "rank": 112,
+    "reliability_pct": 71.0,
+    "adjusted_UPS": 66.41,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
   },
   {
     "IP": 136.0,
@@ -7497,11 +7564,11 @@
       "SEI": 25.8
     },
     "UPS": 71.21,
-    "rank": 112,
+    "rank": 113,
     "reliability_pct": 77.3,
     "adjusted_UPS": 66.39,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 150.1,
@@ -7564,11 +7631,78 @@
       "SEI": 26.61
     },
     "UPS": 70.76,
-    "rank": 113,
+    "rank": 114,
     "reliability_pct": 79.0,
     "adjusted_UPS": 66.39,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
+  },
+  {
+    "IP": 155.0,
+    "ERA": 2.61,
+    "WAR": 4.41,
+    "salary": 20000000.0,
+    "K": 110,
+    "BB": 49,
+    "K_pct": 17.3,
+    "BB_pct": 7.7,
+    "xERA": 4.72,
+    "FIP": 3.9,
+    "SIERA": 3.94,
+    "fb_velo": 93.0,
+    "hardhit_pct": 35.2,
+    "barrel_pct": 8.3,
+    "BABIP": 0.271,
+    "LOB_pct": 72.9,
+    "H": 138,
+    "ER": 45,
+    "HR": 14,
+    "SV": 0,
+    "HLD": 0,
+    "W": 13,
+    "L": 4,
+    "K9": 6.39,
+    "WHIP": 1.21,
+    "role": "starter",
+    "raw": {
+      "DI": 12.69,
+      "CCI": 92.33,
+      "RPSI": 4.2,
+      "SQI": 49.5,
+      "LAI": -1.1,
+      "SEI": 0.2205
+    },
+    "components": {
+      "K_pct": 17.3,
+      "BB_pct": 7.7,
+      "K_BB_pct": 9.6,
+      "xERA": 4.72,
+      "FIP": 3.9,
+      "SIERA": 3.94,
+      "Velo": 93.0,
+      "HardHit_pct": 35.2,
+      "Barrel_pct": 8.3,
+      "BABIP": 0.271,
+      "LOB_pct": 72.9
+    },
+    "name": "Eduardo Rodriguez",
+    "team": "ARI",
+    "player_id": 593958,
+    "season": 2026,
+    "normalized": {
+      "DI": 56.62,
+      "CCI": 87.22,
+      "RPSI": 97.45,
+      "SQI": 78.25,
+      "LAI": 70.4,
+      "SEI": 22.88
+    },
+    "UPS": 70.59,
+    "rank": 115,
+    "reliability_pct": 79.5,
+    "adjusted_UPS": 66.37,
+    "low_sample": false,
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 121.0,
@@ -7631,143 +7765,76 @@
       "SEI": 34.36
     },
     "UPS": 71.77,
-    "rank": 114,
+    "rank": 116,
     "reliability_pct": 75.2,
     "adjusted_UPS": 66.36,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
-    "IP": 154.1,
-    "ERA": 2.62,
-    "WAR": 4.41,
-    "salary": 20000000.0,
-    "K": 110,
-    "BB": 48,
-    "K_pct": 17.4,
-    "BB_pct": 7.6,
-    "xERA": 4.72,
-    "FIP": 3.89,
-    "SIERA": 3.94,
+    "IP": 47.1,
+    "ERA": 4.37,
+    "WAR": 0.01,
+    "salary": 2687500.0,
+    "K": 75,
+    "BB": 18,
+    "K_pct": 37.7,
+    "BB_pct": 9.0,
+    "xERA": 3.24,
+    "FIP": 3.09,
+    "SIERA": 2.9,
     "fb_velo": 93.0,
-    "hardhit_pct": 35.2,
-    "barrel_pct": 8.3,
-    "BABIP": 0.271,
-    "LOB_pct": 72.9,
-    "H": 138,
-    "ER": 45,
-    "HR": 14,
-    "SV": 0,
+    "hardhit_pct": 41.7,
+    "barrel_pct": 8.7,
+    "BABIP": 0.33,
+    "LOB_pct": 57.9,
+    "H": 39,
+    "ER": 23,
+    "HR": 7,
+    "SV": 23,
     "HLD": 0,
-    "W": 12,
-    "L": 4,
-    "K9": 6.42,
-    "WHIP": 1.21,
-    "role": "starter",
-    "raw": {
-      "DI": 12.69,
-      "CCI": 92.33,
-      "RPSI": 4.2,
-      "SQI": 49.5,
-      "LAI": -1.1,
-      "SEI": 0.2205
-    },
-    "components": {
-      "K_pct": 17.4,
-      "BB_pct": 7.6,
-      "K_BB_pct": 9.8,
-      "xERA": 4.72,
-      "FIP": 3.89,
-      "SIERA": 3.94,
-      "Velo": 93.0,
-      "HardHit_pct": 35.2,
-      "Barrel_pct": 8.3,
-      "BABIP": 0.271,
-      "LOB_pct": 72.9
-    },
-    "name": "Eduardo Rodriguez",
-    "team": "ARI",
-    "player_id": 593958,
-    "season": 2026,
-    "normalized": {
-      "DI": 56.62,
-      "CCI": 87.22,
-      "RPSI": 97.45,
-      "SQI": 78.25,
-      "LAI": 70.4,
-      "SEI": 22.88
-    },
-    "UPS": 70.59,
-    "rank": 115,
-    "reliability_pct": 79.4,
-    "adjusted_UPS": 66.35,
-    "low_sample": false,
-    "low_sample_threshold": 31.1
-  },
-  {
-    "IP": 48.0,
-    "ERA": 2.25,
-    "WAR": 1.81,
-    "salary": 16206018.0,
-    "K": 49,
-    "BB": 12,
-    "K_pct": 26.2,
-    "BB_pct": 6.4,
-    "xERA": 2.99,
-    "FIP": 2.72,
-    "SIERA": 2.72,
-    "fb_velo": 93.0,
-    "hardhit_pct": 35.5,
-    "barrel_pct": 8.1,
-    "BABIP": 0.225,
-    "LOB_pct": 70.5,
-    "H": 30,
-    "ER": 12,
-    "HR": 3,
-    "SV": 1,
-    "HLD": 15,
-    "W": 2,
-    "L": 1,
-    "K9": 9.19,
-    "WHIP": 0.88,
+    "W": 5,
+    "L": 5,
+    "K9": 14.33,
+    "WHIP": 1.2,
     "role": "reliever",
     "raw": {
-      "DI": 22.35,
-      "CCI": 93.58,
-      "RPSI": 2.81,
-      "SQI": 49.4,
-      "LAI": -2.35,
-      "SEI": 0.1117
+      "DI": 31.9,
+      "CCI": 90.77,
+      "RPSI": 3.01,
+      "SQI": 42.6,
+      "LAI": -13.04,
+      "SEI": 0.0037
     },
     "components": {
-      "K_pct": 26.2,
-      "BB_pct": 6.4,
-      "K_BB_pct": 19.8,
-      "xERA": 2.99,
-      "FIP": 2.72,
-      "SIERA": 2.72,
+      "K_pct": 37.7,
+      "BB_pct": 9.0,
+      "K_BB_pct": 28.7,
+      "xERA": 3.24,
+      "FIP": 3.09,
+      "SIERA": 2.9,
       "Velo": 93.0,
-      "HardHit_pct": 35.5,
-      "Barrel_pct": 8.1,
-      "BABIP": 0.225,
-      "LOB_pct": 70.5
+      "HardHit_pct": 41.7,
+      "Barrel_pct": 8.7,
+      "BABIP": 0.33,
+      "LOB_pct": 57.9
     },
-    "name": "Luke Weaver",
-    "team": "New York/PIT",
-    "player_id": 596133,
+    "name": "Andr\u00e9s Mu\u00f1oz",
+    "team": "SEA",
+    "player_id": 662253,
     "season": 2026,
     "normalized": {
-      "DI": 67.85,
-      "CCI": 89.3,
-      "RPSI": 98.46,
-      "SQI": 78.2,
-      "LAI": 69.81,
-      "SEI": 21.58
+      "DI": 78.95,
+      "CCI": 84.62,
+      "RPSI": 98.32,
+      "SQI": 74.8,
+      "LAI": 64.72,
+      "SEI": 20.29
     },
-    "UPS": 73.11,
-    "rank": 116,
-    "reliability_pct": 70.6,
-    "adjusted_UPS": 66.31,
+    "UPS": 73.29,
+    "rank": 117,
+    "reliability_pct": 70.2,
+    "adjusted_UPS": 66.35,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -7832,7 +7899,7 @@
       "SEI": 24.08
     },
     "UPS": 71.75,
-    "rank": 117,
+    "rank": 118,
     "reliability_pct": 74.7,
     "adjusted_UPS": 66.26,
     "low_sample": false,
@@ -7899,76 +7966,9 @@
       "SEI": 42.18
     },
     "UPS": 72.04,
-    "rank": 118,
+    "rank": 119,
     "reliability_pct": 73.7,
     "adjusted_UPS": 66.25,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 46.1,
-    "ERA": 4.27,
-    "WAR": 0.01,
-    "salary": 2687500.0,
-    "K": 73,
-    "BB": 18,
-    "K_pct": 37.4,
-    "BB_pct": 9.2,
-    "xERA": 3.24,
-    "FIP": 2.9,
-    "SIERA": 2.9,
-    "fb_velo": 93.0,
-    "hardhit_pct": 41.7,
-    "barrel_pct": 8.7,
-    "BABIP": 0.33,
-    "LOB_pct": 57.9,
-    "H": 38,
-    "ER": 22,
-    "HR": 6,
-    "SV": 23,
-    "HLD": 0,
-    "W": 5,
-    "L": 5,
-    "K9": 14.25,
-    "WHIP": 1.21,
-    "role": "reliever",
-    "raw": {
-      "DI": 31.9,
-      "CCI": 90.77,
-      "RPSI": 3.01,
-      "SQI": 42.6,
-      "LAI": -13.04,
-      "SEI": 0.0037
-    },
-    "components": {
-      "K_pct": 37.4,
-      "BB_pct": 9.2,
-      "K_BB_pct": 28.2,
-      "xERA": 3.24,
-      "FIP": 2.9,
-      "SIERA": 2.9,
-      "Velo": 93.0,
-      "HardHit_pct": 41.7,
-      "Barrel_pct": 8.7,
-      "BABIP": 0.33,
-      "LOB_pct": 57.9
-    },
-    "name": "Andr\u00e9s Mu\u00f1oz",
-    "team": "SEA",
-    "player_id": 662253,
-    "season": 2026,
-    "normalized": {
-      "DI": 78.95,
-      "CCI": 84.62,
-      "RPSI": 98.32,
-      "SQI": 74.8,
-      "LAI": 64.72,
-      "SEI": 20.29
-    },
-    "UPS": 73.29,
-    "rank": 119,
-    "reliability_pct": 69.7,
-    "adjusted_UPS": 66.24,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -8037,7 +8037,7 @@
     "reliability_pct": 71.7,
     "adjusted_UPS": 66.24,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 27.0,
@@ -8171,7 +8171,7 @@
     "reliability_pct": 66.7,
     "adjusted_UPS": 66.21,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 52.0,
@@ -8305,7 +8305,7 @@
     "reliability_pct": 73.5,
     "adjusted_UPS": 66.2,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 72.1,
@@ -8439,7 +8439,7 @@
     "reliability_pct": 71.4,
     "adjusted_UPS": 66.15,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 54.1,
@@ -8573,7 +8573,7 @@
     "reliability_pct": 77.0,
     "adjusted_UPS": 66.12,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 145.2,
@@ -8640,7 +8640,7 @@
     "reliability_pct": 78.4,
     "adjusted_UPS": 66.12,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 90.0,
@@ -8707,7 +8707,7 @@
     "reliability_pct": 69.2,
     "adjusted_UPS": 66.09,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 102.0,
@@ -8774,7 +8774,7 @@
     "reliability_pct": 71.8,
     "adjusted_UPS": 66.08,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 137.1,
@@ -8841,7 +8841,7 @@
     "reliability_pct": 77.4,
     "adjusted_UPS": 66.05,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 54.2,
@@ -9042,7 +9042,7 @@
     "reliability_pct": 77.4,
     "adjusted_UPS": 66.01,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 132.2,
@@ -9109,7 +9109,7 @@
     "reliability_pct": 76.8,
     "adjusted_UPS": 66.01,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 59.2,
@@ -9243,7 +9243,7 @@
     "reliability_pct": 69.7,
     "adjusted_UPS": 65.98,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 54.2,
@@ -9334,7 +9334,7 @@
     "HR": 2,
     "SV": 4,
     "HLD": 11,
-    "W": 3,
+    "W": 4,
     "L": 2,
     "K9": 7.99,
     "WHIP": 1.29,
@@ -9645,7 +9645,141 @@
     "reliability_pct": 77.4,
     "adjusted_UPS": 65.86,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
+  },
+  {
+    "IP": 53.2,
+    "ERA": 3.86,
+    "WAR": 0.14,
+    "salary": 2447537.0,
+    "K": 58,
+    "BB": 15,
+    "K_pct": 24.6,
+    "BB_pct": 6.4,
+    "xERA": 4.03,
+    "FIP": 3.33,
+    "SIERA": 3.37,
+    "fb_velo": 93.0,
+    "hardhit_pct": 42.6,
+    "barrel_pct": 8.4,
+    "BABIP": 0.349,
+    "LOB_pct": 65.8,
+    "H": 58,
+    "ER": 23,
+    "HR": 6,
+    "SV": 1,
+    "HLD": 7,
+    "W": 2,
+    "L": 3,
+    "K9": 9.81,
+    "WHIP": 1.36,
+    "role": "reliever",
+    "raw": {
+      "DI": 20.6,
+      "CCI": 93.56,
+      "RPSI": 3.59,
+      "SQI": 42.0,
+      "LAI": -6.22,
+      "SEI": 0.0572
+    },
+    "components": {
+      "K_pct": 24.6,
+      "BB_pct": 6.4,
+      "K_BB_pct": 18.2,
+      "xERA": 4.03,
+      "FIP": 3.33,
+      "SIERA": 3.37,
+      "Velo": 93.0,
+      "HardHit_pct": 42.6,
+      "Barrel_pct": 8.4,
+      "BABIP": 0.349,
+      "LOB_pct": 65.8
+    },
+    "name": "Matt Festa",
+    "team": "CLE",
+    "player_id": 670036,
+    "season": 2026,
+    "normalized": {
+      "DI": 65.81,
+      "CCI": 89.27,
+      "RPSI": 97.9,
+      "SQI": 74.5,
+      "LAI": 67.97,
+      "SEI": 20.93
+    },
+    "UPS": 71.81,
+    "rank": 145,
+    "reliability_pct": 72.7,
+    "adjusted_UPS": 65.85,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
+  },
+  {
+    "IP": 51.0,
+    "ERA": 3.0,
+    "WAR": 0.33,
+    "salary": 780000,
+    "K": 55,
+    "BB": 23,
+    "K_pct": 26.8,
+    "BB_pct": 11.2,
+    "xERA": 2.64,
+    "FIP": 2.65,
+    "SIERA": 2.68,
+    "fb_velo": 93.0,
+    "hardhit_pct": 25.8,
+    "barrel_pct": 2.5,
+    "BABIP": 0.248,
+    "LOB_pct": 60.3,
+    "H": 30,
+    "ER": 17,
+    "HR": 1,
+    "SV": 1,
+    "HLD": 9,
+    "W": 4,
+    "L": 1,
+    "K9": 9.71,
+    "WHIP": 1.04,
+    "role": "reliever",
+    "raw": {
+      "DI": 19.9,
+      "CCI": 88.61,
+      "RPSI": 2.67,
+      "SQI": 64.7,
+      "LAI": -11.28,
+      "SEI": 0.4231
+    },
+    "components": {
+      "K_pct": 26.8,
+      "BB_pct": 11.2,
+      "K_BB_pct": 15.6,
+      "xERA": 2.64,
+      "FIP": 2.65,
+      "SIERA": 2.68,
+      "Velo": 93.0,
+      "HardHit_pct": 25.8,
+      "Barrel_pct": 2.5,
+      "BABIP": 0.248,
+      "LOB_pct": 60.3
+    },
+    "name": "Edgardo Henriquez",
+    "team": "LAD",
+    "player_id": 683618,
+    "season": 2026,
+    "normalized": {
+      "DI": 65.0,
+      "CCI": 81.02,
+      "RPSI": 98.56,
+      "SQI": 85.85,
+      "LAI": 65.56,
+      "SEI": 25.31
+    },
+    "UPS": 72.01,
+    "rank": 146,
+    "reliability_pct": 71.8,
+    "adjusted_UPS": 65.81,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
   },
   {
     "IP": 89.2,
@@ -9708,11 +9842,11 @@
       "SEI": 25.17
     },
     "UPS": 72.89,
-    "rank": 145,
+    "rank": 147,
     "reliability_pct": 69.0,
     "adjusted_UPS": 65.8,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 52.1,
@@ -9775,76 +9909,9 @@
       "SEI": 26.11
     },
     "UPS": 71.87,
-    "rank": 146,
+    "rank": 148,
     "reliability_pct": 72.3,
     "adjusted_UPS": 65.8,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 52.2,
-    "ERA": 3.93,
-    "WAR": 0.14,
-    "salary": 2447537.0,
-    "K": 57,
-    "BB": 15,
-    "K_pct": 24.5,
-    "BB_pct": 6.4,
-    "xERA": 4.03,
-    "FIP": 3.37,
-    "SIERA": 3.37,
-    "fb_velo": 93.0,
-    "hardhit_pct": 42.6,
-    "barrel_pct": 8.4,
-    "BABIP": 0.349,
-    "LOB_pct": 65.8,
-    "H": 58,
-    "ER": 23,
-    "HR": 6,
-    "SV": 1,
-    "HLD": 7,
-    "W": 2,
-    "L": 3,
-    "K9": 9.83,
-    "WHIP": 1.39,
-    "role": "reliever",
-    "raw": {
-      "DI": 20.6,
-      "CCI": 93.56,
-      "RPSI": 3.59,
-      "SQI": 42.0,
-      "LAI": -6.22,
-      "SEI": 0.0572
-    },
-    "components": {
-      "K_pct": 24.5,
-      "BB_pct": 6.4,
-      "K_BB_pct": 18.1,
-      "xERA": 4.03,
-      "FIP": 3.37,
-      "SIERA": 3.37,
-      "Velo": 93.0,
-      "HardHit_pct": 42.6,
-      "Barrel_pct": 8.4,
-      "BABIP": 0.349,
-      "LOB_pct": 65.8
-    },
-    "name": "Matt Festa",
-    "team": "CLE",
-    "player_id": 670036,
-    "season": 2026,
-    "normalized": {
-      "DI": 65.81,
-      "CCI": 89.27,
-      "RPSI": 97.9,
-      "SQI": 74.5,
-      "LAI": 67.97,
-      "SEI": 20.93
-    },
-    "UPS": 71.81,
-    "rank": 147,
-    "reliability_pct": 72.3,
-    "adjusted_UPS": 65.77,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -9909,76 +9976,9 @@
       "SEI": 26.32
     },
     "UPS": 73.47,
-    "rank": 148,
+    "rank": 149,
     "reliability_pct": 67.2,
     "adjusted_UPS": 65.77,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 50.0,
-    "ERA": 3.06,
-    "WAR": 0.33,
-    "salary": 780000,
-    "K": 54,
-    "BB": 23,
-    "K_pct": 26.7,
-    "BB_pct": 11.4,
-    "xERA": 2.64,
-    "FIP": 2.68,
-    "SIERA": 2.68,
-    "fb_velo": 93.0,
-    "hardhit_pct": 25.8,
-    "barrel_pct": 2.5,
-    "BABIP": 0.248,
-    "LOB_pct": 60.3,
-    "H": 30,
-    "ER": 17,
-    "HR": 1,
-    "SV": 1,
-    "HLD": 9,
-    "W": 4,
-    "L": 1,
-    "K9": 9.72,
-    "WHIP": 1.06,
-    "role": "reliever",
-    "raw": {
-      "DI": 19.9,
-      "CCI": 88.61,
-      "RPSI": 2.67,
-      "SQI": 64.7,
-      "LAI": -11.28,
-      "SEI": 0.4231
-    },
-    "components": {
-      "K_pct": 26.7,
-      "BB_pct": 11.4,
-      "K_BB_pct": 15.3,
-      "xERA": 2.64,
-      "FIP": 2.68,
-      "SIERA": 2.68,
-      "Velo": 93.0,
-      "HardHit_pct": 25.8,
-      "Barrel_pct": 2.5,
-      "BABIP": 0.248,
-      "LOB_pct": 60.3
-    },
-    "name": "Edgardo Henriquez",
-    "team": "LAD",
-    "player_id": 683618,
-    "season": 2026,
-    "normalized": {
-      "DI": 65.0,
-      "CCI": 81.02,
-      "RPSI": 98.56,
-      "SQI": 85.85,
-      "LAI": 65.56,
-      "SEI": 25.31
-    },
-    "UPS": 72.01,
-    "rank": 149,
-    "reliability_pct": 71.4,
-    "adjusted_UPS": 65.72,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -10047,7 +10047,7 @@
     "reliability_pct": 77.6,
     "adjusted_UPS": 65.7,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 80.0,
@@ -10114,7 +10114,7 @@
     "reliability_pct": 66.7,
     "adjusted_UPS": 65.69,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 68.0,
@@ -10181,7 +10181,7 @@
     "reliability_pct": 63.0,
     "adjusted_UPS": 65.58,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 51.0,
@@ -10449,7 +10449,7 @@
     "reliability_pct": 71.5,
     "adjusted_UPS": 65.49,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 51.1,
@@ -10784,7 +10784,7 @@
     "reliability_pct": 68.3,
     "adjusted_UPS": 65.43,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 124.0,
@@ -10851,7 +10851,7 @@
     "reliability_pct": 75.6,
     "adjusted_UPS": 65.43,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 51.0,
@@ -10985,7 +10985,7 @@
     "reliability_pct": 74.5,
     "adjusted_UPS": 65.41,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 30.0,
@@ -11055,16 +11055,16 @@
     "low_sample_threshold": 8.0
   },
   {
-    "IP": 56.0,
-    "ERA": 2.41,
+    "IP": 57.0,
+    "ERA": 2.37,
     "WAR": 1.21,
     "salary": 6066892.0,
-    "K": 31,
+    "K": 32,
     "BB": 10,
-    "K_pct": 14.4,
-    "BB_pct": 4.7,
+    "K_pct": 14.7,
+    "BB_pct": 4.6,
     "xERA": 4.09,
-    "FIP": 3.56,
+    "FIP": 3.52,
     "SIERA": 3.56,
     "fb_velo": 93.0,
     "hardhit_pct": 32.7,
@@ -11078,8 +11078,8 @@
     "HLD": 13,
     "W": 2,
     "L": 3,
-    "K9": 4.98,
-    "WHIP": 0.89,
+    "K9": 5.05,
+    "WHIP": 0.88,
     "role": "reliever",
     "raw": {
       "DI": 11.63,
@@ -11090,11 +11090,11 @@
       "SEI": 0.1994
     },
     "components": {
-      "K_pct": 14.4,
-      "BB_pct": 4.7,
-      "K_BB_pct": 9.7,
+      "K_pct": 14.7,
+      "BB_pct": 4.6,
+      "K_BB_pct": 10.1,
       "xERA": 4.09,
-      "FIP": 3.56,
+      "FIP": 3.52,
       "SIERA": 3.56,
       "Velo": 93.0,
       "HardHit_pct": 32.7,
@@ -11116,8 +11116,8 @@
     },
     "UPS": 70.8,
     "rank": 166,
-    "reliability_pct": 73.7,
-    "adjusted_UPS": 65.33,
+    "reliability_pct": 74.0,
+    "adjusted_UPS": 65.4,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -11186,7 +11186,7 @@
     "reliability_pct": 71.0,
     "adjusted_UPS": 65.32,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 58.2,
@@ -11320,7 +11320,7 @@
     "reliability_pct": 73.5,
     "adjusted_UPS": 65.25,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 63.2,
@@ -11454,7 +11454,7 @@
     "reliability_pct": 75.3,
     "adjusted_UPS": 65.17,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 125.0,
@@ -11521,7 +11521,7 @@
     "reliability_pct": 75.8,
     "adjusted_UPS": 65.17,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 113.1,
@@ -11588,7 +11588,7 @@
     "reliability_pct": 73.9,
     "adjusted_UPS": 65.16,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 82.0,
@@ -11655,7 +11655,7 @@
     "reliability_pct": 67.2,
     "adjusted_UPS": 65.15,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 49.1,
@@ -11789,7 +11789,7 @@
     "reliability_pct": 77.7,
     "adjusted_UPS": 65.11,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 31.2,
@@ -11923,7 +11923,7 @@
     "reliability_pct": 78.4,
     "adjusted_UPS": 65.07,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 41.0,
@@ -12124,7 +12124,7 @@
     "reliability_pct": 65.5,
     "adjusted_UPS": 65.0,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 131.2,
@@ -12191,7 +12191,7 @@
     "reliability_pct": 76.6,
     "adjusted_UPS": 65.0,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 31.2,
@@ -12392,7 +12392,7 @@
     "reliability_pct": 77.1,
     "adjusted_UPS": 64.94,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 138.2,
@@ -12459,7 +12459,7 @@
     "reliability_pct": 77.6,
     "adjusted_UPS": 64.93,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 50.1,
@@ -12526,7 +12526,7 @@
     "reliability_pct": 55.6,
     "adjusted_UPS": 64.92,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 58.1,
@@ -12928,7 +12928,7 @@
     "reliability_pct": 75.6,
     "adjusted_UPS": 64.78,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 116.0,
@@ -12995,7 +12995,7 @@
     "reliability_pct": 74.4,
     "adjusted_UPS": 64.77,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 36.0,
@@ -13129,7 +13129,7 @@
     "reliability_pct": 71.6,
     "adjusted_UPS": 64.74,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 95.1,
@@ -13196,7 +13196,7 @@
     "reliability_pct": 70.4,
     "adjusted_UPS": 64.73,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 123.2,
@@ -13263,7 +13263,7 @@
     "reliability_pct": 75.5,
     "adjusted_UPS": 64.73,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 51.1,
@@ -13464,7 +13464,7 @@
     "reliability_pct": 77.4,
     "adjusted_UPS": 64.66,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 77.2,
@@ -13531,7 +13531,7 @@
     "reliability_pct": 65.9,
     "adjusted_UPS": 64.65,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 48.2,
@@ -13622,7 +13622,7 @@
     "HR": 15,
     "SV": 0,
     "HLD": 1,
-    "W": 8,
+    "W": 9,
     "L": 6,
     "K9": 5.64,
     "WHIP": 1.31,
@@ -13665,19 +13665,19 @@
     "reliability_pct": 74.7,
     "adjusted_UPS": 64.64,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
-    "IP": 124.1,
-    "ERA": 4.42,
+    "IP": 125.1,
+    "ERA": 4.38,
     "WAR": 1.28,
     "salary": 3155269.0,
-    "K": 113,
+    "K": 114,
     "BB": 66,
     "K_pct": 20.8,
     "BB_pct": 12.1,
     "xERA": 4.06,
-    "FIP": 4.13,
+    "FIP": 4.1,
     "SIERA": 4.08,
     "fb_velo": 93.0,
     "hardhit_pct": 37.1,
@@ -13692,7 +13692,7 @@
     "W": 6,
     "L": 8,
     "K9": 8.2,
-    "WHIP": 1.38,
+    "WHIP": 1.37,
     "role": "starter",
     "raw": {
       "DI": 13.18,
@@ -13707,7 +13707,7 @@
       "BB_pct": 12.1,
       "K_BB_pct": 8.7,
       "xERA": 4.06,
-      "FIP": 4.13,
+      "FIP": 4.1,
       "SIERA": 4.08,
       "Velo": 93.0,
       "HardHit_pct": 37.1,
@@ -13729,10 +13729,10 @@
     },
     "UPS": 69.31,
     "rank": 205,
-    "reliability_pct": 75.6,
-    "adjusted_UPS": 64.6,
+    "reliability_pct": 75.8,
+    "adjusted_UPS": 64.63,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 48.2,
@@ -13933,7 +13933,7 @@
     "reliability_pct": 75.0,
     "adjusted_UPS": 64.58,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 91.2,
@@ -14000,7 +14000,7 @@
     "reliability_pct": 69.5,
     "adjusted_UPS": 64.57,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 62.2,
@@ -14402,7 +14402,7 @@
     "reliability_pct": 74.2,
     "adjusted_UPS": 64.38,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 43.0,
@@ -14473,13 +14473,13 @@
   },
   {
     "IP": 74.0,
-    "ERA": 5.72,
+    "ERA": 5.84,
     "WAR": 0.1,
     "salary": 780000.0,
     "K": 49,
     "BB": 26,
-    "K_pct": 15.0,
-    "BB_pct": 8.0,
+    "K_pct": 14.9,
+    "BB_pct": 7.9,
     "xERA": 5.43,
     "FIP": 4.51,
     "SIERA": 4.42,
@@ -14488,15 +14488,15 @@
     "barrel_pct": 7.9,
     "BABIP": 0.304,
     "LOB_pct": 55.6,
-    "H": 81,
-    "ER": 47,
+    "H": 82,
+    "ER": 48,
     "HR": 9,
     "SV": 2,
     "HLD": 0,
     "W": 0,
     "L": 2,
     "K9": 5.96,
-    "WHIP": 1.45,
+    "WHIP": 1.46,
     "role": "reliever",
     "raw": {
       "DI": 9.84,
@@ -14507,8 +14507,8 @@
       "SEI": 0.1282
     },
     "components": {
-      "K_pct": 15.0,
-      "BB_pct": 8.0,
+      "K_pct": 14.9,
+      "BB_pct": 7.9,
       "K_BB_pct": 7.0,
       "xERA": 5.43,
       "FIP": 4.51,
@@ -14938,7 +14938,7 @@
     "reliability_pct": 72.0,
     "adjusted_UPS": 64.23,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 33.2,
@@ -15008,6 +15008,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 36.0,
+    "ERA": 3.5,
+    "WAR": 0.36,
+    "salary": 13050000.0,
+    "K": 44,
+    "BB": 13,
+    "K_pct": 28.9,
+    "BB_pct": 8.6,
+    "xERA": 2.9,
+    "FIP": 2.92,
+    "SIERA": 2.91,
+    "fb_velo": 93.0,
+    "hardhit_pct": 46.0,
+    "barrel_pct": 6.9,
+    "BABIP": 0.277,
+    "LOB_pct": 65.1,
+    "H": 27,
+    "ER": 14,
+    "HR": 3,
+    "SV": 3,
+    "HLD": 0,
+    "W": 1,
+    "L": 5,
+    "K9": 11.0,
+    "WHIP": 1.11,
+    "role": "reliever",
+    "raw": {
+      "DI": 24.46,
+      "CCI": 91.22,
+      "RPSI": 2.91,
+      "SQI": 40.1,
+      "LAI": -6.2,
+      "SEI": 0.0276
+    },
+    "components": {
+      "K_pct": 28.9,
+      "BB_pct": 8.6,
+      "K_BB_pct": 20.3,
+      "xERA": 2.9,
+      "FIP": 2.92,
+      "SIERA": 2.91,
+      "Velo": 93.0,
+      "HardHit_pct": 46.0,
+      "Barrel_pct": 6.9,
+      "BABIP": 0.277,
+      "LOB_pct": 65.1
+    },
+    "name": "Kirby Yates",
+    "team": "Los Angeles/PIT",
+    "player_id": 489446,
+    "season": 2026,
+    "normalized": {
+      "DI": 70.3,
+      "CCI": 85.37,
+      "RPSI": 98.39,
+      "SQI": 73.55,
+      "LAI": 67.98,
+      "SEI": 20.58
+    },
+    "UPS": 72.1,
+    "rank": 225,
+    "reliability_pct": 64.3,
+    "adjusted_UPS": 64.21,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
+  },
+  {
     "IP": 88.0,
     "ERA": 5.22,
     "WAR": 0.61,
@@ -15068,11 +15135,11 @@
       "SEI": 29.6
     },
     "UPS": 70.65,
-    "rank": 225,
+    "rank": 226,
     "reliability_pct": 68.8,
     "adjusted_UPS": 64.2,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 53.1,
@@ -15135,23 +15202,23 @@
       "SEI": 19.53
     },
     "UPS": 69.51,
-    "rank": 226,
+    "rank": 227,
     "reliability_pct": 72.6,
     "adjusted_UPS": 64.17,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
   {
-    "IP": 123.2,
-    "ERA": 4.58,
+    "IP": 124.2,
+    "ERA": 4.55,
     "WAR": -0.12,
     "salary": 12142619.0,
-    "K": 91,
-    "BB": 43,
-    "K_pct": 17.0,
-    "BB_pct": 8.0,
+    "K": 92,
+    "BB": 44,
+    "K_pct": 17.1,
+    "BB_pct": 8.2,
     "xERA": 5.61,
-    "FIP": 4.88,
+    "FIP": 4.87,
     "SIERA": 4.88,
     "fb_velo": 93.0,
     "hardhit_pct": 41.4,
@@ -15165,7 +15232,7 @@
     "HLD": 0,
     "W": 8,
     "L": 8,
-    "K9": 6.65,
+    "K9": 6.67,
     "WHIP": 1.36,
     "role": "starter",
     "raw": {
@@ -15177,11 +15244,11 @@
       "SEI": -0.0099
     },
     "components": {
-      "K_pct": 17.0,
-      "BB_pct": 8.0,
-      "K_BB_pct": 9.0,
+      "K_pct": 17.1,
+      "BB_pct": 8.2,
+      "K_BB_pct": 8.9,
       "xERA": 5.61,
-      "FIP": 4.88,
+      "FIP": 4.87,
       "SIERA": 4.88,
       "Velo": 93.0,
       "HardHit_pct": 41.4,
@@ -15202,11 +15269,11 @@
       "SEI": 20.13
     },
     "UPS": 68.72,
-    "rank": 227,
-    "reliability_pct": 75.5,
-    "adjusted_UPS": 64.13,
+    "rank": 228,
+    "reliability_pct": 75.6,
+    "adjusted_UPS": 64.16,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 96.2,
@@ -15269,78 +15336,11 @@
       "SEI": 26.38
     },
     "UPS": 69.92,
-    "rank": 228,
+    "rank": 229,
     "reliability_pct": 70.6,
     "adjusted_UPS": 64.07,
     "low_sample": false,
-    "low_sample_threshold": 31.1
-  },
-  {
-    "IP": 35.0,
-    "ERA": 3.6,
-    "WAR": 0.36,
-    "salary": 13050000.0,
-    "K": 44,
-    "BB": 13,
-    "K_pct": 29.7,
-    "BB_pct": 8.8,
-    "xERA": 2.9,
-    "FIP": 2.91,
-    "SIERA": 2.91,
-    "fb_velo": 93.0,
-    "hardhit_pct": 46.0,
-    "barrel_pct": 6.9,
-    "BABIP": 0.277,
-    "LOB_pct": 65.1,
-    "H": 26,
-    "ER": 14,
-    "HR": 3,
-    "SV": 3,
-    "HLD": 0,
-    "W": 1,
-    "L": 5,
-    "K9": 11.31,
-    "WHIP": 1.11,
-    "role": "reliever",
-    "raw": {
-      "DI": 24.46,
-      "CCI": 91.22,
-      "RPSI": 2.91,
-      "SQI": 40.1,
-      "LAI": -6.2,
-      "SEI": 0.0276
-    },
-    "components": {
-      "K_pct": 29.7,
-      "BB_pct": 8.8,
-      "K_BB_pct": 20.9,
-      "xERA": 2.9,
-      "FIP": 2.91,
-      "SIERA": 2.91,
-      "Velo": 93.0,
-      "HardHit_pct": 46.0,
-      "Barrel_pct": 6.9,
-      "BABIP": 0.277,
-      "LOB_pct": 65.1
-    },
-    "name": "Kirby Yates",
-    "team": "Los Angeles/PIT",
-    "player_id": 489446,
-    "season": 2026,
-    "normalized": {
-      "DI": 70.3,
-      "CCI": 85.37,
-      "RPSI": 98.39,
-      "SQI": 73.55,
-      "LAI": 67.98,
-      "SEI": 20.58
-    },
-    "UPS": 72.1,
-    "rank": 229,
-    "reliability_pct": 63.6,
-    "adjusted_UPS": 64.06,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 45.0,
@@ -15608,7 +15608,7 @@
     "reliability_pct": 71.9,
     "adjusted_UPS": 64.04,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 110.0,
@@ -15675,7 +15675,7 @@
     "reliability_pct": 73.3,
     "adjusted_UPS": 64.04,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 37.1,
@@ -15745,6 +15745,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 69.2,
+    "ERA": 3.75,
+    "WAR": 0.73,
+    "salary": 1134303.0,
+    "K": 73,
+    "BB": 27,
+    "K_pct": 25.4,
+    "BB_pct": 9.4,
+    "xERA": 3.54,
+    "FIP": 4.52,
+    "SIERA": 4.43,
+    "fb_velo": 93.0,
+    "hardhit_pct": 35.6,
+    "barrel_pct": 9.4,
+    "BABIP": 0.226,
+    "LOB_pct": 60.3,
+    "H": 50,
+    "ER": 29,
+    "HR": 12,
+    "SV": 2,
+    "HLD": 1,
+    "W": 1,
+    "L": 2,
+    "K9": 9.49,
+    "WHIP": 1.11,
+    "role": "starter",
+    "raw": {
+      "DI": 20.5,
+      "CCI": 91.46,
+      "RPSI": 4.13,
+      "SQI": 48.0,
+      "LAI": -11.55,
+      "SEI": 0.6436
+    },
+    "components": {
+      "K_pct": 25.4,
+      "BB_pct": 9.4,
+      "K_BB_pct": 16.0,
+      "xERA": 3.54,
+      "FIP": 4.52,
+      "SIERA": 4.43,
+      "Velo": 93.0,
+      "HardHit_pct": 35.6,
+      "Barrel_pct": 9.4,
+      "BABIP": 0.226,
+      "LOB_pct": 60.3
+    },
+    "name": "Lake Bachar",
+    "team": "MIA/PIT",
+    "player_id": 669199,
+    "season": 2026,
+    "normalized": {
+      "DI": 65.7,
+      "CCI": 85.77,
+      "RPSI": 97.51,
+      "SQI": 77.5,
+      "LAI": 65.43,
+      "SEI": 27.94
+    },
+    "UPS": 72.14,
+    "rank": 236,
+    "reliability_pct": 63.4,
+    "adjusted_UPS": 64.03,
+    "low_sample": false,
+    "low_sample_threshold": 31.2
+  },
+  {
     "IP": 92.2,
     "ERA": 4.37,
     "WAR": 0.4,
@@ -15805,11 +15872,11 @@
       "SEI": 23.66
     },
     "UPS": 70.08,
-    "rank": 236,
+    "rank": 237,
     "reliability_pct": 69.7,
     "adjusted_UPS": 64.0,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 44.1,
@@ -15872,7 +15939,7 @@
       "SEI": 21.53
     },
     "UPS": 70.34,
-    "rank": 237,
+    "rank": 238,
     "reliability_pct": 68.8,
     "adjusted_UPS": 63.99,
     "low_sample": false,
@@ -15939,11 +16006,11 @@
       "SEI": 30.67
     },
     "UPS": 72.72,
-    "rank": 238,
+    "rank": 239,
     "reliability_pct": 61.5,
     "adjusted_UPS": 63.98,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 77.0,
@@ -16006,78 +16073,78 @@
       "SEI": 22.7
     },
     "UPS": 71.24,
-    "rank": 239,
+    "rank": 240,
     "reliability_pct": 65.8,
     "adjusted_UPS": 63.98,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
-    "IP": 68.2,
-    "ERA": 3.8,
-    "WAR": 0.73,
-    "salary": 1134303.0,
-    "K": 72,
-    "BB": 24,
-    "K_pct": 25.6,
-    "BB_pct": 8.5,
-    "xERA": 3.54,
-    "FIP": 4.43,
-    "SIERA": 4.43,
+    "IP": 46.2,
+    "ERA": 4.82,
+    "WAR": 0.23,
+    "salary": 6000000.0,
+    "K": 41,
+    "BB": 21,
+    "K_pct": 19.4,
+    "BB_pct": 10.0,
+    "xERA": 4.11,
+    "FIP": 3.63,
+    "SIERA": 3.73,
     "fb_velo": 93.0,
-    "hardhit_pct": 35.6,
-    "barrel_pct": 9.4,
-    "BABIP": 0.226,
-    "LOB_pct": 60.3,
-    "H": 50,
-    "ER": 29,
-    "HR": 12,
+    "hardhit_pct": 26.9,
+    "barrel_pct": 5.5,
+    "BABIP": 0.345,
+    "LOB_pct": 66.7,
+    "H": 51,
+    "ER": 25,
+    "HR": 3,
     "SV": 2,
-    "HLD": 1,
-    "W": 1,
-    "L": 2,
-    "K9": 9.5,
-    "WHIP": 1.08,
-    "role": "starter",
+    "HLD": 9,
+    "W": 6,
+    "L": 3,
+    "K9": 7.99,
+    "WHIP": 1.54,
+    "role": "reliever",
     "raw": {
-      "DI": 20.5,
-      "CCI": 91.46,
-      "RPSI": 4.13,
-      "SQI": 48.0,
-      "LAI": -11.55,
-      "SEI": 0.6436
+      "DI": 12.69,
+      "CCI": 89.9,
+      "RPSI": 3.86,
+      "SQI": 60.6,
+      "LAI": -4.46,
+      "SEI": 0.0383
     },
     "components": {
-      "K_pct": 25.6,
-      "BB_pct": 8.5,
-      "K_BB_pct": 17.1,
-      "xERA": 3.54,
-      "FIP": 4.43,
-      "SIERA": 4.43,
+      "K_pct": 19.4,
+      "BB_pct": 10.0,
+      "K_BB_pct": 9.4,
+      "xERA": 4.11,
+      "FIP": 3.63,
+      "SIERA": 3.73,
       "Velo": 93.0,
-      "HardHit_pct": 35.6,
-      "Barrel_pct": 9.4,
-      "BABIP": 0.226,
-      "LOB_pct": 60.3
+      "HardHit_pct": 26.9,
+      "Barrel_pct": 5.5,
+      "BABIP": 0.345,
+      "LOB_pct": 66.7
     },
-    "name": "Lake Bachar",
-    "team": "MIA/PIT",
-    "player_id": 669199,
+    "name": "Taylor Rogers",
+    "team": "MIN",
+    "player_id": 573124,
     "season": 2026,
     "normalized": {
-      "DI": 65.7,
-      "CCI": 85.77,
-      "RPSI": 97.51,
-      "SQI": 77.5,
-      "LAI": 65.43,
-      "SEI": 27.94
+      "DI": 56.62,
+      "CCI": 83.17,
+      "RPSI": 97.7,
+      "SQI": 83.8,
+      "LAI": 68.8,
+      "SEI": 20.7
     },
-    "UPS": 72.14,
-    "rank": 240,
-    "reliability_pct": 63.0,
-    "adjusted_UPS": 63.96,
+    "UPS": 70.03,
+    "rank": 241,
+    "reliability_pct": 69.8,
+    "adjusted_UPS": 63.98,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 8.0
   },
   {
     "IP": 76.2,
@@ -16102,7 +16169,7 @@
     "SV": 0,
     "HLD": 0,
     "W": 0,
-    "L": 3,
+    "L": 4,
     "K9": 7.56,
     "WHIP": 1.49,
     "role": "starter",
@@ -16140,11 +16207,11 @@
       "SEI": 26.07
     },
     "UPS": 71.29,
-    "rank": 241,
+    "rank": 242,
     "reliability_pct": 65.6,
     "adjusted_UPS": 63.96,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 38.2,
@@ -16207,7 +16274,7 @@
       "SEI": 19.92
     },
     "UPS": 71.22,
-    "rank": 242,
+    "rank": 243,
     "reliability_pct": 65.6,
     "adjusted_UPS": 63.93,
     "low_sample": false,
@@ -16274,78 +16341,78 @@
       "SEI": 23.01
     },
     "UPS": 68.96,
-    "rank": 243,
+    "rank": 244,
     "reliability_pct": 73.3,
     "adjusted_UPS": 63.9,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
   {
-    "IP": 45.2,
-    "ERA": 4.93,
-    "WAR": 0.23,
-    "salary": 6000000.0,
-    "K": 39,
-    "BB": 21,
-    "K_pct": 18.8,
-    "BB_pct": 10.1,
-    "xERA": 4.11,
-    "FIP": 3.73,
-    "SIERA": 3.73,
+    "IP": 91.0,
+    "ERA": 4.15,
+    "WAR": 0.49,
+    "salary": 10500000.0,
+    "K": 71,
+    "BB": 28,
+    "K_pct": 18.6,
+    "BB_pct": 7.3,
+    "xERA": 4.98,
+    "FIP": 4.56,
+    "SIERA": 4.51,
     "fb_velo": 93.0,
-    "hardhit_pct": 26.9,
-    "barrel_pct": 5.5,
-    "BABIP": 0.345,
-    "LOB_pct": 66.7,
-    "H": 51,
-    "ER": 25,
-    "HR": 3,
-    "SV": 2,
-    "HLD": 9,
-    "W": 6,
-    "L": 3,
-    "K9": 7.77,
-    "WHIP": 1.58,
-    "role": "reliever",
+    "hardhit_pct": 37.9,
+    "barrel_pct": 10.3,
+    "BABIP": 0.275,
+    "LOB_pct": 64.3,
+    "H": 85,
+    "ER": 42,
+    "HR": 14,
+    "SV": 0,
+    "HLD": 0,
+    "W": 8,
+    "L": 2,
+    "K9": 7.02,
+    "WHIP": 1.24,
+    "role": "starter",
     "raw": {
-      "DI": 12.69,
-      "CCI": 89.9,
-      "RPSI": 3.86,
-      "SQI": 60.6,
-      "LAI": -4.46,
-      "SEI": 0.0383
+      "DI": 14.8,
+      "CCI": 92.66,
+      "RPSI": 4.66,
+      "SQI": 44.8,
+      "LAI": -8.69,
+      "SEI": 0.0467
     },
     "components": {
-      "K_pct": 18.8,
-      "BB_pct": 10.1,
-      "K_BB_pct": 8.7,
-      "xERA": 4.11,
-      "FIP": 3.73,
-      "SIERA": 3.73,
+      "K_pct": 18.6,
+      "BB_pct": 7.3,
+      "K_BB_pct": 11.3,
+      "xERA": 4.98,
+      "FIP": 4.56,
+      "SIERA": 4.51,
       "Velo": 93.0,
-      "HardHit_pct": 26.9,
-      "Barrel_pct": 5.5,
-      "BABIP": 0.345,
-      "LOB_pct": 66.7
+      "HardHit_pct": 37.9,
+      "Barrel_pct": 10.3,
+      "BABIP": 0.275,
+      "LOB_pct": 64.3
     },
-    "name": "Taylor Rogers",
-    "team": "MIN",
-    "player_id": 573124,
+    "name": "Matthew Boyd",
+    "team": "CHC",
+    "player_id": 571510,
     "season": 2026,
     "normalized": {
-      "DI": 56.62,
-      "CCI": 83.17,
-      "RPSI": 97.7,
-      "SQI": 83.8,
-      "LAI": 68.8,
-      "SEI": 20.7
+      "DI": 59.07,
+      "CCI": 87.77,
+      "RPSI": 97.12,
+      "SQI": 75.9,
+      "LAI": 66.79,
+      "SEI": 20.8
     },
-    "UPS": 70.03,
-    "rank": 244,
-    "reliability_pct": 69.3,
+    "UPS": 69.99,
+    "rank": 245,
+    "reliability_pct": 69.5,
     "adjusted_UPS": 63.89,
     "low_sample": false,
-    "low_sample_threshold": 8.0
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 24.0,
@@ -16408,7 +16475,7 @@
       "SEI": 25.0
     },
     "UPS": 75.43,
-    "rank": 245,
+    "rank": 246,
     "reliability_pct": 54.5,
     "adjusted_UPS": 63.87,
     "low_sample": false,
@@ -16475,7 +16542,7 @@
       "SEI": 23.93
     },
     "UPS": 70.14,
-    "rank": 246,
+    "rank": 247,
     "reliability_pct": 68.8,
     "adjusted_UPS": 63.87,
     "low_sample": false,
@@ -16542,7 +16609,7 @@
       "SEI": 23.31
     },
     "UPS": 70.46,
-    "rank": 247,
+    "rank": 248,
     "reliability_pct": 67.8,
     "adjusted_UPS": 63.87,
     "low_sample": false,
@@ -16609,11 +16676,11 @@
       "SEI": 20.67
     },
     "UPS": 68.72,
-    "rank": 248,
+    "rank": 249,
     "reliability_pct": 74.0,
     "adjusted_UPS": 63.86,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 71.2,
@@ -16676,11 +16743,11 @@
       "SEI": 31.14
     },
     "UPS": 71.62,
-    "rank": 249,
+    "rank": 250,
     "reliability_pct": 64.0,
     "adjusted_UPS": 63.84,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 53.2,
@@ -16743,11 +16810,11 @@
       "SEI": 36.66
     },
     "UPS": 74.23,
-    "rank": 250,
+    "rank": 251,
     "reliability_pct": 57.1,
     "adjusted_UPS": 63.83,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 108.0,
@@ -16810,78 +16877,11 @@
       "SEI": 20.74
     },
     "UPS": 68.94,
-    "rank": 251,
+    "rank": 252,
     "reliability_pct": 73.0,
     "adjusted_UPS": 63.82,
     "low_sample": false,
-    "low_sample_threshold": 31.1
-  },
-  {
-    "IP": 89.0,
-    "ERA": 4.25,
-    "WAR": 0.49,
-    "salary": 10500000.0,
-    "K": 70,
-    "BB": 27,
-    "K_pct": 18.9,
-    "BB_pct": 7.3,
-    "xERA": 4.98,
-    "FIP": 4.58,
-    "SIERA": 4.51,
-    "fb_velo": 93.0,
-    "hardhit_pct": 37.9,
-    "barrel_pct": 10.3,
-    "BABIP": 0.275,
-    "LOB_pct": 64.3,
-    "H": 83,
-    "ER": 42,
-    "HR": 14,
-    "SV": 0,
-    "HLD": 0,
-    "W": 8,
-    "L": 2,
-    "K9": 7.08,
-    "WHIP": 1.24,
-    "role": "starter",
-    "raw": {
-      "DI": 14.8,
-      "CCI": 92.66,
-      "RPSI": 4.66,
-      "SQI": 44.8,
-      "LAI": -8.69,
-      "SEI": 0.0467
-    },
-    "components": {
-      "K_pct": 18.9,
-      "BB_pct": 7.3,
-      "K_BB_pct": 11.6,
-      "xERA": 4.98,
-      "FIP": 4.58,
-      "SIERA": 4.51,
-      "Velo": 93.0,
-      "HardHit_pct": 37.9,
-      "Barrel_pct": 10.3,
-      "BABIP": 0.275,
-      "LOB_pct": 64.3
-    },
-    "name": "Matthew Boyd",
-    "team": "CHC",
-    "player_id": 571510,
-    "season": 2026,
-    "normalized": {
-      "DI": 59.07,
-      "CCI": 87.77,
-      "RPSI": 97.12,
-      "SQI": 75.9,
-      "LAI": 66.79,
-      "SEI": 20.8
-    },
-    "UPS": 69.99,
-    "rank": 252,
-    "reliability_pct": 69.0,
-    "adjusted_UPS": 63.79,
-    "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 41.2,
@@ -17082,7 +17082,7 @@
     "reliability_pct": 74.2,
     "adjusted_UPS": 63.76,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 112.1,
@@ -17149,7 +17149,7 @@
     "reliability_pct": 73.7,
     "adjusted_UPS": 63.75,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 91.1,
@@ -17216,7 +17216,74 @@
     "reliability_pct": 69.5,
     "adjusted_UPS": 63.75,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
+  },
+  {
+    "IP": 41.0,
+    "ERA": 5.49,
+    "WAR": -0.14,
+    "salary": 780000.0,
+    "K": 46,
+    "BB": 19,
+    "K_pct": 25.7,
+    "BB_pct": 10.6,
+    "xERA": 4.0,
+    "FIP": 4.25,
+    "SIERA": 4.12,
+    "fb_velo": 93.0,
+    "hardhit_pct": 30.6,
+    "barrel_pct": 8.1,
+    "BABIP": 0.317,
+    "LOB_pct": 55.4,
+    "H": 40,
+    "ER": 25,
+    "HR": 6,
+    "SV": 2,
+    "HLD": 1,
+    "W": 3,
+    "L": 0,
+    "K9": 10.1,
+    "WHIP": 1.44,
+    "role": "reliever",
+    "raw": {
+      "DI": 20.57,
+      "CCI": 90.23,
+      "RPSI": 4.08,
+      "SQI": 54.3,
+      "LAI": -14.99,
+      "SEI": -0.1795
+    },
+    "components": {
+      "K_pct": 25.7,
+      "BB_pct": 10.6,
+      "K_BB_pct": 15.1,
+      "xERA": 4.0,
+      "FIP": 4.25,
+      "SIERA": 4.12,
+      "Velo": 93.0,
+      "HardHit_pct": 30.6,
+      "Barrel_pct": 8.1,
+      "BABIP": 0.317,
+      "LOB_pct": 55.4
+    },
+    "name": "Travis Adams",
+    "team": "MIN",
+    "player_id": 701519,
+    "season": 2026,
+    "normalized": {
+      "DI": 65.78,
+      "CCI": 83.72,
+      "RPSI": 97.54,
+      "SQI": 80.65,
+      "LAI": 63.79,
+      "SEI": 18.1
+    },
+    "UPS": 70.45,
+    "rank": 258,
+    "reliability_pct": 67.2,
+    "adjusted_UPS": 63.75,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
   },
   {
     "IP": 39.0,
@@ -17279,7 +17346,7 @@
       "SEI": 21.59
     },
     "UPS": 70.78,
-    "rank": 258,
+    "rank": 259,
     "reliability_pct": 66.1,
     "adjusted_UPS": 63.74,
     "low_sample": false,
@@ -17346,11 +17413,11 @@
       "SEI": 22.07
     },
     "UPS": 68.37,
-    "rank": 259,
+    "rank": 260,
     "reliability_pct": 74.7,
     "adjusted_UPS": 63.73,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 90.2,
@@ -17413,11 +17480,11 @@
       "SEI": 20.73
     },
     "UPS": 69.77,
-    "rank": 260,
+    "rank": 261,
     "reliability_pct": 69.3,
     "adjusted_UPS": 63.7,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 47.1,
@@ -17480,7 +17547,7 @@
       "SEI": 22.7
     },
     "UPS": 69.52,
-    "rank": 261,
+    "rank": 262,
     "reliability_pct": 70.2,
     "adjusted_UPS": 63.7,
     "low_sample": false,
@@ -17547,7 +17614,7 @@
       "SEI": 27.35
     },
     "UPS": 70.52,
-    "rank": 262,
+    "rank": 263,
     "reliability_pct": 66.7,
     "adjusted_UPS": 63.69,
     "low_sample": false,
@@ -17614,7 +17681,7 @@
       "SEI": 26.27
     },
     "UPS": 70.35,
-    "rank": 263,
+    "rank": 264,
     "reliability_pct": 67.2,
     "adjusted_UPS": 63.68,
     "low_sample": false,
@@ -17681,7 +17748,7 @@
       "SEI": 18.29
     },
     "UPS": 72.42,
-    "rank": 264,
+    "rank": 265,
     "reliability_pct": 60.9,
     "adjusted_UPS": 63.65,
     "low_sample": false,
@@ -17748,78 +17815,11 @@
       "SEI": 25.0
     },
     "UPS": 70.21,
-    "rank": 265,
+    "rank": 266,
     "reliability_pct": 67.5,
     "adjusted_UPS": 63.64,
     "low_sample": false,
-    "low_sample_threshold": 31.1
-  },
-  {
-    "IP": 40.0,
-    "ERA": 5.63,
-    "WAR": -0.14,
-    "salary": 780000.0,
-    "K": 46,
-    "BB": 18,
-    "K_pct": 26.3,
-    "BB_pct": 10.3,
-    "xERA": 4.0,
-    "FIP": 4.2,
-    "SIERA": 4.12,
-    "fb_velo": 93.0,
-    "hardhit_pct": 30.6,
-    "barrel_pct": 8.1,
-    "BABIP": 0.317,
-    "LOB_pct": 55.4,
-    "H": 39,
-    "ER": 25,
-    "HR": 6,
-    "SV": 2,
-    "HLD": 1,
-    "W": 3,
-    "L": 0,
-    "K9": 10.35,
-    "WHIP": 1.43,
-    "role": "reliever",
-    "raw": {
-      "DI": 20.57,
-      "CCI": 90.23,
-      "RPSI": 4.08,
-      "SQI": 54.3,
-      "LAI": -14.99,
-      "SEI": -0.1795
-    },
-    "components": {
-      "K_pct": 26.3,
-      "BB_pct": 10.3,
-      "K_BB_pct": 16.0,
-      "xERA": 4.0,
-      "FIP": 4.2,
-      "SIERA": 4.12,
-      "Velo": 93.0,
-      "HardHit_pct": 30.6,
-      "Barrel_pct": 8.1,
-      "BABIP": 0.317,
-      "LOB_pct": 55.4
-    },
-    "name": "Travis Adams",
-    "team": "MIN",
-    "player_id": 701519,
-    "season": 2026,
-    "normalized": {
-      "DI": 65.78,
-      "CCI": 83.72,
-      "RPSI": 97.54,
-      "SQI": 80.65,
-      "LAI": 63.79,
-      "SEI": 18.1
-    },
-    "UPS": 70.45,
-    "rank": 266,
-    "reliability_pct": 66.7,
-    "adjusted_UPS": 63.63,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 42.2,
@@ -17889,6 +17889,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 41.0,
+    "ERA": 4.61,
+    "WAR": -0.04,
+    "salary": 780000,
+    "K": 52,
+    "BB": 22,
+    "K_pct": 28.9,
+    "BB_pct": 12.2,
+    "xERA": 3.54,
+    "FIP": 3.86,
+    "SIERA": 3.6,
+    "fb_velo": 93.0,
+    "hardhit_pct": 42.2,
+    "barrel_pct": 6.9,
+    "BABIP": 0.309,
+    "LOB_pct": 63.2,
+    "H": 36,
+    "ER": 21,
+    "HR": 5,
+    "SV": 1,
+    "HLD": 9,
+    "W": 4,
+    "L": 1,
+    "K9": 11.41,
+    "WHIP": 1.41,
+    "role": "reliever",
+    "raw": {
+      "DI": 21.48,
+      "CCI": 87.5,
+      "RPSI": 3.58,
+      "SQI": 43.9,
+      "LAI": -8.16,
+      "SEI": -0.0513
+    },
+    "components": {
+      "K_pct": 28.9,
+      "BB_pct": 12.2,
+      "K_BB_pct": 16.7,
+      "xERA": 3.54,
+      "FIP": 3.86,
+      "SIERA": 3.6,
+      "Velo": 93.0,
+      "HardHit_pct": 42.2,
+      "Barrel_pct": 6.9,
+      "BABIP": 0.309,
+      "LOB_pct": 63.2
+    },
+    "name": "Kyle Hurt",
+    "team": "LAD",
+    "player_id": 669165,
+    "season": 2026,
+    "normalized": {
+      "DI": 66.84,
+      "CCI": 79.17,
+      "RPSI": 97.9,
+      "SQI": 75.45,
+      "LAI": 67.04,
+      "SEI": 19.63
+    },
+    "UPS": 70.26,
+    "rank": 268,
+    "reliability_pct": 67.2,
+    "adjusted_UPS": 63.62,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
+  },
+  {
     "IP": 26.1,
     "ERA": 3.42,
     "WAR": 0.24,
@@ -17949,7 +18016,7 @@
       "SEI": 23.93
     },
     "UPS": 74.02,
-    "rank": 268,
+    "rank": 269,
     "reliability_pct": 56.6,
     "adjusted_UPS": 63.6,
     "low_sample": false,
@@ -18016,7 +18083,7 @@
       "SEI": 19.67
     },
     "UPS": 70.69,
-    "rank": 269,
+    "rank": 270,
     "reliability_pct": 65.6,
     "adjusted_UPS": 63.58,
     "low_sample": false,
@@ -18083,7 +18150,7 @@
       "SEI": 19.44
     },
     "UPS": 70.5,
-    "rank": 270,
+    "rank": 271,
     "reliability_pct": 66.2,
     "adjusted_UPS": 63.56,
     "low_sample": false,
@@ -18150,76 +18217,9 @@
       "SEI": 20.05
     },
     "UPS": 68.96,
-    "rank": 271,
+    "rank": 272,
     "reliability_pct": 71.4,
     "adjusted_UPS": 63.54,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 40.2,
-    "ERA": 4.2,
-    "WAR": -0.04,
-    "salary": 780000,
-    "K": 51,
-    "BB": 22,
-    "K_pct": 29.0,
-    "BB_pct": 12.5,
-    "xERA": 3.54,
-    "FIP": 3.6,
-    "SIERA": 3.6,
-    "fb_velo": 93.0,
-    "hardhit_pct": 42.2,
-    "barrel_pct": 6.9,
-    "BABIP": 0.309,
-    "LOB_pct": 63.2,
-    "H": 34,
-    "ER": 19,
-    "HR": 4,
-    "SV": 1,
-    "HLD": 9,
-    "W": 4,
-    "L": 1,
-    "K9": 11.42,
-    "WHIP": 1.38,
-    "role": "reliever",
-    "raw": {
-      "DI": 21.48,
-      "CCI": 87.5,
-      "RPSI": 3.58,
-      "SQI": 43.9,
-      "LAI": -8.16,
-      "SEI": -0.0513
-    },
-    "components": {
-      "K_pct": 29.0,
-      "BB_pct": 12.5,
-      "K_BB_pct": 16.5,
-      "xERA": 3.54,
-      "FIP": 3.6,
-      "SIERA": 3.6,
-      "Velo": 93.0,
-      "HardHit_pct": 42.2,
-      "Barrel_pct": 6.9,
-      "BABIP": 0.309,
-      "LOB_pct": 63.2
-    },
-    "name": "Kyle Hurt",
-    "team": "LAD",
-    "player_id": 669165,
-    "season": 2026,
-    "normalized": {
-      "DI": 66.84,
-      "CCI": 79.17,
-      "RPSI": 97.9,
-      "SQI": 75.45,
-      "LAI": 67.04,
-      "SEI": 19.63
-    },
-    "UPS": 70.26,
-    "rank": 272,
-    "reliability_pct": 66.8,
-    "adjusted_UPS": 63.53,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -18288,7 +18288,7 @@
     "reliability_pct": 72.0,
     "adjusted_UPS": 63.51,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 38.2,
@@ -18422,7 +18422,7 @@
     "reliability_pct": 68.3,
     "adjusted_UPS": 63.46,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 45.2,
@@ -18559,6 +18559,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 51.1,
+    "ERA": 4.73,
+    "WAR": -0.11,
+    "salary": 780000,
+    "K": 52,
+    "BB": 29,
+    "K_pct": 22.0,
+    "BB_pct": 12.3,
+    "xERA": 4.63,
+    "FIP": 4.14,
+    "SIERA": 4.2,
+    "fb_velo": 93.0,
+    "hardhit_pct": 34.7,
+    "barrel_pct": 5.6,
+    "BABIP": 0.311,
+    "LOB_pct": 61.7,
+    "H": 50,
+    "ER": 27,
+    "HR": 5,
+    "SV": 1,
+    "HLD": 6,
+    "W": 2,
+    "L": 7,
+    "K9": 9.16,
+    "WHIP": 1.54,
+    "role": "reliever",
+    "raw": {
+      "DI": 14.61,
+      "CCI": 87.39,
+      "RPSI": 4.34,
+      "SQI": 52.7,
+      "LAI": -10.41,
+      "SEI": -0.141
+    },
+    "components": {
+      "K_pct": 22.0,
+      "BB_pct": 12.3,
+      "K_BB_pct": 9.7,
+      "xERA": 4.63,
+      "FIP": 4.14,
+      "SIERA": 4.2,
+      "Velo": 93.0,
+      "HardHit_pct": 34.7,
+      "Barrel_pct": 5.6,
+      "BABIP": 0.311,
+      "LOB_pct": 61.7
+    },
+    "name": "Sam Moll",
+    "team": "CIN",
+    "player_id": 594580,
+    "season": 2026,
+    "normalized": {
+      "DI": 58.85,
+      "CCI": 78.98,
+      "RPSI": 97.35,
+      "SQI": 79.85,
+      "LAI": 65.97,
+      "SEI": 18.56
+    },
+    "UPS": 68.62,
+    "rank": 278,
+    "reliability_pct": 71.9,
+    "adjusted_UPS": 63.38,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
+  },
+  {
     "IP": 40.2,
     "ERA": 4.43,
     "WAR": -0.17,
@@ -18619,7 +18686,7 @@
       "SEI": 19.95
     },
     "UPS": 70.0,
-    "rank": 278,
+    "rank": 279,
     "reliability_pct": 66.8,
     "adjusted_UPS": 63.36,
     "low_sample": false,
@@ -18686,7 +18753,7 @@
       "SEI": 11.81
     },
     "UPS": 69.16,
-    "rank": 279,
+    "rank": 280,
     "reliability_pct": 69.7,
     "adjusted_UPS": 63.36,
     "low_sample": false,
@@ -18753,9 +18820,76 @@
       "SEI": 21.02
     },
     "UPS": 69.05,
-    "rank": 280,
+    "rank": 281,
     "reliability_pct": 70.1,
     "adjusted_UPS": 63.36,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
+  },
+  {
+    "IP": 30.1,
+    "ERA": 2.67,
+    "WAR": 0.73,
+    "salary": 780000,
+    "K": 28,
+    "BB": 13,
+    "K_pct": 24.3,
+    "BB_pct": 11.3,
+    "xERA": 2.87,
+    "FIP": 4.79,
+    "SIERA": 4.85,
+    "fb_velo": 93.0,
+    "hardhit_pct": 34.8,
+    "barrel_pct": 6.1,
+    "BABIP": 0.164,
+    "LOB_pct": 64.3,
+    "H": 15,
+    "ER": 9,
+    "HR": 5,
+    "SV": 2,
+    "HLD": 3,
+    "W": 2,
+    "L": 3,
+    "K9": 8.37,
+    "WHIP": 0.92,
+    "role": "reliever",
+    "raw": {
+      "DI": 19.44,
+      "CCI": 88.79,
+      "RPSI": 4.19,
+      "SQI": 52.1,
+      "LAI": -7.78,
+      "SEI": 0.9359
+    },
+    "components": {
+      "K_pct": 24.3,
+      "BB_pct": 11.3,
+      "K_BB_pct": 13.0,
+      "xERA": 2.87,
+      "FIP": 4.79,
+      "SIERA": 4.85,
+      "Velo": 93.0,
+      "HardHit_pct": 34.8,
+      "Barrel_pct": 6.1,
+      "BABIP": 0.164,
+      "LOB_pct": 64.3
+    },
+    "name": "Julian Garcia",
+    "team": "CIN",
+    "player_id": 670062,
+    "season": 2026,
+    "normalized": {
+      "DI": 64.47,
+      "CCI": 81.32,
+      "RPSI": 97.46,
+      "SQI": 79.55,
+      "LAI": 67.22,
+      "SEI": 31.44
+    },
+    "UPS": 72.21,
+    "rank": 282,
+    "reliability_pct": 60.1,
+    "adjusted_UPS": 63.34,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -18820,75 +18954,8 @@
       "SEI": 20.42
     },
     "UPS": 72.75,
-    "rank": 281,
+    "rank": 283,
     "reliability_pct": 58.5,
-    "adjusted_UPS": 63.31,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 50.1,
-    "ERA": 4.47,
-    "WAR": -0.11,
-    "salary": 780000,
-    "K": 51,
-    "BB": 29,
-    "K_pct": 22.2,
-    "BB_pct": 12.6,
-    "xERA": 4.63,
-    "FIP": 4.2,
-    "SIERA": 4.2,
-    "fb_velo": 93.0,
-    "hardhit_pct": 34.7,
-    "barrel_pct": 5.6,
-    "BABIP": 0.311,
-    "LOB_pct": 61.7,
-    "H": 47,
-    "ER": 25,
-    "HR": 5,
-    "SV": 1,
-    "HLD": 6,
-    "W": 2,
-    "L": 7,
-    "K9": 9.16,
-    "WHIP": 1.51,
-    "role": "reliever",
-    "raw": {
-      "DI": 14.61,
-      "CCI": 87.39,
-      "RPSI": 4.34,
-      "SQI": 52.7,
-      "LAI": -10.41,
-      "SEI": -0.141
-    },
-    "components": {
-      "K_pct": 22.2,
-      "BB_pct": 12.6,
-      "K_BB_pct": 9.6,
-      "xERA": 4.63,
-      "FIP": 4.2,
-      "SIERA": 4.2,
-      "Velo": 93.0,
-      "HardHit_pct": 34.7,
-      "Barrel_pct": 5.6,
-      "BABIP": 0.311,
-      "LOB_pct": 61.7
-    },
-    "name": "Sam Moll",
-    "team": "CIN",
-    "player_id": 594580,
-    "season": 2026,
-    "normalized": {
-      "DI": 58.85,
-      "CCI": 78.98,
-      "RPSI": 97.35,
-      "SQI": 79.85,
-      "LAI": 65.97,
-      "SEI": 18.56
-    },
-    "UPS": 68.62,
-    "rank": 282,
-    "reliability_pct": 71.5,
     "adjusted_UPS": 63.31,
     "low_sample": false,
     "low_sample_threshold": 8.0
@@ -18954,7 +19021,7 @@
       "SEI": 32.21
     },
     "UPS": 70.09,
-    "rank": 283,
+    "rank": 284,
     "reliability_pct": 66.2,
     "adjusted_UPS": 63.3,
     "low_sample": false,
@@ -18982,7 +19049,7 @@
     "HR": 5,
     "SV": 0,
     "HLD": 15,
-    "W": 1,
+    "W": 2,
     "L": 4,
     "K9": 8.16,
     "WHIP": 1.31,
@@ -19021,7 +19088,7 @@
       "SEI": 24.01
     },
     "UPS": 69.27,
-    "rank": 284,
+    "rank": 285,
     "reliability_pct": 68.8,
     "adjusted_UPS": 63.26,
     "low_sample": false,
@@ -19088,11 +19155,11 @@
       "SEI": 19.63
     },
     "UPS": 67.82,
-    "rank": 285,
+    "rank": 286,
     "reliability_pct": 74.4,
     "adjusted_UPS": 63.25,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 26.1,
@@ -19155,7 +19222,7 @@
       "SEI": 31.29
     },
     "UPS": 73.32,
-    "rank": 286,
+    "rank": 287,
     "reliability_pct": 56.6,
     "adjusted_UPS": 63.2,
     "low_sample": false,
@@ -19222,11 +19289,11 @@
       "SEI": 19.75
     },
     "UPS": 67.87,
-    "rank": 287,
+    "rank": 288,
     "reliability_pct": 73.9,
     "adjusted_UPS": 63.2,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 49.2,
@@ -19289,7 +19356,7 @@
       "SEI": 21.13
     },
     "UPS": 68.53,
-    "rank": 288,
+    "rank": 289,
     "reliability_pct": 71.1,
     "adjusted_UPS": 63.17,
     "low_sample": false,
@@ -19318,7 +19385,7 @@
     "SV": 0,
     "HLD": 0,
     "W": 3,
-    "L": 6,
+    "L": 7,
     "K9": 9.75,
     "WHIP": 1.4,
     "role": "starter",
@@ -19356,78 +19423,11 @@
       "SEI": 14.11
     },
     "UPS": 68.78,
-    "rank": 289,
+    "rank": 290,
     "reliability_pct": 70.0,
     "adjusted_UPS": 63.14,
     "low_sample": false,
-    "low_sample_threshold": 31.1
-  },
-  {
-    "IP": 29.0,
-    "ERA": 2.79,
-    "WAR": 0.73,
-    "salary": 780000,
-    "K": 28,
-    "BB": 12,
-    "K_pct": 25.2,
-    "BB_pct": 10.8,
-    "xERA": 2.87,
-    "FIP": 4.75,
-    "SIERA": 4.85,
-    "fb_velo": 93.0,
-    "hardhit_pct": 34.8,
-    "barrel_pct": 6.1,
-    "BABIP": 0.164,
-    "LOB_pct": 64.3,
-    "H": 15,
-    "ER": 9,
-    "HR": 5,
-    "SV": 2,
-    "HLD": 3,
-    "W": 2,
-    "L": 3,
-    "K9": 8.69,
-    "WHIP": 0.93,
-    "role": "reliever",
-    "raw": {
-      "DI": 19.44,
-      "CCI": 88.79,
-      "RPSI": 4.19,
-      "SQI": 52.1,
-      "LAI": -7.78,
-      "SEI": 0.9359
-    },
-    "components": {
-      "K_pct": 25.2,
-      "BB_pct": 10.8,
-      "K_BB_pct": 14.4,
-      "xERA": 2.87,
-      "FIP": 4.75,
-      "SIERA": 4.85,
-      "Velo": 93.0,
-      "HardHit_pct": 34.8,
-      "Barrel_pct": 6.1,
-      "BABIP": 0.164,
-      "LOB_pct": 64.3
-    },
-    "name": "Julian Garcia",
-    "team": "CIN",
-    "player_id": 670062,
-    "season": 2026,
-    "normalized": {
-      "DI": 64.47,
-      "CCI": 81.32,
-      "RPSI": 97.46,
-      "SQI": 79.55,
-      "LAI": 67.22,
-      "SEI": 31.44
-    },
-    "UPS": 72.21,
-    "rank": 290,
-    "reliability_pct": 59.2,
-    "adjusted_UPS": 63.14,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 35.2,
@@ -19762,7 +19762,74 @@
     "reliability_pct": 75.0,
     "adjusted_UPS": 63.06,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
+  },
+  {
+    "IP": 34.0,
+    "ERA": 2.65,
+    "WAR": 0.8,
+    "salary": 3190448.0,
+    "K": 30,
+    "BB": 13,
+    "K_pct": 20.8,
+    "BB_pct": 9.0,
+    "xERA": 4.11,
+    "FIP": 3.73,
+    "SIERA": 3.82,
+    "fb_velo": 93.0,
+    "hardhit_pct": 36.6,
+    "barrel_pct": 9.7,
+    "BABIP": 0.261,
+    "LOB_pct": 72.7,
+    "H": 27,
+    "ER": 10,
+    "HR": 3,
+    "SV": 1,
+    "HLD": 16,
+    "W": 2,
+    "L": 3,
+    "K9": 7.94,
+    "WHIP": 1.18,
+    "role": "reliever",
+    "raw": {
+      "DI": 15.14,
+      "CCI": 90.71,
+      "RPSI": 3.92,
+      "SQI": 46.7,
+      "LAI": -0.65,
+      "SEI": 0.2507
+    },
+    "components": {
+      "K_pct": 20.8,
+      "BB_pct": 9.0,
+      "K_BB_pct": 11.8,
+      "xERA": 4.11,
+      "FIP": 3.73,
+      "SIERA": 3.82,
+      "Velo": 93.0,
+      "HardHit_pct": 36.6,
+      "Barrel_pct": 9.7,
+      "BABIP": 0.261,
+      "LOB_pct": 72.7
+    },
+    "name": "Gabe Speier",
+    "team": "SEA",
+    "player_id": 642100,
+    "season": 2026,
+    "normalized": {
+      "DI": 59.47,
+      "CCI": 84.52,
+      "RPSI": 97.66,
+      "SQI": 76.85,
+      "LAI": 70.62,
+      "SEI": 23.24
+    },
+    "UPS": 70.75,
+    "rank": 296,
+    "reliability_pct": 63.0,
+    "adjusted_UPS": 63.06,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
   },
   {
     "IP": 35.2,
@@ -19825,7 +19892,7 @@
       "SEI": 18.11
     },
     "UPS": 70.43,
-    "rank": 296,
+    "rank": 297,
     "reliability_pct": 63.8,
     "adjusted_UPS": 63.03,
     "low_sample": false,
@@ -19892,7 +19959,7 @@
       "SEI": 22.93
     },
     "UPS": 69.47,
-    "rank": 297,
+    "rank": 298,
     "reliability_pct": 66.8,
     "adjusted_UPS": 63.0,
     "low_sample": false,
@@ -19959,11 +20026,11 @@
       "SEI": 18.58
     },
     "UPS": 68.9,
-    "rank": 298,
+    "rank": 299,
     "reliability_pct": 68.8,
     "adjusted_UPS": 63.0,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 45.0,
@@ -20026,7 +20093,7 @@
       "SEI": 17.94
     },
     "UPS": 68.74,
-    "rank": 299,
+    "rank": 300,
     "reliability_pct": 69.2,
     "adjusted_UPS": 62.97,
     "low_sample": false,
@@ -20093,11 +20160,11 @@
       "SEI": 52.61
     },
     "UPS": 74.42,
-    "rank": 300,
+    "rank": 301,
     "reliability_pct": 53.1,
     "adjusted_UPS": 62.96,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 60.2,
@@ -20160,11 +20227,11 @@
       "SEI": 27.25
     },
     "UPS": 71.55,
-    "rank": 301,
+    "rank": 302,
     "reliability_pct": 60.1,
     "adjusted_UPS": 62.95,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 68.1,
@@ -20227,11 +20294,11 @@
       "SEI": 26.07
     },
     "UPS": 70.56,
-    "rank": 302,
+    "rank": 303,
     "reliability_pct": 63.0,
     "adjusted_UPS": 62.95,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 68.2,
@@ -20294,11 +20361,11 @@
       "SEI": 22.27
     },
     "UPS": 70.55,
-    "rank": 303,
+    "rank": 304,
     "reliability_pct": 63.0,
     "adjusted_UPS": 62.95,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 95.2,
@@ -20361,11 +20428,11 @@
       "SEI": 15.95
     },
     "UPS": 68.38,
-    "rank": 304,
+    "rank": 305,
     "reliability_pct": 70.4,
     "adjusted_UPS": 62.94,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 80.0,
@@ -20428,11 +20495,11 @@
       "SEI": 20.14
     },
     "UPS": 69.4,
-    "rank": 305,
+    "rank": 306,
     "reliability_pct": 66.7,
     "adjusted_UPS": 62.93,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 80.0,
@@ -20495,11 +20562,145 @@
       "SEI": 19.88
     },
     "UPS": 69.38,
-    "rank": 306,
+    "rank": 307,
     "reliability_pct": 66.7,
     "adjusted_UPS": 62.92,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
+  },
+  {
+    "IP": 44.2,
+    "ERA": 4.84,
+    "WAR": 0.03,
+    "salary": 17316493.0,
+    "K": 52,
+    "BB": 28,
+    "K_pct": 26.4,
+    "BB_pct": 14.2,
+    "xERA": 4.59,
+    "FIP": 5.1,
+    "SIERA": 5.19,
+    "fb_velo": 93.0,
+    "hardhit_pct": 36.3,
+    "barrel_pct": 8.8,
+    "BABIP": 0.286,
+    "LOB_pct": 60.3,
+    "H": 38,
+    "ER": 24,
+    "HR": 8,
+    "SV": 12,
+    "HLD": 5,
+    "W": 4,
+    "L": 3,
+    "K9": 10.59,
+    "WHIP": 1.48,
+    "role": "reliever",
+    "raw": {
+      "DI": 17.63,
+      "CCI": 85.57,
+      "RPSI": 4.99,
+      "SQI": 47.9,
+      "LAI": -11.35,
+      "SEI": 0.0017
+    },
+    "components": {
+      "K_pct": 26.4,
+      "BB_pct": 14.2,
+      "K_BB_pct": 12.2,
+      "xERA": 4.59,
+      "FIP": 5.1,
+      "SIERA": 5.19,
+      "Velo": 93.0,
+      "HardHit_pct": 36.3,
+      "Barrel_pct": 8.8,
+      "BABIP": 0.286,
+      "LOB_pct": 60.3
+    },
+    "name": "Seranthony Dom\u00ednguez",
+    "team": "Chicago/SEA",
+    "player_id": 622554,
+    "season": 2026,
+    "normalized": {
+      "DI": 62.36,
+      "CCI": 75.95,
+      "RPSI": 96.88,
+      "SQI": 77.45,
+      "LAI": 65.53,
+      "SEI": 20.27
+    },
+    "UPS": 68.7,
+    "rank": 308,
+    "reliability_pct": 68.8,
+    "adjusted_UPS": 62.87,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
+  },
+  {
+    "IP": 37.1,
+    "ERA": 4.58,
+    "WAR": 0.46,
+    "salary": 7000000.0,
+    "K": 34,
+    "BB": 15,
+    "K_pct": 21.1,
+    "BB_pct": 9.3,
+    "xERA": 5.32,
+    "FIP": 4.68,
+    "SIERA": 4.61,
+    "fb_velo": 93.0,
+    "hardhit_pct": 38.0,
+    "barrel_pct": 11.1,
+    "BABIP": 0.267,
+    "LOB_pct": 60.9,
+    "H": 35,
+    "ER": 19,
+    "HR": 6,
+    "SV": 1,
+    "HLD": 7,
+    "W": 2,
+    "L": 1,
+    "K9": 8.25,
+    "WHIP": 1.34,
+    "role": "reliever",
+    "raw": {
+      "DI": 16.36,
+      "CCI": 91.56,
+      "RPSI": 4.85,
+      "SQI": 43.9,
+      "LAI": -12.01,
+      "SEI": 0.0657
+    },
+    "components": {
+      "K_pct": 21.1,
+      "BB_pct": 9.3,
+      "K_BB_pct": 11.8,
+      "xERA": 5.32,
+      "FIP": 4.68,
+      "SIERA": 4.61,
+      "Velo": 93.0,
+      "HardHit_pct": 38.0,
+      "Barrel_pct": 11.1,
+      "BABIP": 0.267,
+      "LOB_pct": 60.9
+    },
+    "name": "Pierce Johnson",
+    "team": "CIN",
+    "player_id": 572955,
+    "season": 2026,
+    "normalized": {
+      "DI": 60.88,
+      "CCI": 85.93,
+      "RPSI": 96.98,
+      "SQI": 75.45,
+      "LAI": 65.21,
+      "SEI": 21.03
+    },
+    "UPS": 69.79,
+    "rank": 309,
+    "reliability_pct": 65.0,
+    "adjusted_UPS": 62.86,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
   },
   {
     "IP": 31.1,
@@ -20562,7 +20763,7 @@
       "SEI": 20.6
     },
     "UPS": 71.09,
-    "rank": 307,
+    "rank": 310,
     "reliability_pct": 60.9,
     "adjusted_UPS": 62.84,
     "low_sample": false,
@@ -20629,7 +20830,7 @@
       "SEI": 19.94
     },
     "UPS": 69.08,
-    "rank": 308,
+    "rank": 311,
     "reliability_pct": 67.3,
     "adjusted_UPS": 62.84,
     "low_sample": false,
@@ -20696,7 +20897,7 @@
       "SEI": 20.48
     },
     "UPS": 68.07,
-    "rank": 309,
+    "rank": 312,
     "reliability_pct": 71.0,
     "adjusted_UPS": 62.83,
     "low_sample": false,
@@ -20763,76 +20964,9 @@
       "SEI": 18.53
     },
     "UPS": 69.56,
-    "rank": 310,
+    "rank": 313,
     "reliability_pct": 65.6,
     "adjusted_UPS": 62.83,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 32.2,
-    "ERA": 2.76,
-    "WAR": 0.8,
-    "salary": 3190448.0,
-    "K": 29,
-    "BB": 13,
-    "K_pct": 20.7,
-    "BB_pct": 9.3,
-    "xERA": 4.11,
-    "FIP": 3.82,
-    "SIERA": 3.82,
-    "fb_velo": 93.0,
-    "hardhit_pct": 36.6,
-    "barrel_pct": 9.7,
-    "BABIP": 0.261,
-    "LOB_pct": 72.7,
-    "H": 26,
-    "ER": 10,
-    "HR": 3,
-    "SV": 1,
-    "HLD": 16,
-    "W": 2,
-    "L": 3,
-    "K9": 8.11,
-    "WHIP": 1.19,
-    "role": "reliever",
-    "raw": {
-      "DI": 15.14,
-      "CCI": 90.71,
-      "RPSI": 3.92,
-      "SQI": 46.7,
-      "LAI": -0.65,
-      "SEI": 0.2507
-    },
-    "components": {
-      "K_pct": 20.7,
-      "BB_pct": 9.3,
-      "K_BB_pct": 11.4,
-      "xERA": 4.11,
-      "FIP": 3.82,
-      "SIERA": 3.82,
-      "Velo": 93.0,
-      "HardHit_pct": 36.6,
-      "Barrel_pct": 9.7,
-      "BABIP": 0.261,
-      "LOB_pct": 72.7
-    },
-    "name": "Gabe Speier",
-    "team": "SEA",
-    "player_id": 642100,
-    "season": 2026,
-    "normalized": {
-      "DI": 59.47,
-      "CCI": 84.52,
-      "RPSI": 97.66,
-      "SQI": 76.85,
-      "LAI": 70.62,
-      "SEI": 23.24
-    },
-    "UPS": 70.75,
-    "rank": 311,
-    "reliability_pct": 61.7,
-    "adjusted_UPS": 62.8,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -20897,7 +21031,7 @@
       "SEI": 21.42
     },
     "UPS": 67.72,
-    "rank": 312,
+    "rank": 314,
     "reliability_pct": 72.3,
     "adjusted_UPS": 62.8,
     "low_sample": false,
@@ -20964,78 +21098,11 @@
       "SEI": 40.49
     },
     "UPS": 73.01,
-    "rank": 313,
+    "rank": 315,
     "reliability_pct": 55.6,
     "adjusted_UPS": 62.79,
     "low_sample": false,
-    "low_sample_threshold": 31.1
-  },
-  {
-    "IP": 43.2,
-    "ERA": 4.95,
-    "WAR": 0.03,
-    "salary": 17316493.0,
-    "K": 51,
-    "BB": 28,
-    "K_pct": 26.3,
-    "BB_pct": 14.4,
-    "xERA": 4.59,
-    "FIP": 5.19,
-    "SIERA": 5.19,
-    "fb_velo": 93.0,
-    "hardhit_pct": 36.3,
-    "barrel_pct": 8.8,
-    "BABIP": 0.286,
-    "LOB_pct": 60.3,
-    "H": 38,
-    "ER": 24,
-    "HR": 8,
-    "SV": 12,
-    "HLD": 5,
-    "W": 4,
-    "L": 3,
-    "K9": 10.62,
-    "WHIP": 1.51,
-    "role": "reliever",
-    "raw": {
-      "DI": 17.63,
-      "CCI": 85.57,
-      "RPSI": 4.99,
-      "SQI": 47.9,
-      "LAI": -11.35,
-      "SEI": 0.0017
-    },
-    "components": {
-      "K_pct": 26.3,
-      "BB_pct": 14.4,
-      "K_BB_pct": 11.9,
-      "xERA": 4.59,
-      "FIP": 5.19,
-      "SIERA": 5.19,
-      "Velo": 93.0,
-      "HardHit_pct": 36.3,
-      "Barrel_pct": 8.8,
-      "BABIP": 0.286,
-      "LOB_pct": 60.3
-    },
-    "name": "Seranthony Dom\u00ednguez",
-    "team": "Chicago/SEA",
-    "player_id": 622554,
-    "season": 2026,
-    "normalized": {
-      "DI": 62.36,
-      "CCI": 75.95,
-      "RPSI": 96.88,
-      "SQI": 77.45,
-      "LAI": 65.53,
-      "SEI": 20.27
-    },
-    "UPS": 68.7,
-    "rank": 314,
-    "reliability_pct": 68.4,
-    "adjusted_UPS": 62.78,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 52.1,
@@ -21098,76 +21165,9 @@
       "SEI": 15.49
     },
     "UPS": 67.65,
-    "rank": 315,
+    "rank": 316,
     "reliability_pct": 72.3,
     "adjusted_UPS": 62.75,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 36.1,
-    "ERA": 4.46,
-    "WAR": 0.46,
-    "salary": 7000000.0,
-    "K": 33,
-    "BB": 13,
-    "K_pct": 21.4,
-    "BB_pct": 8.4,
-    "xERA": 5.32,
-    "FIP": 4.61,
-    "SIERA": 4.61,
-    "fb_velo": 93.0,
-    "hardhit_pct": 38.0,
-    "barrel_pct": 11.1,
-    "BABIP": 0.267,
-    "LOB_pct": 60.9,
-    "H": 33,
-    "ER": 18,
-    "HR": 6,
-    "SV": 1,
-    "HLD": 7,
-    "W": 2,
-    "L": 1,
-    "K9": 8.23,
-    "WHIP": 1.27,
-    "role": "reliever",
-    "raw": {
-      "DI": 16.36,
-      "CCI": 91.56,
-      "RPSI": 4.85,
-      "SQI": 43.9,
-      "LAI": -12.01,
-      "SEI": 0.0657
-    },
-    "components": {
-      "K_pct": 21.4,
-      "BB_pct": 8.4,
-      "K_BB_pct": 13.0,
-      "xERA": 5.32,
-      "FIP": 4.61,
-      "SIERA": 4.61,
-      "Velo": 93.0,
-      "HardHit_pct": 38.0,
-      "Barrel_pct": 11.1,
-      "BABIP": 0.267,
-      "LOB_pct": 60.9
-    },
-    "name": "Pierce Johnson",
-    "team": "CIN",
-    "player_id": 572955,
-    "season": 2026,
-    "normalized": {
-      "DI": 60.88,
-      "CCI": 85.93,
-      "RPSI": 96.98,
-      "SQI": 75.45,
-      "LAI": 65.21,
-      "SEI": 21.03
-    },
-    "UPS": 69.79,
-    "rank": 316,
-    "reliability_pct": 64.3,
-    "adjusted_UPS": 62.73,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -21437,7 +21437,7 @@
     "reliability_pct": 76.3,
     "adjusted_UPS": 62.63,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 38.0,
@@ -21529,7 +21529,7 @@
     "SV": 0,
     "HLD": 0,
     "W": 3,
-    "L": 2,
+    "L": 3,
     "K9": 7.08,
     "WHIP": 1.52,
     "role": "starter",
@@ -21571,7 +21571,7 @@
     "reliability_pct": 65.2,
     "adjusted_UPS": 62.58,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 34.1,
@@ -21772,7 +21772,7 @@
     "reliability_pct": 61.9,
     "adjusted_UPS": 62.55,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 34.1,
@@ -21973,7 +21973,7 @@
     "reliability_pct": 67.5,
     "adjusted_UPS": 62.45,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 84.0,
@@ -22040,7 +22040,7 @@
     "reliability_pct": 67.7,
     "adjusted_UPS": 62.43,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 68.2,
@@ -22107,7 +22107,7 @@
     "reliability_pct": 63.0,
     "adjusted_UPS": 62.41,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 42.2,
@@ -22241,7 +22241,7 @@
     "reliability_pct": 68.0,
     "adjusted_UPS": 62.41,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 23.0,
@@ -22442,7 +22442,7 @@
     "reliability_pct": 74.2,
     "adjusted_UPS": 62.4,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 56.1,
@@ -22509,7 +22509,7 @@
     "reliability_pct": 58.4,
     "adjusted_UPS": 62.39,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 31.2,
@@ -22844,7 +22844,7 @@
     "reliability_pct": 63.7,
     "adjusted_UPS": 62.26,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 92.0,
@@ -22911,7 +22911,7 @@
     "reliability_pct": 69.7,
     "adjusted_UPS": 62.25,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 62.0,
@@ -22978,7 +22978,7 @@
     "reliability_pct": 60.8,
     "adjusted_UPS": 62.24,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 98.0,
@@ -23045,7 +23045,7 @@
     "reliability_pct": 71.0,
     "adjusted_UPS": 62.24,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 54.0,
@@ -23112,7 +23112,7 @@
     "reliability_pct": 57.4,
     "adjusted_UPS": 62.24,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 41.1,
@@ -23581,7 +23581,7 @@
     "reliability_pct": 53.0,
     "adjusted_UPS": 62.09,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 28.0,
@@ -23715,7 +23715,7 @@
     "reliability_pct": 62.7,
     "adjusted_UPS": 62.0,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 62.2,
@@ -23782,7 +23782,7 @@
     "reliability_pct": 60.9,
     "adjusted_UPS": 61.99,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 36.2,
@@ -23916,7 +23916,74 @@
     "reliability_pct": 58.8,
     "adjusted_UPS": 61.95,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
+  },
+  {
+    "IP": 43.1,
+    "ERA": 5.82,
+    "WAR": -0.49,
+    "salary": 5112886.0,
+    "K": 39,
+    "BB": 21,
+    "K_pct": 20.3,
+    "BB_pct": 10.9,
+    "xERA": 5.29,
+    "FIP": 5.26,
+    "SIERA": 5.41,
+    "fb_velo": 93.0,
+    "hardhit_pct": 40.9,
+    "barrel_pct": 9.4,
+    "BABIP": 0.288,
+    "LOB_pct": 53.8,
+    "H": 42,
+    "ER": 28,
+    "HR": 8,
+    "SV": 2,
+    "HLD": 5,
+    "W": 2,
+    "L": 5,
+    "K9": 8.14,
+    "WHIP": 1.45,
+    "role": "reliever",
+    "raw": {
+      "DI": 13.05,
+      "CCI": 88.77,
+      "RPSI": 5.37,
+      "SQI": 42.7,
+      "LAI": -17.45,
+      "SEI": -0.0958
+    },
+    "components": {
+      "K_pct": 20.3,
+      "BB_pct": 10.9,
+      "K_BB_pct": 9.4,
+      "xERA": 5.29,
+      "FIP": 5.26,
+      "SIERA": 5.41,
+      "Velo": 93.0,
+      "HardHit_pct": 40.9,
+      "Barrel_pct": 9.4,
+      "BABIP": 0.288,
+      "LOB_pct": 53.8
+    },
+    "name": "Dennis Santana",
+    "team": "ARI/PIT",
+    "player_id": 642701,
+    "season": 2026,
+    "normalized": {
+      "DI": 57.03,
+      "CCI": 81.28,
+      "RPSI": 96.61,
+      "SQI": 74.85,
+      "LAI": 62.62,
+      "SEI": 19.1
+    },
+    "UPS": 67.49,
+    "rank": 358,
+    "reliability_pct": 68.3,
+    "adjusted_UPS": 61.95,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
   },
   {
     "IP": 67.2,
@@ -23979,11 +24046,11 @@
       "SEI": 23.01
     },
     "UPS": 68.98,
-    "rank": 358,
+    "rank": 359,
     "reliability_pct": 62.7,
     "adjusted_UPS": 61.9,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 39.1,
@@ -24046,76 +24113,9 @@
       "SEI": 21.91
     },
     "UPS": 67.98,
-    "rank": 359,
+    "rank": 360,
     "reliability_pct": 66.2,
     "adjusted_UPS": 61.9,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 42.0,
-    "ERA": 6.0,
-    "WAR": -0.49,
-    "salary": 5112886.0,
-    "K": 37,
-    "BB": 21,
-    "K_pct": 19.8,
-    "BB_pct": 11.2,
-    "xERA": 5.29,
-    "FIP": 5.41,
-    "SIERA": 5.41,
-    "fb_velo": 93.0,
-    "hardhit_pct": 40.9,
-    "barrel_pct": 9.4,
-    "BABIP": 0.288,
-    "LOB_pct": 53.8,
-    "H": 42,
-    "ER": 28,
-    "HR": 8,
-    "SV": 2,
-    "HLD": 5,
-    "W": 2,
-    "L": 5,
-    "K9": 7.93,
-    "WHIP": 1.5,
-    "role": "reliever",
-    "raw": {
-      "DI": 13.05,
-      "CCI": 88.77,
-      "RPSI": 5.37,
-      "SQI": 42.7,
-      "LAI": -17.45,
-      "SEI": -0.0958
-    },
-    "components": {
-      "K_pct": 19.8,
-      "BB_pct": 11.2,
-      "K_BB_pct": 8.6,
-      "xERA": 5.29,
-      "FIP": 5.41,
-      "SIERA": 5.41,
-      "Velo": 93.0,
-      "HardHit_pct": 40.9,
-      "Barrel_pct": 9.4,
-      "BABIP": 0.288,
-      "LOB_pct": 53.8
-    },
-    "name": "Dennis Santana",
-    "team": "ARI/PIT",
-    "player_id": 642701,
-    "season": 2026,
-    "normalized": {
-      "DI": 57.03,
-      "CCI": 81.28,
-      "RPSI": 96.61,
-      "SQI": 74.85,
-      "LAI": 62.62,
-      "SEI": 19.1
-    },
-    "UPS": 67.49,
-    "rank": 360,
-    "reliability_pct": 67.7,
-    "adjusted_UPS": 61.85,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -24385,7 +24385,7 @@
     "reliability_pct": 68.0,
     "adjusted_UPS": 61.78,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 33.0,
@@ -24519,7 +24519,7 @@
     "reliability_pct": 64.0,
     "adjusted_UPS": 61.72,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 37.0,
@@ -25122,7 +25122,7 @@
     "reliability_pct": 57.0,
     "adjusted_UPS": 61.56,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 94.2,
@@ -25189,7 +25189,7 @@
     "reliability_pct": 70.2,
     "adjusted_UPS": 61.53,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 76.0,
@@ -25256,7 +25256,7 @@
     "reliability_pct": 65.5,
     "adjusted_UPS": 61.49,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 39.2,
@@ -25323,7 +25323,7 @@
     "reliability_pct": 49.5,
     "adjusted_UPS": 61.4,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 29.0,
@@ -25591,7 +25591,7 @@
     "reliability_pct": 57.4,
     "adjusted_UPS": 61.31,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 32.1,
@@ -25993,7 +25993,7 @@
     "reliability_pct": 62.0,
     "adjusted_UPS": 61.16,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 70.0,
@@ -26060,7 +26060,7 @@
     "reliability_pct": 63.6,
     "adjusted_UPS": 61.16,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 50.1,
@@ -26127,7 +26127,7 @@
     "reliability_pct": 55.6,
     "adjusted_UPS": 61.12,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 27.0,
@@ -26663,7 +26663,74 @@
     "reliability_pct": 58.8,
     "adjusted_UPS": 60.9,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
+  },
+  {
+    "IP": 17.2,
+    "ERA": 2.55,
+    "WAR": 0.42,
+    "salary": 1305268.0,
+    "K": 21,
+    "BB": 6,
+    "K_pct": 28.4,
+    "BB_pct": 8.1,
+    "xERA": 3.75,
+    "FIP": 3.32,
+    "SIERA": 3.57,
+    "fb_velo": 93.0,
+    "hardhit_pct": 30.4,
+    "barrel_pct": 6.5,
+    "BABIP": 0.341,
+    "LOB_pct": 78.3,
+    "H": 17,
+    "ER": 5,
+    "HR": 2,
+    "SV": 3,
+    "HLD": 0,
+    "W": 2,
+    "L": 1,
+    "K9": 10.99,
+    "WHIP": 1.3,
+    "role": "reliever",
+    "raw": {
+      "DI": 21.69,
+      "CCI": 91.55,
+      "RPSI": 3.63,
+      "SQI": 56.1,
+      "LAI": 5.26,
+      "SEI": 0.3218
+    },
+    "components": {
+      "K_pct": 28.4,
+      "BB_pct": 8.1,
+      "K_BB_pct": 20.3,
+      "xERA": 3.75,
+      "FIP": 3.32,
+      "SIERA": 3.57,
+      "Velo": 93.0,
+      "HardHit_pct": 30.4,
+      "Barrel_pct": 6.5,
+      "BABIP": 0.341,
+      "LOB_pct": 78.3
+    },
+    "name": "Daniel Palencia",
+    "team": "CHC",
+    "player_id": 694037,
+    "season": 2026,
+    "normalized": {
+      "DI": 67.08,
+      "CCI": 85.92,
+      "RPSI": 97.87,
+      "SQI": 81.55,
+      "LAI": 73.43,
+      "SEI": 24.09
+    },
+    "UPS": 73.55,
+    "rank": 399,
+    "reliability_pct": 46.2,
+    "adjusted_UPS": 60.89,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
   },
   {
     "IP": 26.1,
@@ -26726,7 +26793,7 @@
       "SEI": 18.93
     },
     "UPS": 69.22,
-    "rank": 399,
+    "rank": 400,
     "reliability_pct": 56.6,
     "adjusted_UPS": 60.88,
     "low_sample": false,
@@ -26793,7 +26860,7 @@
       "SEI": 21.78
     },
     "UPS": 67.83,
-    "rank": 400,
+    "rank": 401,
     "reliability_pct": 60.9,
     "adjusted_UPS": 60.87,
     "low_sample": false,
@@ -26860,7 +26927,7 @@
       "SEI": 27.45
     },
     "UPS": 73.43,
-    "rank": 401,
+    "rank": 402,
     "reliability_pct": 46.2,
     "adjusted_UPS": 60.83,
     "low_sample": false,
@@ -26927,7 +26994,7 @@
       "SEI": 24.23
     },
     "UPS": 72.69,
-    "rank": 402,
+    "rank": 403,
     "reliability_pct": 47.6,
     "adjusted_UPS": 60.81,
     "low_sample": false,
@@ -26994,7 +27061,7 @@
       "SEI": 20.89
     },
     "UPS": 76.0,
-    "rank": 403,
+    "rank": 404,
     "reliability_pct": 41.5,
     "adjusted_UPS": 60.8,
     "low_sample": false,
@@ -27061,11 +27128,11 @@
       "SEI": 21.05
     },
     "UPS": 69.4,
-    "rank": 404,
+    "rank": 405,
     "reliability_pct": 55.6,
     "adjusted_UPS": 60.79,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 43.1,
@@ -27128,7 +27195,7 @@
       "SEI": 16.63
     },
     "UPS": 65.8,
-    "rank": 405,
+    "rank": 406,
     "reliability_pct": 68.3,
     "adjusted_UPS": 60.79,
     "low_sample": false,
@@ -27195,7 +27262,7 @@
       "SEI": 21.63
     },
     "UPS": 68.73,
-    "rank": 406,
+    "rank": 407,
     "reliability_pct": 57.4,
     "adjusted_UPS": 60.76,
     "low_sample": false,
@@ -27262,7 +27329,7 @@
       "SEI": 20.25
     },
     "UPS": 70.47,
-    "rank": 407,
+    "rank": 408,
     "reliability_pct": 52.4,
     "adjusted_UPS": 60.72,
     "low_sample": false,
@@ -27329,11 +27396,11 @@
       "SEI": 22.58
     },
     "UPS": 68.45,
-    "rank": 408,
+    "rank": 409,
     "reliability_pct": 58.0,
     "adjusted_UPS": 60.7,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 18.1,
@@ -27396,7 +27463,7 @@
       "SEI": 25.77
     },
     "UPS": 72.5,
-    "rank": 409,
+    "rank": 410,
     "reliability_pct": 47.5,
     "adjusted_UPS": 60.69,
     "low_sample": false,
@@ -27463,7 +27530,7 @@
       "SEI": 19.76
     },
     "UPS": 68.55,
-    "rank": 410,
+    "rank": 411,
     "reliability_pct": 57.6,
     "adjusted_UPS": 60.69,
     "low_sample": false,
@@ -27530,7 +27597,7 @@
       "SEI": 19.65
     },
     "UPS": 67.57,
-    "rank": 411,
+    "rank": 412,
     "reliability_pct": 60.8,
     "adjusted_UPS": 60.68,
     "low_sample": false,
@@ -27597,7 +27664,7 @@
       "SEI": 20.33
     },
     "UPS": 70.57,
-    "rank": 412,
+    "rank": 413,
     "reliability_pct": 51.5,
     "adjusted_UPS": 60.58,
     "low_sample": false,
@@ -27664,11 +27731,11 @@
       "SEI": 12.88
     },
     "UPS": 67.08,
-    "rank": 413,
+    "rank": 414,
     "reliability_pct": 61.9,
     "adjusted_UPS": 60.58,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 20.1,
@@ -27731,76 +27798,9 @@
       "SEI": 23.77
     },
     "UPS": 71.04,
-    "rank": 414,
+    "rank": 415,
     "reliability_pct": 50.1,
     "adjusted_UPS": 60.55,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 16.2,
-    "ERA": 2.7,
-    "WAR": 0.42,
-    "salary": 1305268.0,
-    "K": 19,
-    "BB": 6,
-    "K_pct": 26.8,
-    "BB_pct": 8.5,
-    "xERA": 3.75,
-    "FIP": 3.57,
-    "SIERA": 3.57,
-    "fb_velo": 93.0,
-    "hardhit_pct": 30.4,
-    "barrel_pct": 6.5,
-    "BABIP": 0.341,
-    "LOB_pct": 78.3,
-    "H": 17,
-    "ER": 5,
-    "HR": 2,
-    "SV": 3,
-    "HLD": 0,
-    "W": 2,
-    "L": 1,
-    "K9": 10.56,
-    "WHIP": 1.38,
-    "role": "reliever",
-    "raw": {
-      "DI": 21.69,
-      "CCI": 91.55,
-      "RPSI": 3.63,
-      "SQI": 56.1,
-      "LAI": 5.26,
-      "SEI": 0.3218
-    },
-    "components": {
-      "K_pct": 26.8,
-      "BB_pct": 8.5,
-      "K_BB_pct": 18.3,
-      "xERA": 3.75,
-      "FIP": 3.57,
-      "SIERA": 3.57,
-      "Velo": 93.0,
-      "HardHit_pct": 30.4,
-      "Barrel_pct": 6.5,
-      "BABIP": 0.341,
-      "LOB_pct": 78.3
-    },
-    "name": "Daniel Palencia",
-    "team": "CHC",
-    "player_id": 694037,
-    "season": 2026,
-    "normalized": {
-      "DI": 67.08,
-      "CCI": 85.92,
-      "RPSI": 97.87,
-      "SQI": 81.55,
-      "LAI": 73.43,
-      "SEI": 24.09
-    },
-    "UPS": 73.55,
-    "rank": 415,
-    "reliability_pct": 44.8,
-    "adjusted_UPS": 60.54,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -27869,7 +27869,7 @@
     "reliability_pct": 59.2,
     "adjusted_UPS": 60.5,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 33.1,
@@ -28271,7 +28271,7 @@
     "reliability_pct": 64.3,
     "adjusted_UPS": 60.38,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 23.1,
@@ -28810,6 +28810,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 16.1,
+    "ERA": 2.2,
+    "WAR": 0.3,
+    "salary": 3252813.0,
+    "K": 17,
+    "BB": 5,
+    "K_pct": 28.3,
+    "BB_pct": 8.3,
+    "xERA": 1.9,
+    "FIP": 3.63,
+    "SIERA": 3.79,
+    "fb_velo": 93.0,
+    "hardhit_pct": 21.6,
+    "barrel_pct": 2.7,
+    "BABIP": 0.114,
+    "LOB_pct": 54.5,
+    "H": 6,
+    "ER": 4,
+    "HR": 2,
+    "SV": 1,
+    "HLD": 5,
+    "W": 0,
+    "L": 1,
+    "K9": 9.5,
+    "WHIP": 0.67,
+    "role": "reliever",
+    "raw": {
+      "DI": 22.41,
+      "CCI": 91.38,
+      "RPSI": 3.16,
+      "SQI": 68.7,
+      "LAI": -17.23,
+      "SEI": 0.0922
+    },
+    "components": {
+      "K_pct": 28.3,
+      "BB_pct": 8.3,
+      "K_BB_pct": 20.0,
+      "xERA": 1.9,
+      "FIP": 3.63,
+      "SIERA": 3.79,
+      "Velo": 93.0,
+      "HardHit_pct": 21.6,
+      "Barrel_pct": 2.7,
+      "BABIP": 0.114,
+      "LOB_pct": 54.5
+    },
+    "name": "Brock Stewart",
+    "team": "LAD",
+    "player_id": 592779,
+    "season": 2026,
+    "normalized": {
+      "DI": 67.92,
+      "CCI": 85.63,
+      "RPSI": 98.21,
+      "SQI": 87.85,
+      "LAI": 62.73,
+      "SEI": 21.35
+    },
+    "UPS": 72.38,
+    "rank": 431,
+    "reliability_pct": 44.6,
+    "adjusted_UPS": 59.98,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
+  },
+  {
     "IP": 23.2,
     "ERA": 4.94,
     "WAR": -0.13,
@@ -28870,7 +28937,7 @@
       "SEI": 20.01
     },
     "UPS": 68.5,
-    "rank": 431,
+    "rank": 432,
     "reliability_pct": 53.7,
     "adjusted_UPS": 59.94,
     "low_sample": false,
@@ -28937,7 +29004,7 @@
       "SEI": 21.93
     },
     "UPS": 71.52,
-    "rank": 432,
+    "rank": 433,
     "reliability_pct": 45.9,
     "adjusted_UPS": 59.89,
     "low_sample": false,
@@ -29004,7 +29071,7 @@
       "SEI": 13.04
     },
     "UPS": 69.69,
-    "rank": 433,
+    "rank": 434,
     "reliability_pct": 50.2,
     "adjusted_UPS": 59.89,
     "low_sample": false,
@@ -29071,11 +29138,11 @@
       "SEI": 20.11
     },
     "UPS": 67.15,
-    "rank": 434,
+    "rank": 435,
     "reliability_pct": 57.0,
     "adjusted_UPS": 59.77,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 64.0,
@@ -29138,11 +29205,11 @@
       "SEI": 15.45
     },
     "UPS": 65.86,
-    "rank": 435,
+    "rank": 436,
     "reliability_pct": 61.5,
     "adjusted_UPS": 59.76,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 17.1,
@@ -29205,7 +29272,7 @@
       "SEI": 21.19
     },
     "UPS": 71.09,
-    "rank": 436,
+    "rank": 437,
     "reliability_pct": 46.1,
     "adjusted_UPS": 59.72,
     "low_sample": false,
@@ -29272,7 +29339,7 @@
       "SEI": 25.15
     },
     "UPS": 71.7,
-    "rank": 437,
+    "rank": 438,
     "reliability_pct": 44.8,
     "adjusted_UPS": 59.71,
     "low_sample": false,
@@ -29339,7 +29406,7 @@
       "SEI": 17.94
     },
     "UPS": 67.44,
-    "rank": 438,
+    "rank": 439,
     "reliability_pct": 55.7,
     "adjusted_UPS": 59.71,
     "low_sample": false,
@@ -29406,7 +29473,7 @@
       "SEI": 24.85
     },
     "UPS": 66.58,
-    "rank": 439,
+    "rank": 440,
     "reliability_pct": 58.5,
     "adjusted_UPS": 59.7,
     "low_sample": false,
@@ -29473,78 +29540,11 @@
       "SEI": 19.98
     },
     "UPS": 69.6,
-    "rank": 440,
+    "rank": 441,
     "reliability_pct": 49.4,
     "adjusted_UPS": 59.68,
     "low_sample": false,
-    "low_sample_threshold": 31.1
-  },
-  {
-    "IP": 15.2,
-    "ERA": 2.3,
-    "WAR": 0.3,
-    "salary": 3252813.0,
-    "K": 16,
-    "BB": 5,
-    "K_pct": 27.6,
-    "BB_pct": 8.6,
-    "xERA": 1.9,
-    "FIP": 3.79,
-    "SIERA": 3.79,
-    "fb_velo": 93.0,
-    "hardhit_pct": 21.6,
-    "barrel_pct": 2.7,
-    "BABIP": 0.114,
-    "LOB_pct": 54.5,
-    "H": 6,
-    "ER": 4,
-    "HR": 2,
-    "SV": 1,
-    "HLD": 5,
-    "W": 0,
-    "L": 1,
-    "K9": 9.47,
-    "WHIP": 0.7,
-    "role": "reliever",
-    "raw": {
-      "DI": 22.41,
-      "CCI": 91.38,
-      "RPSI": 3.16,
-      "SQI": 68.7,
-      "LAI": -17.23,
-      "SEI": 0.0922
-    },
-    "components": {
-      "K_pct": 27.6,
-      "BB_pct": 8.6,
-      "K_BB_pct": 19.0,
-      "xERA": 1.9,
-      "FIP": 3.79,
-      "SIERA": 3.79,
-      "Velo": 93.0,
-      "HardHit_pct": 21.6,
-      "Barrel_pct": 2.7,
-      "BABIP": 0.114,
-      "LOB_pct": 54.5
-    },
-    "name": "Brock Stewart",
-    "team": "LAD",
-    "player_id": 592779,
-    "season": 2026,
-    "normalized": {
-      "DI": 67.92,
-      "CCI": 85.63,
-      "RPSI": 98.21,
-      "SQI": 87.85,
-      "LAI": 62.73,
-      "SEI": 21.35
-    },
-    "UPS": 72.38,
-    "rank": 441,
-    "reliability_pct": 43.2,
-    "adjusted_UPS": 59.66,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 16.0,
@@ -29678,7 +29678,7 @@
     "reliability_pct": 55.7,
     "adjusted_UPS": 59.55,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 37.2,
@@ -29745,7 +29745,7 @@
     "reliability_pct": 48.2,
     "adjusted_UPS": 59.51,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 66.0,
@@ -29812,7 +29812,7 @@
     "reliability_pct": 62.3,
     "adjusted_UPS": 59.49,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 13.2,
@@ -30214,7 +30214,7 @@
     "reliability_pct": 47.5,
     "adjusted_UPS": 59.33,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 18.1,
@@ -30616,7 +30616,7 @@
     "reliability_pct": 45.9,
     "adjusted_UPS": 59.07,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 23.0,
@@ -30750,7 +30750,7 @@
     "reliability_pct": 52.9,
     "adjusted_UPS": 59.05,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 12.1,
@@ -31018,7 +31018,7 @@
     "reliability_pct": 61.5,
     "adjusted_UPS": 58.84,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 21.1,
@@ -31286,7 +31286,7 @@
     "reliability_pct": 60.0,
     "adjusted_UPS": 58.75,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 16.2,
@@ -31487,7 +31487,7 @@
     "reliability_pct": 42.9,
     "adjusted_UPS": 58.7,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 35.1,
@@ -31554,7 +31554,7 @@
     "reliability_pct": 46.7,
     "adjusted_UPS": 58.68,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 41.0,
@@ -31621,7 +31621,7 @@
     "reliability_pct": 50.6,
     "adjusted_UPS": 58.66,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 20.0,
@@ -31956,7 +31956,7 @@
     "reliability_pct": 47.4,
     "adjusted_UPS": 58.59,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 31.0,
@@ -32023,7 +32023,7 @@
     "reliability_pct": 43.7,
     "adjusted_UPS": 58.58,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 36.2,
@@ -32090,7 +32090,7 @@
     "reliability_pct": 47.5,
     "adjusted_UPS": 58.52,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 20.2,
@@ -32492,7 +32492,7 @@
     "reliability_pct": 44.6,
     "adjusted_UPS": 58.33,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 13.1,
@@ -32626,7 +32626,7 @@
     "reliability_pct": 40.5,
     "adjusted_UPS": 58.2,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 34.1,
@@ -32693,7 +32693,7 @@
     "reliability_pct": 46.0,
     "adjusted_UPS": 58.15,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 14.1,
@@ -32827,7 +32827,7 @@
     "reliability_pct": 42.9,
     "adjusted_UPS": 58.13,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 26.0,
@@ -33028,7 +33028,7 @@
     "reliability_pct": 52.4,
     "adjusted_UPS": 58.06,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 28.1,
@@ -33095,7 +33095,7 @@
     "reliability_pct": 41.3,
     "adjusted_UPS": 58.02,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 24.2,
@@ -33430,7 +33430,7 @@
     "reliability_pct": 40.5,
     "adjusted_UPS": 57.95,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 13.1,
@@ -34242,26 +34242,26 @@
     "WAR": 0.43,
     "salary": 780000,
     "K": 9,
-    "BB": 1,
-    "K_pct": 42.9,
-    "BB_pct": 4.8,
+    "BB": 2,
+    "K_pct": 37.5,
+    "BB_pct": 8.3,
     "xERA": 0.69,
-    "FIP": 0.78,
+    "FIP": 1.26,
     "SIERA": 1.03,
     "fb_velo": 93.0,
     "hardhit_pct": 20.0,
     "barrel_pct": 0.0,
     "BABIP": 0.1,
     "LOB_pct": 100.0,
-    "H": 1,
+    "H": 3,
     "ER": 0,
     "HR": 0,
     "SV": 3,
     "HLD": 1,
     "W": 0,
-    "L": 0,
+    "L": 1,
     "K9": 13.06,
-    "WHIP": 0.3,
+    "WHIP": 0.75,
     "role": "reliever",
     "raw": {
       "DI": 38.95,
@@ -34272,11 +34272,11 @@
       "SEI": 0.5513
     },
     "components": {
-      "K_pct": 42.9,
-      "BB_pct": 4.8,
-      "K_BB_pct": 38.1,
+      "K_pct": 37.5,
+      "BB_pct": 8.3,
+      "K_BB_pct": 29.2,
       "xERA": 0.69,
-      "FIP": 0.78,
+      "FIP": 1.26,
       "SIERA": 1.03,
       "Velo": 93.0,
       "HardHit_pct": 20.0,
@@ -34435,7 +34435,7 @@
     "reliability_pct": 45.4,
     "adjusted_UPS": 57.44,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 14.0,
@@ -35172,7 +35172,7 @@
     "reliability_pct": 33.4,
     "adjusted_UPS": 57.05,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 11.1,
@@ -35507,7 +35507,7 @@
     "reliability_pct": 28.6,
     "adjusted_UPS": 56.93,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 13.2,
@@ -35976,7 +35976,7 @@
     "reliability_pct": 37.7,
     "adjusted_UPS": 56.6,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 15.0,
@@ -36043,7 +36043,7 @@
     "reliability_pct": 27.3,
     "adjusted_UPS": 56.58,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 20.0,
@@ -36579,7 +36579,7 @@
     "reliability_pct": 45.2,
     "adjusted_UPS": 56.32,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 17.2,
@@ -36713,7 +36713,7 @@
     "reliability_pct": 42.2,
     "adjusted_UPS": 56.23,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 19.1,
@@ -36914,7 +36914,7 @@
     "reliability_pct": 44.4,
     "adjusted_UPS": 56.18,
     "low_sample": false,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 6.1,
@@ -37048,7 +37048,7 @@
     "reliability_pct": 41.2,
     "adjusted_UPS": 56.07,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 16.2,
@@ -37249,7 +37249,7 @@
     "reliability_pct": 32.2,
     "adjusted_UPS": 56.03,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 21.2,
@@ -37316,7 +37316,7 @@
     "reliability_pct": 34.6,
     "adjusted_UPS": 56.0,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 23.1,
@@ -37383,7 +37383,7 @@
     "reliability_pct": 36.6,
     "adjusted_UPS": 55.99,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 13.1,
@@ -37584,7 +37584,7 @@
     "reliability_pct": 35.6,
     "adjusted_UPS": 55.91,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 11.1,
@@ -37785,7 +37785,7 @@
     "reliability_pct": 27.4,
     "adjusted_UPS": 55.83,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 22.2,
@@ -37852,7 +37852,7 @@
     "reliability_pct": 35.7,
     "adjusted_UPS": 55.83,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 12.2,
@@ -38857,7 +38857,7 @@
     "reliability_pct": 28.8,
     "adjusted_UPS": 55.51,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 17.2,
@@ -38924,7 +38924,7 @@
     "reliability_pct": 30.1,
     "adjusted_UPS": 55.51,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 9.2,
@@ -39192,7 +39192,7 @@
     "reliability_pct": 31.3,
     "adjusted_UPS": 55.42,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 8.2,
@@ -39326,7 +39326,7 @@
     "reliability_pct": 28.7,
     "adjusted_UPS": 55.37,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 10.0,
@@ -40130,7 +40130,7 @@
     "reliability_pct": 28.8,
     "adjusted_UPS": 55.13,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 17.0,
@@ -40197,7 +40197,7 @@
     "reliability_pct": 29.8,
     "adjusted_UPS": 55.1,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 11.2,
@@ -40465,7 +40465,7 @@
     "reliability_pct": 31.2,
     "adjusted_UPS": 55.0,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 14.0,
@@ -40532,7 +40532,7 @@
     "reliability_pct": 25.9,
     "adjusted_UPS": 54.99,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 6.2,
@@ -41403,7 +41403,7 @@
     "reliability_pct": 32.3,
     "adjusted_UPS": 54.55,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 7.1,
@@ -41607,6 +41607,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 7.2,
+    "ERA": 4.7,
+    "WAR": 0.07,
+    "salary": 780000,
+    "K": 1,
+    "BB": 2,
+    "K_pct": 2.9,
+    "BB_pct": 5.9,
+    "xERA": 6.42,
+    "FIP": 5.56,
+    "SIERA": 5.63,
+    "fb_velo": 93.0,
+    "hardhit_pct": 39.3,
+    "barrel_pct": 7.1,
+    "BABIP": 0.333,
+    "LOB_pct": 66.7,
+    "H": 11,
+    "ER": 4,
+    "HR": 1,
+    "SV": 0,
+    "HLD": 0,
+    "W": 0,
+    "L": 0,
+    "K9": 1.25,
+    "WHIP": 1.7,
+    "role": "reliever",
+    "raw": {
+      "DI": -0.65,
+      "CCI": 93.55,
+      "RPSI": 5.89,
+      "SQI": 46.6,
+      "LAI": -6.57,
+      "SEI": 0.0897
+    },
+    "components": {
+      "K_pct": 2.9,
+      "BB_pct": 5.9,
+      "K_BB_pct": -3.0,
+      "xERA": 6.42,
+      "FIP": 5.56,
+      "SIERA": 5.63,
+      "Velo": 93.0,
+      "HardHit_pct": 39.3,
+      "Barrel_pct": 7.1,
+      "BABIP": 0.333,
+      "LOB_pct": 66.7
+    },
+    "name": "Brett Sullivan",
+    "team": "COL",
+    "player_id": 664954,
+    "season": 2026,
+    "normalized": {
+      "DI": 41.1,
+      "CCI": 89.25,
+      "RPSI": 96.23,
+      "SQI": 76.8,
+      "LAI": 67.8,
+      "SEI": 21.32
+    },
+    "UPS": 66.71,
+    "rank": 622,
+    "reliability_pct": 26.5,
+    "adjusted_UPS": 54.42,
+    "low_sample": true,
+    "low_sample_threshold": 8.0
+  },
+  {
     "IP": 10.1,
     "ERA": 9.58,
     "WAR": -0.38,
@@ -41667,7 +41734,7 @@
       "SEI": 14.42
     },
     "UPS": 63.02,
-    "rank": 622,
+    "rank": 623,
     "reliability_pct": 33.6,
     "adjusted_UPS": 54.37,
     "low_sample": false,
@@ -41734,7 +41801,7 @@
       "SEI": 21.01
     },
     "UPS": 71.44,
-    "rank": 623,
+    "rank": 624,
     "reliability_pct": 20.3,
     "adjusted_UPS": 54.36,
     "low_sample": true,
@@ -41801,76 +41868,9 @@
       "SEI": 21.78
     },
     "UPS": 68.88,
-    "rank": 624,
+    "rank": 625,
     "reliability_pct": 23.1,
     "adjusted_UPS": 54.36,
-    "low_sample": true,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 7.0,
-    "ERA": 5.14,
-    "WAR": 0.07,
-    "salary": 780000,
-    "K": 1,
-    "BB": 2,
-    "K_pct": 3.2,
-    "BB_pct": 6.5,
-    "xERA": 6.42,
-    "FIP": 5.63,
-    "SIERA": 5.63,
-    "fb_velo": 93.0,
-    "hardhit_pct": 39.3,
-    "barrel_pct": 7.1,
-    "BABIP": 0.333,
-    "LOB_pct": 66.7,
-    "H": 10,
-    "ER": 4,
-    "HR": 1,
-    "SV": 0,
-    "HLD": 0,
-    "W": 0,
-    "L": 0,
-    "K9": 1.29,
-    "WHIP": 1.71,
-    "role": "reliever",
-    "raw": {
-      "DI": -0.65,
-      "CCI": 93.55,
-      "RPSI": 5.89,
-      "SQI": 46.6,
-      "LAI": -6.57,
-      "SEI": 0.0897
-    },
-    "components": {
-      "K_pct": 3.2,
-      "BB_pct": 6.5,
-      "K_BB_pct": -3.3,
-      "xERA": 6.42,
-      "FIP": 5.63,
-      "SIERA": 5.63,
-      "Velo": 93.0,
-      "HardHit_pct": 39.3,
-      "Barrel_pct": 7.1,
-      "BABIP": 0.333,
-      "LOB_pct": 66.7
-    },
-    "name": "Brett Sullivan",
-    "team": "COL",
-    "player_id": 664954,
-    "season": 2026,
-    "normalized": {
-      "DI": 41.1,
-      "CCI": 89.25,
-      "RPSI": 96.23,
-      "SQI": 76.8,
-      "LAI": 67.8,
-      "SEI": 21.32
-    },
-    "UPS": 66.71,
-    "rank": 625,
-    "reliability_pct": 25.9,
-    "adjusted_UPS": 54.33,
     "low_sample": true,
     "low_sample_threshold": 8.0
   },
@@ -43145,7 +43145,7 @@
     "reliability_pct": 18.4,
     "adjusted_UPS": 53.84,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 7.0,
@@ -43681,7 +43681,7 @@
     "reliability_pct": 20.2,
     "adjusted_UPS": 53.52,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 5.0,
@@ -43815,7 +43815,7 @@
     "reliability_pct": 20.0,
     "adjusted_UPS": 53.48,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 9.1,
@@ -45356,7 +45356,7 @@
     "reliability_pct": 20.3,
     "adjusted_UPS": 52.98,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 8.2,
@@ -45423,7 +45423,7 @@
     "reliability_pct": 17.0,
     "adjusted_UPS": 52.96,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 7.1,
@@ -45490,7 +45490,7 @@
     "reliability_pct": 15.1,
     "adjusted_UPS": 52.95,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 4.2,
@@ -46361,7 +46361,7 @@
     "reliability_pct": 16.8,
     "adjusted_UPS": 52.56,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 3.0,
@@ -47299,7 +47299,7 @@
     "reliability_pct": 15.3,
     "adjusted_UPS": 52.21,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 3.2,
@@ -47902,7 +47902,7 @@
     "reliability_pct": 11.1,
     "adjusted_UPS": 52.1,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 3.2,
@@ -48706,7 +48706,7 @@
     "reliability_pct": 9.3,
     "adjusted_UPS": 51.84,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 3.0,
@@ -48974,7 +48974,7 @@
     "reliability_pct": 7.4,
     "adjusted_UPS": 51.66,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 3.1,
@@ -49644,7 +49644,7 @@
     "reliability_pct": 11.1,
     "adjusted_UPS": 51.45,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 3.2,
@@ -49711,7 +49711,7 @@
     "reliability_pct": 7.4,
     "adjusted_UPS": 51.43,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 1.0,
@@ -50117,6 +50117,73 @@
   },
   {
     "IP": 2.0,
+    "ERA": 5.0,
+    "WAR": 0.03,
+    "salary": 780000,
+    "K": 1,
+    "BB": 2,
+    "K_pct": 11.1,
+    "BB_pct": 22.2,
+    "xERA": 7.15,
+    "FIP": 5.2,
+    "SIERA": 6.2,
+    "fb_velo": 93.0,
+    "hardhit_pct": 0.0,
+    "barrel_pct": 0.0,
+    "BABIP": 0.0,
+    "LOB_pct": 100.0,
+    "H": 0,
+    "ER": 0,
+    "HR": 0,
+    "SV": 0,
+    "HLD": 0,
+    "W": 0,
+    "L": 0,
+    "K9": 4.5,
+    "WHIP": 1.0,
+    "role": "reliever",
+    "raw": {
+      "DI": -12.0,
+      "CCI": 80.0,
+      "RPSI": 6.52,
+      "SQI": 93.0,
+      "LAI": 20.56,
+      "SEI": 0.0385
+    },
+    "components": {
+      "K_pct": 11.1,
+      "BB_pct": 22.2,
+      "K_BB_pct": -11.1,
+      "xERA": 7.15,
+      "FIP": 5.2,
+      "SIERA": 6.2,
+      "Velo": 93.0,
+      "HardHit_pct": 0.0,
+      "Barrel_pct": 0.0,
+      "BABIP": 0.0,
+      "LOB_pct": 100.0
+    },
+    "name": "Justin Martinez",
+    "team": "ARI",
+    "player_id": 679885,
+    "season": 2026,
+    "normalized": {
+      "DI": 27.91,
+      "CCI": 66.67,
+      "RPSI": 95.77,
+      "SQI": 100.0,
+      "LAI": 80.71,
+      "SEI": 20.71
+    },
+    "UPS": 64.74,
+    "rank": 749,
+    "reliability_pct": 9.1,
+    "adjusted_UPS": 51.34,
+    "low_sample": true,
+    "low_sample_threshold": 8.0
+  },
+  {
+    "IP": 2.0,
     "ERA": 9.0,
     "WAR": -0.06,
     "salary": 780000,
@@ -50176,7 +50243,7 @@
       "SEI": 19.33
     },
     "UPS": 64.61,
-    "rank": 749,
+    "rank": 750,
     "reliability_pct": 9.1,
     "adjusted_UPS": 51.33,
     "low_sample": true,
@@ -50243,7 +50310,7 @@
       "SEI": 17.64
     },
     "UPS": 57.95,
-    "rank": 750,
+    "rank": 751,
     "reliability_pct": 16.7,
     "adjusted_UPS": 51.33,
     "low_sample": true,
@@ -50310,7 +50377,7 @@
       "SEI": 20.4
     },
     "UPS": 64.41,
-    "rank": 751,
+    "rank": 752,
     "reliability_pct": 9.1,
     "adjusted_UPS": 51.31,
     "low_sample": true,
@@ -50377,11 +50444,11 @@
       "SEI": 16.1
     },
     "UPS": 59.63,
-    "rank": 752,
+    "rank": 753,
     "reliability_pct": 13.4,
     "adjusted_UPS": 51.29,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 2.0,
@@ -50444,7 +50511,7 @@
       "SEI": 21.17
     },
     "UPS": 64.07,
-    "rank": 753,
+    "rank": 754,
     "reliability_pct": 9.1,
     "adjusted_UPS": 51.28,
     "low_sample": true,
@@ -50511,7 +50578,7 @@
       "SEI": 19.51
     },
     "UPS": 59.37,
-    "rank": 754,
+    "rank": 755,
     "reliability_pct": 13.4,
     "adjusted_UPS": 51.26,
     "low_sample": true,
@@ -50578,7 +50645,7 @@
       "SEI": 19.48
     },
     "UPS": 63.32,
-    "rank": 755,
+    "rank": 756,
     "reliability_pct": 9.1,
     "adjusted_UPS": 51.21,
     "low_sample": true,
@@ -50645,7 +50712,7 @@
       "SEI": 20.4
     },
     "UPS": 63.3,
-    "rank": 756,
+    "rank": 757,
     "reliability_pct": 9.1,
     "adjusted_UPS": 51.21,
     "low_sample": true,
@@ -50712,7 +50779,7 @@
       "SEI": 18.31
     },
     "UPS": 62.84,
-    "rank": 757,
+    "rank": 758,
     "reliability_pct": 9.1,
     "adjusted_UPS": 51.17,
     "low_sample": true,
@@ -50779,7 +50846,7 @@
       "SEI": 20.4
     },
     "UPS": 62.65,
-    "rank": 758,
+    "rank": 759,
     "reliability_pct": 9.1,
     "adjusted_UPS": 51.15,
     "low_sample": true,
@@ -50846,7 +50913,7 @@
       "SEI": 19.94
     },
     "UPS": 73.87,
-    "rank": 759,
+    "rank": 760,
     "reliability_pct": 4.8,
     "adjusted_UPS": 51.14,
     "low_sample": true,
@@ -50913,7 +50980,7 @@
       "SEI": 20.71
     },
     "UPS": 73.41,
-    "rank": 760,
+    "rank": 761,
     "reliability_pct": 4.8,
     "adjusted_UPS": 51.11,
     "low_sample": true,
@@ -50980,7 +51047,7 @@
       "SEI": 20.86
     },
     "UPS": 73.31,
-    "rank": 761,
+    "rank": 762,
     "reliability_pct": 4.8,
     "adjusted_UPS": 51.11,
     "low_sample": true,
@@ -51047,11 +51114,11 @@
       "SEI": 21.78
     },
     "UPS": 73.06,
-    "rank": 762,
+    "rank": 763,
     "reliability_pct": 4.8,
     "adjusted_UPS": 51.1,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 1.0,
@@ -51114,7 +51181,7 @@
       "SEI": 19.63
     },
     "UPS": 72.85,
-    "rank": 763,
+    "rank": 764,
     "reliability_pct": 4.8,
     "adjusted_UPS": 51.09,
     "low_sample": true,
@@ -51181,11 +51248,11 @@
       "SEI": 20.55
     },
     "UPS": 71.8,
-    "rank": 764,
+    "rank": 765,
     "reliability_pct": 5.0,
     "adjusted_UPS": 51.09,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 2.0,
@@ -51248,7 +51315,7 @@
       "SEI": 17.79
     },
     "UPS": 62.03,
-    "rank": 765,
+    "rank": 766,
     "reliability_pct": 9.1,
     "adjusted_UPS": 51.09,
     "low_sample": true,
@@ -51315,7 +51382,7 @@
       "SEI": 17.02
     },
     "UPS": 61.01,
-    "rank": 766,
+    "rank": 767,
     "reliability_pct": 9.9,
     "adjusted_UPS": 51.09,
     "low_sample": true,
@@ -51382,7 +51449,7 @@
       "SEI": 18.25
     },
     "UPS": 61.81,
-    "rank": 767,
+    "rank": 768,
     "reliability_pct": 9.1,
     "adjusted_UPS": 51.07,
     "low_sample": true,
@@ -51449,7 +51516,7 @@
       "SEI": 19.63
     },
     "UPS": 72.36,
-    "rank": 768,
+    "rank": 769,
     "reliability_pct": 4.8,
     "adjusted_UPS": 51.06,
     "low_sample": true,
@@ -51516,7 +51583,7 @@
       "SEI": 19.02
     },
     "UPS": 61.63,
-    "rank": 769,
+    "rank": 770,
     "reliability_pct": 9.1,
     "adjusted_UPS": 51.06,
     "low_sample": true,
@@ -51583,7 +51650,7 @@
       "SEI": 20.71
     },
     "UPS": 71.83,
-    "rank": 770,
+    "rank": 771,
     "reliability_pct": 4.8,
     "adjusted_UPS": 51.04,
     "low_sample": true,
@@ -51650,7 +51717,7 @@
       "SEI": 20.09
     },
     "UPS": 69.98,
-    "rank": 771,
+    "rank": 772,
     "reliability_pct": 5.2,
     "adjusted_UPS": 51.04,
     "low_sample": true,
@@ -51717,7 +51784,7 @@
       "SEI": 20.71
     },
     "UPS": 71.61,
-    "rank": 772,
+    "rank": 773,
     "reliability_pct": 4.8,
     "adjusted_UPS": 51.03,
     "low_sample": true,
@@ -51784,7 +51851,7 @@
       "SEI": 20.71
     },
     "UPS": 70.72,
-    "rank": 773,
+    "rank": 774,
     "reliability_pct": 4.8,
     "adjusted_UPS": 50.99,
     "low_sample": true,
@@ -51851,11 +51918,11 @@
       "SEI": 18.56
     },
     "UPS": 63.87,
-    "rank": 774,
+    "rank": 775,
     "reliability_pct": 7.0,
     "adjusted_UPS": 50.97,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 4.1,
@@ -51918,11 +51985,11 @@
       "SEI": 14.72
     },
     "UPS": 60.41,
-    "rank": 775,
+    "rank": 776,
     "reliability_pct": 9.3,
     "adjusted_UPS": 50.97,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 1.0,
@@ -51985,7 +52052,7 @@
       "SEI": 20.71
     },
     "UPS": 70.07,
-    "rank": 776,
+    "rank": 777,
     "reliability_pct": 4.8,
     "adjusted_UPS": 50.96,
     "low_sample": true,
@@ -52052,7 +52119,7 @@
       "SEI": 21.01
     },
     "UPS": 69.64,
-    "rank": 777,
+    "rank": 778,
     "reliability_pct": 4.8,
     "adjusted_UPS": 50.94,
     "low_sample": true,
@@ -52119,7 +52186,7 @@
       "SEI": 20.25
     },
     "UPS": 66.47,
-    "rank": 778,
+    "rank": 779,
     "reliability_pct": 5.7,
     "adjusted_UPS": 50.93,
     "low_sample": true,
@@ -52186,7 +52253,7 @@
       "SEI": 20.71
     },
     "UPS": 69.11,
-    "rank": 779,
+    "rank": 780,
     "reliability_pct": 4.8,
     "adjusted_UPS": 50.91,
     "low_sample": true,
@@ -52253,7 +52320,7 @@
       "SEI": 19.94
     },
     "UPS": 68.31,
-    "rank": 780,
+    "rank": 781,
     "reliability_pct": 4.8,
     "adjusted_UPS": 50.87,
     "low_sample": true,
@@ -52320,11 +52387,11 @@
       "SEI": 20.08
     },
     "UPS": 61.71,
-    "rank": 781,
+    "rank": 782,
     "reliability_pct": 7.4,
     "adjusted_UPS": 50.87,
     "low_sample": true,
-    "low_sample_threshold": 31.1
+    "low_sample_threshold": 31.2
   },
   {
     "IP": 1.0,
@@ -52387,7 +52454,7 @@
       "SEI": 20.71
     },
     "UPS": 67.64,
-    "rank": 782,
+    "rank": 783,
     "reliability_pct": 4.8,
     "adjusted_UPS": 50.84,
     "low_sample": true,
@@ -52454,7 +52521,7 @@
       "SEI": 20.55
     },
     "UPS": 64.81,
-    "rank": 783,
+    "rank": 784,
     "reliability_pct": 5.7,
     "adjusted_UPS": 50.84,
     "low_sample": true,
@@ -52521,7 +52588,7 @@
       "SEI": 17.64
     },
     "UPS": 63.76,
-    "rank": 784,
+    "rank": 785,
     "reliability_pct": 5.7,
     "adjusted_UPS": 50.78,
     "low_sample": true,
@@ -52588,7 +52655,7 @@
       "SEI": 19.63
     },
     "UPS": 64.44,
-    "rank": 785,
+    "rank": 786,
     "reliability_pct": 5.2,
     "adjusted_UPS": 50.75,
     "low_sample": true,
@@ -52655,7 +52722,7 @@
       "SEI": 19.48
     },
     "UPS": 62.74,
-    "rank": 786,
+    "rank": 787,
     "reliability_pct": 5.7,
     "adjusted_UPS": 50.72,
     "low_sample": true,
@@ -52722,76 +52789,9 @@
       "SEI": 21.32
     },
     "UPS": 63.55,
-    "rank": 787,
+    "rank": 788,
     "reliability_pct": 5.2,
     "adjusted_UPS": 50.71,
-    "low_sample": true,
-    "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 1.0,
-    "ERA": 5.0,
-    "WAR": 0.03,
-    "salary": 780000,
-    "K": 0,
-    "BB": 1,
-    "K_pct": 0.0,
-    "BB_pct": 20.0,
-    "xERA": 7.15,
-    "FIP": 6.2,
-    "SIERA": 6.2,
-    "fb_velo": 93.0,
-    "hardhit_pct": 0.0,
-    "barrel_pct": 0.0,
-    "BABIP": 0.0,
-    "LOB_pct": 100.0,
-    "H": 0,
-    "ER": 0,
-    "HR": 0,
-    "SV": 0,
-    "HLD": 0,
-    "W": 0,
-    "L": 0,
-    "K9": 0.0,
-    "WHIP": 1.0,
-    "role": "reliever",
-    "raw": {
-      "DI": -12.0,
-      "CCI": 80.0,
-      "RPSI": 6.52,
-      "SQI": 93.0,
-      "LAI": 20.56,
-      "SEI": 0.0385
-    },
-    "components": {
-      "K_pct": 0.0,
-      "BB_pct": 20.0,
-      "K_BB_pct": -20.0,
-      "xERA": 7.15,
-      "FIP": 6.2,
-      "SIERA": 6.2,
-      "Velo": 93.0,
-      "HardHit_pct": 0.0,
-      "Barrel_pct": 0.0,
-      "BABIP": 0.0,
-      "LOB_pct": 100.0
-    },
-    "name": "Justin Martinez",
-    "team": "ARI",
-    "player_id": 679885,
-    "season": 2026,
-    "normalized": {
-      "DI": 27.91,
-      "CCI": 66.67,
-      "RPSI": 95.77,
-      "SQI": 100.0,
-      "LAI": 80.71,
-      "SEI": 20.71
-    },
-    "UPS": 64.74,
-    "rank": 788,
-    "reliability_pct": 4.8,
-    "adjusted_UPS": 50.7,
     "low_sample": true,
     "low_sample_threshold": 8.0
   },
