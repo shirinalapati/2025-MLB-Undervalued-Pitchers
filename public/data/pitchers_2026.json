@@ -64,7 +64,7 @@
     "reliability_pct": 78.4,
     "adjusted_UPS": 80.18,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 158.0,
@@ -131,7 +131,7 @@
     "reliability_pct": 79.8,
     "adjusted_UPS": 78.75,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 168.1,
@@ -198,7 +198,7 @@
     "reliability_pct": 80.8,
     "adjusted_UPS": 73.78,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 66.1,
@@ -399,7 +399,7 @@
     "reliability_pct": 79.5,
     "adjusted_UPS": 72.8,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 149.1,
@@ -466,7 +466,7 @@
     "reliability_pct": 78.8,
     "adjusted_UPS": 72.69,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 156.0,
@@ -533,7 +533,7 @@
     "reliability_pct": 79.6,
     "adjusted_UPS": 72.05,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 56.1,
@@ -734,7 +734,7 @@
     "reliability_pct": 75.8,
     "adjusted_UPS": 71.06,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 148.2,
@@ -801,7 +801,74 @@
     "reliability_pct": 78.7,
     "adjusted_UPS": 71.04,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
+  },
+  {
+    "IP": 95.0,
+    "ERA": 1.8,
+    "WAR": 3.74,
+    "salary": 780000.0,
+    "K": 80,
+    "BB": 28,
+    "K_pct": 21.4,
+    "BB_pct": 7.5,
+    "xERA": 3.22,
+    "FIP": 3.77,
+    "SIERA": 3.89,
+    "fb_velo": 93.0,
+    "hardhit_pct": 35.7,
+    "barrel_pct": 6.0,
+    "BABIP": 0.222,
+    "LOB_pct": 77.4,
+    "H": 68,
+    "ER": 19,
+    "HR": 10,
+    "SV": 0,
+    "HLD": 0,
+    "W": 7,
+    "L": 2,
+    "K9": 7.58,
+    "WHIP": 1.01,
+    "role": "starter",
+    "raw": {
+      "DI": 16.68,
+      "CCI": 92.11,
+      "RPSI": 3.67,
+      "SQI": 51.3,
+      "LAI": 3.83,
+      "SEI": 4.7949
+    },
+    "components": {
+      "K_pct": 21.4,
+      "BB_pct": 7.5,
+      "K_BB_pct": 13.9,
+      "xERA": 3.22,
+      "FIP": 3.77,
+      "SIERA": 3.89,
+      "Velo": 93.0,
+      "HardHit_pct": 35.7,
+      "Barrel_pct": 6.0,
+      "BABIP": 0.222,
+      "LOB_pct": 77.4
+    },
+    "name": "Troy Melton",
+    "team": "DET",
+    "player_id": 675512,
+    "season": 2026,
+    "normalized": {
+      "DI": 61.26,
+      "CCI": 86.85,
+      "RPSI": 97.73,
+      "SQI": 79.15,
+      "LAI": 72.71,
+      "SEI": 74.45
+    },
+    "UPS": 79.7,
+    "rank": 13,
+    "reliability_pct": 70.4,
+    "adjusted_UPS": 70.9,
+    "low_sample": false,
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 80.1,
@@ -864,7 +931,7 @@
       "SEI": 46.11
     },
     "UPS": 76.06,
-    "rank": 13,
+    "rank": 14,
     "reliability_pct": 80.0,
     "adjusted_UPS": 70.85,
     "low_sample": false,
@@ -931,11 +998,11 @@
       "SEI": 66.67
     },
     "UPS": 77.1,
-    "rank": 14,
+    "rank": 15,
     "reliability_pct": 76.9,
     "adjusted_UPS": 70.84,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 146.0,
@@ -998,78 +1065,11 @@
       "SEI": 46.05
     },
     "UPS": 76.22,
-    "rank": 15,
+    "rank": 16,
     "reliability_pct": 78.5,
     "adjusted_UPS": 70.58,
     "low_sample": false,
-    "low_sample_threshold": 31.8
-  },
-  {
-    "IP": 90.0,
-    "ERA": 1.7,
-    "WAR": 3.74,
-    "salary": 780000.0,
-    "K": 76,
-    "BB": 28,
-    "K_pct": 21.4,
-    "BB_pct": 7.9,
-    "xERA": 3.22,
-    "FIP": 3.89,
-    "SIERA": 3.89,
-    "fb_velo": 93.0,
-    "hardhit_pct": 35.7,
-    "barrel_pct": 6.0,
-    "BABIP": 0.222,
-    "LOB_pct": 77.4,
-    "H": 63,
-    "ER": 17,
-    "HR": 10,
-    "SV": 0,
-    "HLD": 0,
-    "W": 7,
-    "L": 2,
-    "K9": 7.6,
-    "WHIP": 1.01,
-    "role": "starter",
-    "raw": {
-      "DI": 16.68,
-      "CCI": 92.11,
-      "RPSI": 3.67,
-      "SQI": 51.3,
-      "LAI": 3.83,
-      "SEI": 4.7949
-    },
-    "components": {
-      "K_pct": 21.4,
-      "BB_pct": 7.9,
-      "K_BB_pct": 13.5,
-      "xERA": 3.22,
-      "FIP": 3.89,
-      "SIERA": 3.89,
-      "Velo": 93.0,
-      "HardHit_pct": 35.7,
-      "Barrel_pct": 6.0,
-      "BABIP": 0.222,
-      "LOB_pct": 77.4
-    },
-    "name": "Troy Melton",
-    "team": "DET",
-    "player_id": 675512,
-    "season": 2026,
-    "normalized": {
-      "DI": 61.26,
-      "CCI": 86.85,
-      "RPSI": 97.73,
-      "SQI": 79.15,
-      "LAI": 72.71,
-      "SEI": 74.45
-    },
-    "UPS": 79.7,
-    "rank": 16,
-    "reliability_pct": 69.2,
-    "adjusted_UPS": 70.56,
-    "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 72.0,
@@ -1203,7 +1203,7 @@
     "reliability_pct": 68.1,
     "adjusted_UPS": 70.41,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 122.1,
@@ -1270,7 +1270,7 @@
     "reliability_pct": 75.3,
     "adjusted_UPS": 70.13,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 140.1,
@@ -1337,7 +1337,7 @@
     "reliability_pct": 77.8,
     "adjusted_UPS": 69.98,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 58.0,
@@ -1471,7 +1471,7 @@
     "reliability_pct": 69.7,
     "adjusted_UPS": 69.67,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 63.1,
@@ -1739,7 +1739,7 @@
     "reliability_pct": 77.1,
     "adjusted_UPS": 69.42,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 155.1,
@@ -1806,7 +1806,7 @@
     "reliability_pct": 79.5,
     "adjusted_UPS": 69.33,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 59.0,
@@ -1940,7 +1940,7 @@
     "reliability_pct": 78.3,
     "adjusted_UPS": 69.18,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 59.2,
@@ -2141,7 +2141,7 @@
     "reliability_pct": 79.6,
     "adjusted_UPS": 68.95,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 116.1,
@@ -2208,7 +2208,7 @@
     "reliability_pct": 74.4,
     "adjusted_UPS": 68.89,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 72.0,
@@ -2342,7 +2342,7 @@
     "reliability_pct": 75.9,
     "adjusted_UPS": 68.7,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 80.1,
@@ -2476,7 +2476,7 @@
     "reliability_pct": 75.0,
     "adjusted_UPS": 68.48,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 60.0,
@@ -2811,7 +2811,7 @@
     "reliability_pct": 63.3,
     "adjusted_UPS": 68.29,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 126.1,
@@ -2878,7 +2878,7 @@
     "reliability_pct": 75.9,
     "adjusted_UPS": 68.27,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 132.0,
@@ -2945,7 +2945,7 @@
     "reliability_pct": 76.7,
     "adjusted_UPS": 68.27,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 148.2,
@@ -3012,7 +3012,7 @@
     "reliability_pct": 78.7,
     "adjusted_UPS": 68.17,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 58.1,
@@ -3213,7 +3213,7 @@
     "reliability_pct": 79.1,
     "adjusted_UPS": 68.11,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 139.2,
@@ -3280,7 +3280,7 @@
     "reliability_pct": 77.7,
     "adjusted_UPS": 68.08,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 156.0,
@@ -3347,7 +3347,7 @@
     "reliability_pct": 79.6,
     "adjusted_UPS": 68.08,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 149.0,
@@ -3414,7 +3414,7 @@
     "reliability_pct": 78.8,
     "adjusted_UPS": 67.87,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 145.0,
@@ -3481,7 +3481,7 @@
     "reliability_pct": 78.4,
     "adjusted_UPS": 67.84,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 103.1,
@@ -3548,7 +3548,7 @@
     "reliability_pct": 72.0,
     "adjusted_UPS": 67.83,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 52.0,
@@ -3816,7 +3816,7 @@
     "reliability_pct": 78.6,
     "adjusted_UPS": 67.73,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 130.1,
@@ -3883,7 +3883,7 @@
     "reliability_pct": 76.5,
     "adjusted_UPS": 67.7,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 155.1,
@@ -3950,7 +3950,7 @@
     "reliability_pct": 79.5,
     "adjusted_UPS": 67.64,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 52.0,
@@ -4084,7 +4084,7 @@
     "reliability_pct": 75.5,
     "adjusted_UPS": 67.57,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 59.2,
@@ -4285,7 +4285,7 @@
     "reliability_pct": 69.0,
     "adjusted_UPS": 67.46,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 107.1,
@@ -4352,7 +4352,7 @@
     "reliability_pct": 72.8,
     "adjusted_UPS": 67.37,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 124.1,
@@ -4419,7 +4419,7 @@
     "reliability_pct": 75.6,
     "adjusted_UPS": 67.32,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 44.0,
@@ -4620,7 +4620,7 @@
     "reliability_pct": 82.1,
     "adjusted_UPS": 67.21,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 71.1,
@@ -4821,7 +4821,7 @@
     "reliability_pct": 77.5,
     "adjusted_UPS": 67.18,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 57.1,
@@ -4955,7 +4955,7 @@
     "reliability_pct": 78.4,
     "adjusted_UPS": 67.11,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 133.2,
@@ -5022,7 +5022,7 @@
     "reliability_pct": 76.9,
     "adjusted_UPS": 67.1,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 41.0,
@@ -5156,7 +5156,7 @@
     "reliability_pct": 77.6,
     "adjusted_UPS": 67.06,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 137.1,
@@ -5223,7 +5223,7 @@
     "reliability_pct": 77.4,
     "adjusted_UPS": 67.05,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 67.1,
@@ -5357,7 +5357,7 @@
     "reliability_pct": 76.5,
     "adjusted_UPS": 66.99,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 125.2,
@@ -5424,7 +5424,7 @@
     "reliability_pct": 75.8,
     "adjusted_UPS": 66.96,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 91.2,
@@ -5491,7 +5491,7 @@
     "reliability_pct": 69.5,
     "adjusted_UPS": 66.93,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 51.1,
@@ -5625,7 +5625,7 @@
     "reliability_pct": 70.0,
     "adjusted_UPS": 66.92,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 125.0,
@@ -5692,7 +5692,7 @@
     "reliability_pct": 75.8,
     "adjusted_UPS": 66.92,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 64.0,
@@ -5826,7 +5826,7 @@
     "reliability_pct": 78.6,
     "adjusted_UPS": 66.8,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 59.1,
@@ -5960,7 +5960,7 @@
     "reliability_pct": 78.6,
     "adjusted_UPS": 66.76,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 60.2,
@@ -6094,7 +6094,7 @@
     "reliability_pct": 79.0,
     "adjusted_UPS": 66.74,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 144.1,
@@ -6161,7 +6161,7 @@
     "reliability_pct": 78.3,
     "adjusted_UPS": 66.73,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 127.2,
@@ -6228,7 +6228,7 @@
     "reliability_pct": 76.1,
     "adjusted_UPS": 66.7,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 40.2,
@@ -6362,7 +6362,7 @@
     "reliability_pct": 80.2,
     "adjusted_UPS": 66.65,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 50.0,
@@ -6563,7 +6563,7 @@
     "reliability_pct": 78.4,
     "adjusted_UPS": 66.59,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 143.1,
@@ -6630,7 +6630,7 @@
     "reliability_pct": 78.2,
     "adjusted_UPS": 66.57,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 59.0,
@@ -6764,7 +6764,7 @@
     "reliability_pct": 76.8,
     "adjusted_UPS": 66.55,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 73.0,
@@ -7032,7 +7032,7 @@
     "reliability_pct": 74.7,
     "adjusted_UPS": 66.5,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 87.2,
@@ -7099,7 +7099,7 @@
     "reliability_pct": 68.6,
     "adjusted_UPS": 66.46,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 58.1,
@@ -7233,7 +7233,7 @@
     "reliability_pct": 79.6,
     "adjusted_UPS": 66.46,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 132.1,
@@ -7300,7 +7300,7 @@
     "reliability_pct": 76.8,
     "adjusted_UPS": 66.43,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 105.1,
@@ -7367,7 +7367,7 @@
     "reliability_pct": 72.4,
     "adjusted_UPS": 66.41,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 54.0,
@@ -7501,7 +7501,7 @@
     "reliability_pct": 75.9,
     "adjusted_UPS": 66.38,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 52.2,
@@ -7635,7 +7635,7 @@
     "reliability_pct": 72.8,
     "adjusted_UPS": 66.36,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 61.2,
@@ -7769,7 +7769,7 @@
     "reliability_pct": 79.5,
     "adjusted_UPS": 66.35,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 57.1,
@@ -7903,7 +7903,7 @@
     "reliability_pct": 77.9,
     "adjusted_UPS": 66.33,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 75.1,
@@ -8305,7 +8305,7 @@
     "reliability_pct": 77.3,
     "adjusted_UPS": 66.23,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 43.1,
@@ -8774,7 +8774,7 @@
     "reliability_pct": 78.2,
     "adjusted_UPS": 66.1,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 143.0,
@@ -8841,7 +8841,7 @@
     "reliability_pct": 78.1,
     "adjusted_UPS": 66.07,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 111.0,
@@ -8908,7 +8908,7 @@
     "reliability_pct": 73.5,
     "adjusted_UPS": 66.06,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 151.1,
@@ -8975,7 +8975,7 @@
     "reliability_pct": 79.1,
     "adjusted_UPS": 66.04,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 88.1,
@@ -9042,7 +9042,7 @@
     "reliability_pct": 68.8,
     "adjusted_UPS": 66.03,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 55.0,
@@ -9176,7 +9176,7 @@
     "reliability_pct": 76.8,
     "adjusted_UPS": 65.98,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 134.2,
@@ -9243,7 +9243,7 @@
     "reliability_pct": 77.0,
     "adjusted_UPS": 65.97,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 33.1,
@@ -9444,7 +9444,7 @@
     "reliability_pct": 77.4,
     "adjusted_UPS": 65.89,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 44.2,
@@ -9779,7 +9779,7 @@
     "reliability_pct": 69.5,
     "adjusted_UPS": 65.76,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 105.1,
@@ -9846,7 +9846,7 @@
     "reliability_pct": 72.4,
     "adjusted_UPS": 65.76,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 48.1,
@@ -10047,7 +10047,7 @@
     "reliability_pct": 72.3,
     "adjusted_UPS": 65.71,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 53.2,
@@ -10114,7 +10114,7 @@
     "reliability_pct": 57.1,
     "adjusted_UPS": 65.66,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 95.1,
@@ -10181,7 +10181,7 @@
     "reliability_pct": 70.4,
     "adjusted_UPS": 65.66,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 84.2,
@@ -10248,7 +10248,7 @@
     "reliability_pct": 67.8,
     "adjusted_UPS": 65.65,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 54.2,
@@ -10382,7 +10382,7 @@
     "reliability_pct": 77.6,
     "adjusted_UPS": 65.56,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 43.2,
@@ -10516,7 +10516,7 @@
     "reliability_pct": 67.5,
     "adjusted_UPS": 65.52,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 53.1,
@@ -10918,7 +10918,7 @@
     "reliability_pct": 72.4,
     "adjusted_UPS": 65.42,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 64.2,
@@ -11052,7 +11052,7 @@
     "reliability_pct": 63.0,
     "adjusted_UPS": 65.38,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 50.1,
@@ -11186,7 +11186,7 @@
     "reliability_pct": 68.3,
     "adjusted_UPS": 65.32,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 124.0,
@@ -11253,7 +11253,7 @@
     "reliability_pct": 75.6,
     "adjusted_UPS": 65.31,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 61.1,
@@ -11521,7 +11521,7 @@
     "reliability_pct": 76.0,
     "adjusted_UPS": 65.27,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 52.2,
@@ -11655,7 +11655,7 @@
     "reliability_pct": 74.7,
     "adjusted_UPS": 65.25,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 94.0,
@@ -11722,7 +11722,7 @@
     "reliability_pct": 70.1,
     "adjusted_UPS": 65.23,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 94.0,
@@ -11789,7 +11789,7 @@
     "reliability_pct": 70.1,
     "adjusted_UPS": 65.22,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 150.1,
@@ -11856,7 +11856,7 @@
     "reliability_pct": 79.0,
     "adjusted_UPS": 65.2,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 51.2,
@@ -12057,7 +12057,7 @@
     "reliability_pct": 78.4,
     "adjusted_UPS": 65.18,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 36.1,
@@ -12258,7 +12258,7 @@
     "reliability_pct": 72.1,
     "adjusted_UPS": 65.08,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 81.1,
@@ -12325,7 +12325,7 @@
     "reliability_pct": 67.0,
     "adjusted_UPS": 65.05,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 117.0,
@@ -12392,7 +12392,7 @@
     "reliability_pct": 74.5,
     "adjusted_UPS": 65.05,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 31.2,
@@ -12526,7 +12526,74 @@
     "reliability_pct": 77.4,
     "adjusted_UPS": 65.03,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
+  },
+  {
+    "IP": 140.0,
+    "ERA": 5.14,
+    "WAR": -0.91,
+    "salary": 8100000.0,
+    "K": 132,
+    "BB": 54,
+    "K_pct": 21.4,
+    "BB_pct": 8.8,
+    "xERA": 4.11,
+    "FIP": 4.51,
+    "SIERA": 4.61,
+    "fb_velo": 93.0,
+    "hardhit_pct": 38.7,
+    "barrel_pct": 6.3,
+    "BABIP": 0.313,
+    "LOB_pct": 56.9,
+    "H": 144,
+    "ER": 80,
+    "HR": 22,
+    "SV": 0,
+    "HLD": 0,
+    "W": 5,
+    "L": 11,
+    "K9": 8.49,
+    "WHIP": 1.41,
+    "role": "starter",
+    "raw": {
+      "DI": 16.07,
+      "CCI": 91.01,
+      "RPSI": 4.44,
+      "SQI": 48.0,
+      "LAI": -13.89,
+      "SEI": -0.1123
+    },
+    "components": {
+      "K_pct": 21.4,
+      "BB_pct": 8.8,
+      "K_BB_pct": 12.6,
+      "xERA": 4.11,
+      "FIP": 4.51,
+      "SIERA": 4.61,
+      "Velo": 93.0,
+      "HardHit_pct": 38.7,
+      "Barrel_pct": 6.3,
+      "BABIP": 0.313,
+      "LOB_pct": 56.9
+    },
+    "name": "Freddy Peralta",
+    "team": "New York/TBR",
+    "player_id": 642547,
+    "season": 2026,
+    "normalized": {
+      "DI": 60.55,
+      "CCI": 85.02,
+      "RPSI": 97.17,
+      "SQI": 77.5,
+      "LAI": 64.28,
+      "SEI": 18.24
+    },
+    "UPS": 69.28,
+    "rank": 188,
+    "reliability_pct": 77.8,
+    "adjusted_UPS": 65.0,
+    "low_sample": false,
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 57.0,
@@ -12589,7 +12656,7 @@
       "SEI": 33.33
     },
     "UPS": 70.25,
-    "rank": 188,
+    "rank": 189,
     "reliability_pct": 74.0,
     "adjusted_UPS": 64.99,
     "low_sample": false,
@@ -12656,11 +12723,11 @@
       "SEI": 17.61
     },
     "UPS": 69.64,
-    "rank": 189,
+    "rank": 190,
     "reliability_pct": 76.3,
     "adjusted_UPS": 64.99,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 115.1,
@@ -12723,11 +12790,11 @@
       "SEI": 27.02
     },
     "UPS": 70.16,
-    "rank": 190,
+    "rank": 191,
     "reliability_pct": 74.2,
     "adjusted_UPS": 64.96,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 60.1,
@@ -12790,7 +12857,7 @@
       "SEI": 20.86
     },
     "UPS": 69.92,
-    "rank": 191,
+    "rank": 192,
     "reliability_pct": 75.0,
     "adjusted_UPS": 64.95,
     "low_sample": false,
@@ -12857,7 +12924,7 @@
       "SEI": 21.02
     },
     "UPS": 74.26,
-    "rank": 192,
+    "rank": 193,
     "reliability_pct": 61.5,
     "adjusted_UPS": 64.93,
     "low_sample": false,
@@ -12924,78 +12991,11 @@
       "SEI": 25.26
     },
     "UPS": 71.53,
-    "rank": 193,
+    "rank": 194,
     "reliability_pct": 69.2,
     "adjusted_UPS": 64.91,
     "low_sample": false,
     "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 135.0,
-    "ERA": 5.33,
-    "WAR": -0.91,
-    "salary": 8100000.0,
-    "K": 129,
-    "BB": 54,
-    "K_pct": 21.5,
-    "BB_pct": 9.0,
-    "xERA": 4.11,
-    "FIP": 4.61,
-    "SIERA": 4.61,
-    "fb_velo": 93.0,
-    "hardhit_pct": 38.7,
-    "barrel_pct": 6.3,
-    "BABIP": 0.313,
-    "LOB_pct": 56.9,
-    "H": 143,
-    "ER": 80,
-    "HR": 22,
-    "SV": 0,
-    "HLD": 0,
-    "W": 5,
-    "L": 11,
-    "K9": 8.6,
-    "WHIP": 1.46,
-    "role": "starter",
-    "raw": {
-      "DI": 16.07,
-      "CCI": 91.01,
-      "RPSI": 4.44,
-      "SQI": 48.0,
-      "LAI": -13.89,
-      "SEI": -0.1123
-    },
-    "components": {
-      "K_pct": 21.5,
-      "BB_pct": 9.0,
-      "K_BB_pct": 12.5,
-      "xERA": 4.11,
-      "FIP": 4.61,
-      "SIERA": 4.61,
-      "Velo": 93.0,
-      "HardHit_pct": 38.7,
-      "Barrel_pct": 6.3,
-      "BABIP": 0.313,
-      "LOB_pct": 56.9
-    },
-    "name": "Freddy Peralta",
-    "team": "New York/TBR",
-    "player_id": 642547,
-    "season": 2026,
-    "normalized": {
-      "DI": 60.55,
-      "CCI": 85.02,
-      "RPSI": 97.17,
-      "SQI": 77.5,
-      "LAI": 64.28,
-      "SEI": 18.24
-    },
-    "UPS": 69.28,
-    "rank": 194,
-    "reliability_pct": 77.1,
-    "adjusted_UPS": 64.87,
-    "low_sample": false,
-    "low_sample_threshold": 31.8
   },
   {
     "IP": 50.2,
@@ -13263,7 +13263,7 @@
     "reliability_pct": 78.3,
     "adjusted_UPS": 64.81,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 126.1,
@@ -13330,7 +13330,7 @@
     "reliability_pct": 75.9,
     "adjusted_UPS": 64.78,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 34.1,
@@ -13531,7 +13531,7 @@
     "reliability_pct": 78.1,
     "adjusted_UPS": 64.76,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 42.0,
@@ -13665,7 +13665,7 @@
     "reliability_pct": 74.7,
     "adjusted_UPS": 64.73,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 23.0,
@@ -13799,7 +13799,7 @@
     "reliability_pct": 72.8,
     "adjusted_UPS": 64.69,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 124.1,
@@ -13866,7 +13866,7 @@
     "reliability_pct": 75.6,
     "adjusted_UPS": 64.67,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 116.0,
@@ -13933,7 +13933,7 @@
     "reliability_pct": 74.4,
     "adjusted_UPS": 64.66,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 39.2,
@@ -14067,7 +14067,7 @@
     "reliability_pct": 70.4,
     "adjusted_UPS": 64.63,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 50.2,
@@ -14201,7 +14201,7 @@
     "reliability_pct": 75.5,
     "adjusted_UPS": 64.6,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 52.0,
@@ -14402,7 +14402,7 @@
     "reliability_pct": 69.5,
     "adjusted_UPS": 64.47,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 57.0,
@@ -14536,7 +14536,7 @@
     "reliability_pct": 75.8,
     "adjusted_UPS": 64.45,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 43.0,
@@ -14871,7 +14871,7 @@
     "reliability_pct": 74.7,
     "adjusted_UPS": 64.33,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 63.1,
@@ -15005,7 +15005,7 @@
     "reliability_pct": 70.8,
     "adjusted_UPS": 64.27,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 43.0,
@@ -15139,7 +15139,7 @@
     "reliability_pct": 73.0,
     "adjusted_UPS": 64.23,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 43.0,
@@ -15340,7 +15340,7 @@
     "reliability_pct": 57.9,
     "adjusted_UPS": 64.19,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 56.1,
@@ -15541,7 +15541,7 @@
     "reliability_pct": 72.5,
     "adjusted_UPS": 64.14,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 33.2,
@@ -15876,7 +15876,7 @@
     "reliability_pct": 63.0,
     "adjusted_UPS": 64.08,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 124.2,
@@ -15943,7 +15943,7 @@
     "reliability_pct": 75.6,
     "adjusted_UPS": 64.05,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 118.1,
@@ -16010,7 +16010,7 @@
     "reliability_pct": 74.7,
     "adjusted_UPS": 64.01,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 56.1,
@@ -16077,7 +16077,7 @@
     "reliability_pct": 58.4,
     "adjusted_UPS": 64.0,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 44.0,
@@ -16211,7 +16211,7 @@
     "reliability_pct": 65.8,
     "adjusted_UPS": 63.92,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 94.2,
@@ -16278,7 +16278,7 @@
     "reliability_pct": 70.2,
     "adjusted_UPS": 63.91,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 110.0,
@@ -16345,7 +16345,7 @@
     "reliability_pct": 73.3,
     "adjusted_UPS": 63.91,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 118.1,
@@ -16412,7 +16412,7 @@
     "reliability_pct": 74.7,
     "adjusted_UPS": 63.91,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 40.0,
@@ -16680,7 +16680,7 @@
     "reliability_pct": 73.2,
     "adjusted_UPS": 63.86,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 47.2,
@@ -17216,7 +17216,7 @@
     "reliability_pct": 64.0,
     "adjusted_UPS": 63.73,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 43.0,
@@ -17417,7 +17417,7 @@
     "reliability_pct": 64.0,
     "adjusted_UPS": 63.69,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 41.2,
@@ -17551,7 +17551,7 @@
     "reliability_pct": 69.7,
     "adjusted_UPS": 63.69,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 40.0,
@@ -17685,7 +17685,7 @@
     "reliability_pct": 74.2,
     "adjusted_UPS": 63.66,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 121.2,
@@ -17752,7 +17752,7 @@
     "reliability_pct": 75.2,
     "adjusted_UPS": 63.66,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 38.2,
@@ -17886,7 +17886,7 @@
     "reliability_pct": 69.5,
     "adjusted_UPS": 63.62,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 47.2,
@@ -18288,7 +18288,7 @@
     "reliability_pct": 65.6,
     "adjusted_UPS": 63.57,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 42.2,
@@ -18556,7 +18556,7 @@
     "reliability_pct": 67.5,
     "adjusted_UPS": 63.51,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 49.2,
@@ -18690,7 +18690,7 @@
     "reliability_pct": 69.5,
     "adjusted_UPS": 63.48,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 75.2,
@@ -18757,7 +18757,7 @@
     "reliability_pct": 65.3,
     "adjusted_UPS": 63.42,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 45.2,
@@ -18891,7 +18891,7 @@
     "reliability_pct": 72.0,
     "adjusted_UPS": 63.4,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 86.1,
@@ -18958,7 +18958,7 @@
     "reliability_pct": 68.3,
     "adjusted_UPS": 63.37,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 28.1,
@@ -19159,7 +19159,7 @@
     "reliability_pct": 63.6,
     "adjusted_UPS": 63.31,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 53.1,
@@ -19360,7 +19360,7 @@
     "reliability_pct": 74.7,
     "adjusted_UPS": 63.29,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 35.0,
@@ -19762,7 +19762,7 @@
     "reliability_pct": 74.4,
     "adjusted_UPS": 63.15,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 41.0,
@@ -20432,7 +20432,7 @@
     "reliability_pct": 69.3,
     "adjusted_UPS": 62.92,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 28.1,
@@ -20566,7 +20566,7 @@
     "reliability_pct": 75.6,
     "adjusted_UPS": 62.89,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 80.0,
@@ -20633,7 +20633,7 @@
     "reliability_pct": 66.7,
     "adjusted_UPS": 62.84,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 48.1,
@@ -20767,7 +20767,7 @@
     "reliability_pct": 70.4,
     "adjusted_UPS": 62.82,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 80.0,
@@ -20834,7 +20834,7 @@
     "reliability_pct": 66.7,
     "adjusted_UPS": 62.81,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 74.1,
@@ -20901,7 +20901,7 @@
     "reliability_pct": 64.9,
     "adjusted_UPS": 62.77,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 39.0,
@@ -21303,7 +21303,7 @@
     "reliability_pct": 53.1,
     "adjusted_UPS": 62.74,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 38.1,
@@ -21504,7 +21504,7 @@
     "reliability_pct": 70.0,
     "adjusted_UPS": 62.71,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 134.2,
@@ -21571,7 +21571,7 @@
     "reliability_pct": 77.0,
     "adjusted_UPS": 62.71,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 58.2,
@@ -21638,7 +21638,7 @@
     "reliability_pct": 59.3,
     "adjusted_UPS": 62.67,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 40.2,
@@ -21839,7 +21839,7 @@
     "reliability_pct": 64.9,
     "adjusted_UPS": 62.6,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 62.2,
@@ -21906,7 +21906,7 @@
     "reliability_pct": 60.9,
     "adjusted_UPS": 62.59,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 57.2,
@@ -22308,7 +22308,7 @@
     "reliability_pct": 62.3,
     "adjusted_UPS": 62.4,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 34.1,
@@ -22509,7 +22509,7 @@
     "reliability_pct": 67.5,
     "adjusted_UPS": 62.39,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 33.0,
@@ -22710,7 +22710,7 @@
     "reliability_pct": 67.7,
     "adjusted_UPS": 62.34,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 64.0,
@@ -22777,7 +22777,7 @@
     "reliability_pct": 61.5,
     "adjusted_UPS": 62.33,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 35.1,
@@ -23112,7 +23112,7 @@
     "reliability_pct": 74.2,
     "adjusted_UPS": 62.29,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 44.2,
@@ -23179,7 +23179,7 @@
     "reliability_pct": 52.5,
     "adjusted_UPS": 62.25,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 29.2,
@@ -23447,7 +23447,7 @@
     "reliability_pct": 70.8,
     "adjusted_UPS": 62.21,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 75.0,
@@ -23514,7 +23514,7 @@
     "reliability_pct": 65.2,
     "adjusted_UPS": 62.2,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 70.1,
@@ -23581,7 +23581,7 @@
     "reliability_pct": 63.7,
     "adjusted_UPS": 62.16,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 98.0,
@@ -23648,7 +23648,7 @@
     "reliability_pct": 71.0,
     "adjusted_UPS": 62.16,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 41.1,
@@ -23849,7 +23849,7 @@
     "reliability_pct": 58.8,
     "adjusted_UPS": 62.1,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 45.1,
@@ -23916,7 +23916,7 @@
     "reliability_pct": 53.0,
     "adjusted_UPS": 62.01,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 24.0,
@@ -24050,7 +24050,7 @@
     "reliability_pct": 69.3,
     "adjusted_UPS": 61.91,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 62.2,
@@ -24117,7 +24117,7 @@
     "reliability_pct": 60.9,
     "adjusted_UPS": 61.9,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 29.1,
@@ -24251,7 +24251,7 @@
     "reliability_pct": 65.8,
     "adjusted_UPS": 61.87,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 36.2,
@@ -24385,7 +24385,7 @@
     "reliability_pct": 57.4,
     "adjusted_UPS": 61.82,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 67.2,
@@ -24452,7 +24452,7 @@
     "reliability_pct": 62.7,
     "adjusted_UPS": 61.82,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 43.1,
@@ -24586,7 +24586,7 @@
     "reliability_pct": 59.3,
     "adjusted_UPS": 61.81,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 50.2,
@@ -25189,7 +25189,7 @@
     "reliability_pct": 70.2,
     "adjusted_UPS": 61.54,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 39.2,
@@ -25524,7 +25524,7 @@
     "reliability_pct": 65.5,
     "adjusted_UPS": 61.41,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 20.2,
@@ -25792,7 +25792,7 @@
     "reliability_pct": 57.4,
     "adjusted_UPS": 61.23,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 54.1,
@@ -25859,7 +25859,7 @@
     "reliability_pct": 57.5,
     "adjusted_UPS": 61.22,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 23.0,
@@ -26261,7 +26261,7 @@
     "reliability_pct": 62.0,
     "adjusted_UPS": 61.09,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 29.2,
@@ -26395,7 +26395,7 @@
     "reliability_pct": 63.6,
     "adjusted_UPS": 61.05,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 17.0,
@@ -26864,7 +26864,7 @@
     "reliability_pct": 58.8,
     "adjusted_UPS": 60.81,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 38.1,
@@ -27266,7 +27266,7 @@
     "reliability_pct": 65.2,
     "adjusted_UPS": 60.75,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 18.2,
@@ -27467,7 +27467,7 @@
     "reliability_pct": 55.6,
     "adjusted_UPS": 60.7,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 27.0,
@@ -27735,7 +27735,7 @@
     "reliability_pct": 58.0,
     "adjusted_UPS": 60.58,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 17.1,
@@ -27869,7 +27869,7 @@
     "reliability_pct": 61.9,
     "adjusted_UPS": 60.56,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 20.1,
@@ -28137,7 +28137,7 @@
     "reliability_pct": 59.2,
     "adjusted_UPS": 60.41,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 20.2,
@@ -29209,7 +29209,7 @@
     "reliability_pct": 51.3,
     "adjusted_UPS": 59.87,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 21.0,
@@ -29477,7 +29477,7 @@
     "reliability_pct": 49.5,
     "adjusted_UPS": 59.84,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 17.0,
@@ -29611,7 +29611,7 @@
     "reliability_pct": 62.7,
     "adjusted_UPS": 59.76,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 64.0,
@@ -29678,7 +29678,7 @@
     "reliability_pct": 61.5,
     "adjusted_UPS": 59.7,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 53.0,
@@ -29745,7 +29745,7 @@
     "reliability_pct": 57.0,
     "adjusted_UPS": 59.69,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 52.0,
@@ -29812,7 +29812,7 @@
     "reliability_pct": 56.5,
     "adjusted_UPS": 59.63,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 25.1,
@@ -29946,7 +29946,7 @@
     "reliability_pct": 49.4,
     "adjusted_UPS": 59.6,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 18.1,
@@ -30080,7 +30080,7 @@
     "reliability_pct": 62.3,
     "adjusted_UPS": 59.55,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 19.1,
@@ -30415,7 +30415,7 @@
     "reliability_pct": 55.6,
     "adjusted_UPS": 59.31,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 19.0,
@@ -30616,7 +30616,7 @@
     "reliability_pct": 47.5,
     "adjusted_UPS": 59.23,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 40.1,
@@ -30683,7 +30683,7 @@
     "reliability_pct": 50.1,
     "adjusted_UPS": 59.23,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 31.2,
@@ -30817,7 +30817,7 @@
     "reliability_pct": 47.4,
     "adjusted_UPS": 59.04,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 9.2,
@@ -31286,7 +31286,7 @@
     "reliability_pct": 61.9,
     "adjusted_UPS": 58.89,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 19.1,
@@ -31889,7 +31889,7 @@
     "reliability_pct": 49.5,
     "adjusted_UPS": 58.67,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 20.0,
@@ -32023,7 +32023,7 @@
     "reliability_pct": 42.9,
     "adjusted_UPS": 58.64,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 35.1,
@@ -32090,7 +32090,7 @@
     "reliability_pct": 46.7,
     "adjusted_UPS": 58.62,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 34.1,
@@ -32224,7 +32224,7 @@
     "reliability_pct": 50.6,
     "adjusted_UPS": 58.58,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 17.0,
@@ -32961,7 +32961,7 @@
     "reliability_pct": 44.6,
     "adjusted_UPS": 58.26,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 21.0,
@@ -33028,7 +33028,7 @@
     "reliability_pct": 34.4,
     "adjusted_UPS": 58.25,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 27.2,
@@ -33095,7 +33095,7 @@
     "reliability_pct": 40.5,
     "adjusted_UPS": 58.14,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 34.1,
@@ -33162,7 +33162,7 @@
     "reliability_pct": 46.0,
     "adjusted_UPS": 58.08,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 26.0,
@@ -33296,7 +33296,7 @@
     "reliability_pct": 42.9,
     "adjusted_UPS": 58.05,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 44.0,
@@ -33363,7 +33363,7 @@
     "reliability_pct": 52.4,
     "adjusted_UPS": 58.05,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 14.1,
@@ -33497,7 +33497,7 @@
     "reliability_pct": 40.5,
     "adjusted_UPS": 57.99,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 15.1,
@@ -33765,7 +33765,7 @@
     "reliability_pct": 41.3,
     "adjusted_UPS": 57.94,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 21.0,
@@ -34837,7 +34837,7 @@
     "reliability_pct": 45.4,
     "adjusted_UPS": 57.42,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 14.2,
@@ -35172,7 +35172,7 @@
     "reliability_pct": 33.6,
     "adjusted_UPS": 57.29,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 12.0,
@@ -35641,7 +35641,7 @@
     "reliability_pct": 33.4,
     "adjusted_UPS": 57.0,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 11.1,
@@ -35909,7 +35909,7 @@
     "reliability_pct": 28.6,
     "adjusted_UPS": 56.89,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 13.2,
@@ -36043,7 +36043,7 @@
     "reliability_pct": 40.3,
     "adjusted_UPS": 56.83,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 34.2,
@@ -36110,7 +36110,7 @@
     "reliability_pct": 46.1,
     "adjusted_UPS": 56.78,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 12.2,
@@ -36378,7 +36378,7 @@
     "reliability_pct": 37.7,
     "adjusted_UPS": 56.59,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 15.0,
@@ -37450,7 +37450,7 @@
     "reliability_pct": 45.2,
     "adjusted_UPS": 56.27,
     "low_sample": false,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 8.2,
@@ -37584,7 +37584,7 @@
     "reliability_pct": 42.2,
     "adjusted_UPS": 56.17,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 19.1,
@@ -37852,7 +37852,7 @@
     "reliability_pct": 41.2,
     "adjusted_UPS": 56.0,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 19.0,
@@ -37919,7 +37919,7 @@
     "reliability_pct": 32.2,
     "adjusted_UPS": 55.99,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 18.1,
@@ -37986,7 +37986,7 @@
     "reliability_pct": 31.2,
     "adjusted_UPS": 55.96,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 23.1,
@@ -38053,7 +38053,7 @@
     "reliability_pct": 36.6,
     "adjusted_UPS": 55.95,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 12.2,
@@ -38321,7 +38321,7 @@
     "reliability_pct": 35.6,
     "adjusted_UPS": 55.87,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 11.1,
@@ -38522,7 +38522,7 @@
     "reliability_pct": 35.7,
     "adjusted_UPS": 55.78,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 12.2,
@@ -39393,7 +39393,7 @@
     "reliability_pct": 30.1,
     "adjusted_UPS": 55.48,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 16.2,
@@ -39460,7 +39460,7 @@
     "reliability_pct": 28.8,
     "adjusted_UPS": 55.46,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 9.2,
@@ -39728,7 +39728,7 @@
     "reliability_pct": 31.3,
     "adjusted_UPS": 55.39,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 16.1,
@@ -39795,7 +39795,7 @@
     "reliability_pct": 28.7,
     "adjusted_UPS": 55.34,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 8.2,
@@ -40599,7 +40599,7 @@
     "reliability_pct": 28.8,
     "adjusted_UPS": 55.11,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 7.1,
@@ -40733,7 +40733,7 @@
     "reliability_pct": 29.8,
     "adjusted_UPS": 55.06,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 11.2,
@@ -41001,7 +41001,7 @@
     "reliability_pct": 25.9,
     "adjusted_UPS": 54.99,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 18.1,
@@ -41068,7 +41068,7 @@
     "reliability_pct": 31.2,
     "adjusted_UPS": 54.97,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 6.2,
@@ -41939,7 +41939,7 @@
     "reliability_pct": 32.3,
     "adjusted_UPS": 54.51,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 7.1,
@@ -44083,7 +44083,7 @@
     "reliability_pct": 23.2,
     "adjusted_UPS": 53.51,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 10.1,
@@ -44150,7 +44150,7 @@
     "reliability_pct": 20.2,
     "adjusted_UPS": 53.5,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 10.0,
@@ -44217,7 +44217,7 @@
     "reliability_pct": 20.0,
     "adjusted_UPS": 53.45,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 9.1,
@@ -45758,7 +45758,7 @@
     "reliability_pct": 20.3,
     "adjusted_UPS": 52.95,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 7.1,
@@ -45825,7 +45825,7 @@
     "reliability_pct": 15.1,
     "adjusted_UPS": 52.93,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 8.2,
@@ -45892,7 +45892,7 @@
     "reliability_pct": 17.0,
     "adjusted_UPS": 52.93,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 4.2,
@@ -46897,7 +46897,7 @@
     "reliability_pct": 16.8,
     "adjusted_UPS": 52.55,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 3.0,
@@ -47567,7 +47567,7 @@
     "reliability_pct": 11.5,
     "adjusted_UPS": 52.25,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 4.0,
@@ -48304,7 +48304,7 @@
     "reliability_pct": 11.5,
     "adjusted_UPS": 52.11,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 3.1,
@@ -48438,7 +48438,7 @@
     "reliability_pct": 11.1,
     "adjusted_UPS": 52.09,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 2.2,
@@ -48907,7 +48907,7 @@
     "reliability_pct": 16.7,
     "adjusted_UPS": 52.02,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 2.0,
@@ -49443,7 +49443,7 @@
     "reliability_pct": 9.1,
     "adjusted_UPS": 51.83,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 4.1,
@@ -49510,7 +49510,7 @@
     "reliability_pct": 9.3,
     "adjusted_UPS": 51.83,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 3.0,
@@ -49778,7 +49778,7 @@
     "reliability_pct": 7.4,
     "adjusted_UPS": 51.65,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 3.0,
@@ -50649,7 +50649,7 @@
     "reliability_pct": 11.1,
     "adjusted_UPS": 51.43,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 1.0,
@@ -51185,7 +51185,7 @@
     "reliability_pct": 13.4,
     "adjusted_UPS": 51.28,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 2.0,
@@ -51922,7 +51922,7 @@
     "reliability_pct": 5.0,
     "adjusted_UPS": 51.08,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 2.0,
@@ -52525,7 +52525,7 @@
     "reliability_pct": 7.0,
     "adjusted_UPS": 50.96,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 4.1,
@@ -52592,7 +52592,7 @@
     "reliability_pct": 9.3,
     "adjusted_UPS": 50.96,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 1.0,
@@ -52994,7 +52994,7 @@
     "reliability_pct": 7.4,
     "adjusted_UPS": 50.86,
     "low_sample": true,
-    "low_sample_threshold": 31.8
+    "low_sample_threshold": 31.9
   },
   {
     "IP": 1.0,
