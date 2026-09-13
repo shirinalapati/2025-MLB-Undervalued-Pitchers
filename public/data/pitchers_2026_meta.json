@@ -1,8 +1,7 @@
 {
   "season": 2026,
-  "full_updated": "2026-09-12 21:08 UTC",
-  "low_sample_threshold_starter": 34.4,
+  "full_updated": "2026-09-13 05:39 UTC",
+  "low_sample_threshold_starter": 34.3,
   "low_sample_threshold_reliever": 8.0,
-  "pitcher_count": 852,
-  "mlb_live_updated": "2026-09-13 05:12 UTC"
+  "pitcher_count": 852
 }
