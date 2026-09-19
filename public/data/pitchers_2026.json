@@ -64,7 +64,7 @@
     "reliability_pct": 82.2,
     "adjusted_UPS": 78.57,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 166.1,
@@ -131,7 +131,7 @@
     "reliability_pct": 80.6,
     "adjusted_UPS": 77.91,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 76.0,
@@ -265,7 +265,7 @@
     "reliability_pct": 82.8,
     "adjusted_UPS": 71.75,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 178.1,
@@ -332,7 +332,7 @@
     "reliability_pct": 81.7,
     "adjusted_UPS": 71.57,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 181.0,
@@ -399,7 +399,7 @@
     "reliability_pct": 81.9,
     "adjusted_UPS": 71.36,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 75.2,
@@ -667,7 +667,7 @@
     "reliability_pct": 78.1,
     "adjusted_UPS": 70.74,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 144.1,
@@ -734,7 +734,7 @@
     "reliability_pct": 78.3,
     "adjusted_UPS": 69.86,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 172.2,
@@ -801,7 +801,7 @@
     "reliability_pct": 81.1,
     "adjusted_UPS": 69.64,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 166.2,
@@ -868,7 +868,7 @@
     "reliability_pct": 80.6,
     "adjusted_UPS": 69.48,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 151.0,
@@ -935,7 +935,7 @@
     "reliability_pct": 79.1,
     "adjusted_UPS": 69.38,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 72.0,
@@ -1069,7 +1069,7 @@
     "reliability_pct": 69.9,
     "adjusted_UPS": 69.24,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 165.1,
@@ -1136,7 +1136,7 @@
     "reliability_pct": 80.5,
     "adjusted_UPS": 69.16,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 56.1,
@@ -1337,7 +1337,7 @@
     "reliability_pct": 68.1,
     "adjusted_UPS": 68.38,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 121.1,
@@ -1404,7 +1404,7 @@
     "reliability_pct": 75.2,
     "adjusted_UPS": 68.37,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 157.0,
@@ -1471,7 +1471,7 @@
     "reliability_pct": 79.7,
     "adjusted_UPS": 68.36,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 70.0,
@@ -1608,6 +1608,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 167.0,
+    "ERA": 3.4,
+    "WAR": 3.88,
+    "salary": 1645590.0,
+    "K": 178,
+    "BB": 61,
+    "K_pct": 25.6,
+    "BB_pct": 8.8,
+    "xERA": 3.82,
+    "FIP": 3.57,
+    "SIERA": 3.59,
+    "fb_velo": 93.0,
+    "hardhit_pct": 38.7,
+    "barrel_pct": 8.2,
+    "BABIP": 0.286,
+    "LOB_pct": 67.7,
+    "H": 140,
+    "ER": 63,
+    "HR": 18,
+    "SV": 0,
+    "HLD": 0,
+    "W": 10,
+    "L": 7,
+    "K9": 9.59,
+    "WHIP": 1.2,
+    "role": "starter",
+    "raw": {
+      "DI": 20.66,
+      "CCI": 91.33,
+      "RPSI": 3.66,
+      "SQI": 46.1,
+      "LAI": -4.69,
+      "SEI": 2.3578
+    },
+    "components": {
+      "K_pct": 25.6,
+      "BB_pct": 8.8,
+      "K_BB_pct": 16.8,
+      "xERA": 3.82,
+      "FIP": 3.57,
+      "SIERA": 3.59,
+      "Velo": 93.0,
+      "HardHit_pct": 38.7,
+      "Barrel_pct": 8.2,
+      "BABIP": 0.286,
+      "LOB_pct": 67.7
+    },
+    "name": "Sean Burke",
+    "team": "CHW",
+    "player_id": 680732,
+    "season": 2026,
+    "normalized": {
+      "DI": 65.88,
+      "CCI": 85.55,
+      "RPSI": 91.82,
+      "SQI": 76.55,
+      "LAI": 68.79,
+      "SEI": 37.62
+    },
+    "UPS": 72.58,
+    "rank": 25,
+    "reliability_pct": 80.7,
+    "adjusted_UPS": 68.22,
+    "low_sample": false,
+    "low_sample_threshold": 34.9
+  },
+  {
     "IP": 151.0,
     "ERA": 3.58,
     "WAR": 2.83,
@@ -1668,78 +1735,11 @@
       "SEI": 49.58
     },
     "UPS": 72.98,
-    "rank": 25,
+    "rank": 26,
     "reliability_pct": 79.1,
     "adjusted_UPS": 68.17,
     "low_sample": false,
-    "low_sample_threshold": 34.7
-  },
-  {
-    "IP": 161.0,
-    "ERA": 3.47,
-    "WAR": 3.88,
-    "salary": 1645590.0,
-    "K": 173,
-    "BB": 58,
-    "K_pct": 25.9,
-    "BB_pct": 8.7,
-    "xERA": 3.82,
-    "FIP": 3.59,
-    "SIERA": 3.59,
-    "fb_velo": 93.0,
-    "hardhit_pct": 38.7,
-    "barrel_pct": 8.2,
-    "BABIP": 0.286,
-    "LOB_pct": 67.7,
-    "H": 135,
-    "ER": 62,
-    "HR": 18,
-    "SV": 0,
-    "HLD": 0,
-    "W": 9,
-    "L": 7,
-    "K9": 9.67,
-    "WHIP": 1.2,
-    "role": "starter",
-    "raw": {
-      "DI": 20.66,
-      "CCI": 91.33,
-      "RPSI": 3.66,
-      "SQI": 46.1,
-      "LAI": -4.69,
-      "SEI": 2.3578
-    },
-    "components": {
-      "K_pct": 25.9,
-      "BB_pct": 8.7,
-      "K_BB_pct": 17.2,
-      "xERA": 3.82,
-      "FIP": 3.59,
-      "SIERA": 3.59,
-      "Velo": 93.0,
-      "HardHit_pct": 38.7,
-      "Barrel_pct": 8.2,
-      "BABIP": 0.286,
-      "LOB_pct": 67.7
-    },
-    "name": "Sean Burke",
-    "team": "CHW",
-    "player_id": 680732,
-    "season": 2026,
-    "normalized": {
-      "DI": 65.88,
-      "CCI": 85.55,
-      "RPSI": 91.82,
-      "SQI": 76.55,
-      "LAI": 68.79,
-      "SEI": 37.62
-    },
-    "UPS": 72.58,
-    "rank": 26,
-    "reliability_pct": 80.1,
-    "adjusted_UPS": 68.09,
-    "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 178.2,
@@ -1806,33 +1806,33 @@
     "reliability_pct": 81.7,
     "adjusted_UPS": 67.98,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
-    "IP": 80.2,
-    "ERA": 2.34,
+    "IP": 82.0,
+    "ERA": 2.3,
     "WAR": 2.65,
     "salary": 2113348.0,
     "K": 103,
     "BB": 30,
-    "K_pct": 31.7,
-    "BB_pct": 9.2,
+    "K_pct": 31.2,
+    "BB_pct": 9.1,
     "xERA": 3.07,
-    "FIP": 2.89,
+    "FIP": 2.9,
     "SIERA": 2.89,
     "fb_velo": 93.0,
     "hardhit_pct": 41.4,
     "barrel_pct": 7.9,
     "BABIP": 0.283,
     "LOB_pct": 70.0,
-    "H": 59,
+    "H": 60,
     "ER": 21,
     "HR": 7,
-    "SV": 9,
+    "SV": 10,
     "HLD": 10,
     "W": 7,
     "L": 3,
-    "K9": 11.56,
+    "K9": 11.3,
     "WHIP": 1.1,
     "role": "reliever",
     "raw": {
@@ -1844,11 +1844,11 @@
       "SEI": 1.2539
     },
     "components": {
-      "K_pct": 31.7,
-      "BB_pct": 9.2,
-      "K_BB_pct": 22.5,
+      "K_pct": 31.2,
+      "BB_pct": 9.1,
+      "K_BB_pct": 22.1,
       "xERA": 3.07,
-      "FIP": 2.89,
+      "FIP": 2.9,
       "SIERA": 2.89,
       "Velo": 93.0,
       "HardHit_pct": 41.4,
@@ -1870,8 +1870,8 @@
     },
     "UPS": 72.3,
     "rank": 28,
-    "reliability_pct": 80.0,
-    "adjusted_UPS": 67.85,
+    "reliability_pct": 80.4,
+    "adjusted_UPS": 67.93,
     "low_sample": false,
     "low_sample_threshold": 8.0
   },
@@ -1940,7 +1940,7 @@
     "reliability_pct": 80.5,
     "adjusted_UPS": 67.85,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 146.2,
@@ -2007,7 +2007,7 @@
     "reliability_pct": 78.5,
     "adjusted_UPS": 67.79,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 68.0,
@@ -2141,7 +2141,7 @@
     "reliability_pct": 73.4,
     "adjusted_UPS": 67.68,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 169.0,
@@ -2208,7 +2208,7 @@
     "reliability_pct": 80.9,
     "adjusted_UPS": 67.62,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 62.0,
@@ -2409,7 +2409,7 @@
     "reliability_pct": 80.9,
     "adjusted_UPS": 67.5,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 68.1,
@@ -2543,7 +2543,7 @@
     "reliability_pct": 81.7,
     "adjusted_UPS": 67.27,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 91.2,
@@ -2610,7 +2610,7 @@
     "reliability_pct": 69.5,
     "adjusted_UPS": 67.25,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 174.0,
@@ -2677,7 +2677,7 @@
     "reliability_pct": 81.3,
     "adjusted_UPS": 67.23,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 174.0,
@@ -2744,7 +2744,7 @@
     "reliability_pct": 81.3,
     "adjusted_UPS": 67.18,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 136.1,
@@ -2811,7 +2811,7 @@
     "reliability_pct": 77.3,
     "adjusted_UPS": 67.1,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 69.1,
@@ -3146,7 +3146,7 @@
     "reliability_pct": 81.1,
     "adjusted_UPS": 66.8,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 50.2,
@@ -3481,7 +3481,7 @@
     "reliability_pct": 79.0,
     "adjusted_UPS": 66.66,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 154.1,
@@ -3548,34 +3548,34 @@
     "reliability_pct": 79.4,
     "adjusted_UPS": 66.66,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
-    "IP": 105.1,
-    "ERA": 3.76,
+    "IP": 107.1,
+    "ERA": 3.69,
     "WAR": 1.82,
     "salary": 780000,
-    "K": 127,
+    "K": 131,
     "BB": 46,
-    "K_pct": 28.0,
-    "BB_pct": 10.2,
+    "K_pct": 28.5,
+    "BB_pct": 10.0,
     "xERA": 3.69,
-    "FIP": 3.58,
+    "FIP": 3.5,
     "SIERA": 3.58,
     "fb_velo": 93.0,
     "hardhit_pct": 33.9,
     "barrel_pct": 6.6,
     "BABIP": 0.29,
     "LOB_pct": 68.3,
-    "H": 87,
+    "H": 88,
     "ER": 44,
     "HR": 12,
     "SV": 0,
     "HLD": 0,
     "W": 4,
     "L": 5,
-    "K9": 10.88,
-    "WHIP": 1.26,
+    "K9": 11.01,
+    "WHIP": 1.25,
     "role": "starter",
     "raw": {
       "DI": 21.94,
@@ -3586,11 +3586,11 @@
       "SEI": 2.3333
     },
     "components": {
-      "K_pct": 28.0,
-      "BB_pct": 10.2,
-      "K_BB_pct": 17.8,
+      "K_pct": 28.5,
+      "BB_pct": 10.0,
+      "K_BB_pct": 18.5,
       "xERA": 3.69,
-      "FIP": 3.58,
+      "FIP": 3.5,
       "SIERA": 3.58,
       "Velo": 93.0,
       "HardHit_pct": 33.9,
@@ -3612,10 +3612,10 @@
     },
     "UPS": 72.87,
     "rank": 54,
-    "reliability_pct": 72.4,
-    "adjusted_UPS": 66.57,
+    "reliability_pct": 72.8,
+    "adjusted_UPS": 66.65,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 154.1,
@@ -3682,7 +3682,7 @@
     "reliability_pct": 79.4,
     "adjusted_UPS": 66.53,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 43.1,
@@ -3816,7 +3816,7 @@
     "reliability_pct": 80.8,
     "adjusted_UPS": 66.46,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 71.0,
@@ -4017,7 +4017,7 @@
     "reliability_pct": 81.7,
     "adjusted_UPS": 66.42,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 145.2,
@@ -4084,7 +4084,7 @@
     "reliability_pct": 78.4,
     "adjusted_UPS": 66.41,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 64.0,
@@ -4151,7 +4151,7 @@
     "reliability_pct": 61.5,
     "adjusted_UPS": 66.3,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 167.2,
@@ -4218,7 +4218,7 @@
     "reliability_pct": 80.7,
     "adjusted_UPS": 66.3,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 64.0,
@@ -4553,7 +4553,7 @@
     "reliability_pct": 73.0,
     "adjusted_UPS": 66.11,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 66.1,
@@ -4754,7 +4754,7 @@
     "reliability_pct": 77.5,
     "adjusted_UPS": 66.03,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 102.0,
@@ -4821,7 +4821,7 @@
     "reliability_pct": 71.8,
     "adjusted_UPS": 66.0,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 109.2,
@@ -4888,7 +4888,7 @@
     "reliability_pct": 73.2,
     "adjusted_UPS": 66.0,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 168.1,
@@ -4955,7 +4955,7 @@
     "reliability_pct": 80.8,
     "adjusted_UPS": 65.96,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 141.0,
@@ -5022,7 +5022,7 @@
     "reliability_pct": 77.9,
     "adjusted_UPS": 65.92,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 90.2,
@@ -5089,7 +5089,7 @@
     "reliability_pct": 69.3,
     "adjusted_UPS": 65.89,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 75.2,
@@ -5223,7 +5223,7 @@
     "reliability_pct": 80.3,
     "adjusted_UPS": 65.86,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 166.1,
@@ -5290,7 +5290,7 @@
     "reliability_pct": 80.6,
     "adjusted_UPS": 65.81,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 77.1,
@@ -5625,7 +5625,7 @@
     "reliability_pct": 79.4,
     "adjusted_UPS": 65.7,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 171.1,
@@ -5692,7 +5692,7 @@
     "reliability_pct": 81.1,
     "adjusted_UPS": 65.69,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 45.2,
@@ -5826,7 +5826,7 @@
     "reliability_pct": 78.8,
     "adjusted_UPS": 65.66,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 65.0,
@@ -5960,7 +5960,7 @@
     "reliability_pct": 82.5,
     "adjusted_UPS": 65.6,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 51.2,
@@ -6094,7 +6094,7 @@
     "reliability_pct": 81.1,
     "adjusted_UPS": 65.54,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 57.0,
@@ -6228,7 +6228,74 @@
     "reliability_pct": 80.9,
     "adjusted_UPS": 65.51,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
+  },
+  {
+    "IP": 160.2,
+    "ERA": 4.2,
+    "WAR": 1.75,
+    "salary": 9166010.0,
+    "K": 146,
+    "BB": 39,
+    "K_pct": 21.9,
+    "BB_pct": 5.9,
+    "xERA": 3.66,
+    "FIP": 3.65,
+    "SIERA": 3.68,
+    "fb_velo": 93.0,
+    "hardhit_pct": 36.1,
+    "barrel_pct": 6.8,
+    "BABIP": 0.299,
+    "LOB_pct": 59.5,
+    "H": 155,
+    "ER": 75,
+    "HR": 19,
+    "SV": 0,
+    "HLD": 0,
+    "W": 10,
+    "L": 10,
+    "K9": 8.2,
+    "WHIP": 1.21,
+    "role": "starter",
+    "raw": {
+      "DI": 18.35,
+      "CCI": 94.2,
+      "RPSI": 3.67,
+      "SQI": 50.1,
+      "LAI": -11.94,
+      "SEI": 0.1909
+    },
+    "components": {
+      "K_pct": 21.9,
+      "BB_pct": 5.9,
+      "K_BB_pct": 16.0,
+      "xERA": 3.66,
+      "FIP": 3.65,
+      "SIERA": 3.68,
+      "Velo": 93.0,
+      "HardHit_pct": 36.1,
+      "Barrel_pct": 6.8,
+      "BABIP": 0.299,
+      "LOB_pct": 59.5
+    },
+    "name": "Trevor Rogers",
+    "team": "BAL",
+    "player_id": 669432,
+    "season": 2026,
+    "normalized": {
+      "DI": 63.2,
+      "CCI": 90.33,
+      "RPSI": 91.81,
+      "SQI": 78.55,
+      "LAI": 65.34,
+      "SEI": 17.24
+    },
+    "UPS": 69.38,
+    "rank": 94,
+    "reliability_pct": 80.0,
+    "adjusted_UPS": 65.51,
+    "low_sample": false,
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 155.0,
@@ -6291,11 +6358,11 @@
       "SEI": 27.9
     },
     "UPS": 69.46,
-    "rank": 94,
+    "rank": 95,
     "reliability_pct": 79.5,
     "adjusted_UPS": 65.47,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 122.2,
@@ -6358,78 +6425,11 @@
       "SEI": 39.69
     },
     "UPS": 70.51,
-    "rank": 95,
+    "rank": 96,
     "reliability_pct": 75.3,
     "adjusted_UPS": 65.45,
     "low_sample": false,
-    "low_sample_threshold": 34.7
-  },
-  {
-    "IP": 157.2,
-    "ERA": 4.22,
-    "WAR": 1.75,
-    "salary": 9166010.0,
-    "K": 143,
-    "BB": 38,
-    "K_pct": 21.8,
-    "BB_pct": 5.8,
-    "xERA": 3.66,
-    "FIP": 3.68,
-    "SIERA": 3.68,
-    "fb_velo": 93.0,
-    "hardhit_pct": 36.1,
-    "barrel_pct": 6.8,
-    "BABIP": 0.299,
-    "LOB_pct": 59.5,
-    "H": 154,
-    "ER": 74,
-    "HR": 19,
-    "SV": 0,
-    "HLD": 0,
-    "W": 10,
-    "L": 10,
-    "K9": 8.19,
-    "WHIP": 1.22,
-    "role": "starter",
-    "raw": {
-      "DI": 18.35,
-      "CCI": 94.2,
-      "RPSI": 3.67,
-      "SQI": 50.1,
-      "LAI": -11.94,
-      "SEI": 0.1909
-    },
-    "components": {
-      "K_pct": 21.8,
-      "BB_pct": 5.8,
-      "K_BB_pct": 16.0,
-      "xERA": 3.66,
-      "FIP": 3.68,
-      "SIERA": 3.68,
-      "Velo": 93.0,
-      "HardHit_pct": 36.1,
-      "Barrel_pct": 6.8,
-      "BABIP": 0.299,
-      "LOB_pct": 59.5
-    },
-    "name": "Trevor Rogers",
-    "team": "BAL",
-    "player_id": 669432,
-    "season": 2026,
-    "normalized": {
-      "DI": 63.2,
-      "CCI": 90.33,
-      "RPSI": 91.81,
-      "SQI": 78.55,
-      "LAI": 65.34,
-      "SEI": 17.24
-    },
-    "UPS": 69.38,
-    "rank": 96,
-    "reliability_pct": 79.7,
-    "adjusted_UPS": 65.45,
-    "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 52.0,
@@ -6563,7 +6563,7 @@
     "reliability_pct": 76.9,
     "adjusted_UPS": 65.42,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 67.1,
@@ -6697,7 +6697,7 @@
     "reliability_pct": 78.2,
     "adjusted_UPS": 65.41,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 137.1,
@@ -6764,7 +6764,7 @@
     "reliability_pct": 77.4,
     "adjusted_UPS": 65.37,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 71.1,
@@ -6898,7 +6898,7 @@
     "reliability_pct": 77.6,
     "adjusted_UPS": 65.35,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 127.1,
@@ -6965,7 +6965,7 @@
     "reliability_pct": 76.1,
     "adjusted_UPS": 65.33,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 87.0,
@@ -7099,7 +7099,7 @@
     "reliability_pct": 83.7,
     "adjusted_UPS": 65.28,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 91.2,
@@ -7166,7 +7166,7 @@
     "reliability_pct": 69.5,
     "adjusted_UPS": 65.24,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 38.0,
@@ -7367,7 +7367,7 @@
     "reliability_pct": 77.7,
     "adjusted_UPS": 65.2,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 106.0,
@@ -7434,7 +7434,7 @@
     "reliability_pct": 72.6,
     "adjusted_UPS": 65.18,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 57.0,
@@ -7568,7 +7568,7 @@
     "reliability_pct": 80.9,
     "adjusted_UPS": 65.18,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 63.2,
@@ -7769,7 +7769,7 @@
     "reliability_pct": 82.1,
     "adjusted_UPS": 65.15,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 118.0,
@@ -7836,7 +7836,7 @@
     "reliability_pct": 74.7,
     "adjusted_UPS": 65.14,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 59.1,
@@ -8372,7 +8372,7 @@
     "reliability_pct": 78.7,
     "adjusted_UPS": 65.0,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 102.0,
@@ -8439,7 +8439,7 @@
     "reliability_pct": 71.8,
     "adjusted_UPS": 64.99,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 168.1,
@@ -8506,7 +8506,7 @@
     "reliability_pct": 80.8,
     "adjusted_UPS": 64.98,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 103.2,
@@ -8573,7 +8573,7 @@
     "reliability_pct": 72.1,
     "adjusted_UPS": 64.97,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 52.2,
@@ -8774,7 +8774,7 @@
     "reliability_pct": 81.6,
     "adjusted_UPS": 64.95,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 160.2,
@@ -8841,7 +8841,7 @@
     "reliability_pct": 80.0,
     "adjusted_UPS": 64.93,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 143.0,
@@ -8908,7 +8908,7 @@
     "reliability_pct": 78.1,
     "adjusted_UPS": 64.89,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 144.0,
@@ -8975,7 +8975,7 @@
     "reliability_pct": 78.3,
     "adjusted_UPS": 64.89,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 38.0,
@@ -9176,7 +9176,7 @@
     "reliability_pct": 70.0,
     "adjusted_UPS": 64.8,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 64.1,
@@ -9310,7 +9310,7 @@
     "reliability_pct": 73.7,
     "adjusted_UPS": 64.76,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 56.2,
@@ -9578,7 +9578,7 @@
     "reliability_pct": 68.3,
     "adjusted_UPS": 64.7,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 173.0,
@@ -9645,7 +9645,7 @@
     "reliability_pct": 81.2,
     "adjusted_UPS": 64.68,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 49.1,
@@ -9779,7 +9779,7 @@
     "reliability_pct": 77.5,
     "adjusted_UPS": 64.66,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 58.2,
@@ -9913,7 +9913,7 @@
     "reliability_pct": 79.1,
     "adjusted_UPS": 64.59,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 165.2,
@@ -9980,7 +9980,7 @@
     "reliability_pct": 80.5,
     "adjusted_UPS": 64.58,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 125.1,
@@ -10047,7 +10047,7 @@
     "reliability_pct": 75.8,
     "adjusted_UPS": 64.56,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 104.1,
@@ -10114,7 +10114,7 @@
     "reliability_pct": 72.2,
     "adjusted_UPS": 64.55,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 61.0,
@@ -10248,7 +10248,7 @@
     "reliability_pct": 73.5,
     "adjusted_UPS": 64.48,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 120.1,
@@ -10315,7 +10315,7 @@
     "reliability_pct": 75.0,
     "adjusted_UPS": 64.46,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 64.2,
@@ -10449,7 +10449,7 @@
     "reliability_pct": 80.0,
     "adjusted_UPS": 64.42,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 144.1,
@@ -10516,7 +10516,7 @@
     "reliability_pct": 78.3,
     "adjusted_UPS": 64.4,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 65.1,
@@ -10583,7 +10583,7 @@
     "reliability_pct": 61.9,
     "adjusted_UPS": 64.38,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 31.2,
@@ -10784,7 +10784,7 @@
     "reliability_pct": 72.8,
     "adjusted_UPS": 64.32,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 70.1,
@@ -10918,7 +10918,7 @@
     "reliability_pct": 75.6,
     "adjusted_UPS": 64.31,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 55.1,
@@ -11052,7 +11052,7 @@
     "reliability_pct": 78.8,
     "adjusted_UPS": 64.3,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 114.2,
@@ -11119,7 +11119,74 @@
     "reliability_pct": 74.1,
     "adjusted_UPS": 64.28,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
+  },
+  {
+    "IP": 99.1,
+    "ERA": 4.17,
+    "WAR": 0.68,
+    "salary": 780000,
+    "K": 94,
+    "BB": 32,
+    "K_pct": 22.0,
+    "BB_pct": 7.5,
+    "xERA": 4.19,
+    "FIP": 4.11,
+    "SIERA": 4.15,
+    "fb_velo": 93.0,
+    "hardhit_pct": 33.3,
+    "barrel_pct": 7.0,
+    "BABIP": 0.286,
+    "LOB_pct": 63.4,
+    "H": 93,
+    "ER": 46,
+    "HR": 14,
+    "SV": 0,
+    "HLD": 0,
+    "W": 4,
+    "L": 5,
+    "K9": 8.54,
+    "WHIP": 1.26,
+    "role": "starter",
+    "raw": {
+      "DI": 17.6,
+      "CCI": 92.57,
+      "RPSI": 4.16,
+      "SQI": 52.7,
+      "LAI": -8.54,
+      "SEI": 0.8718
+    },
+    "components": {
+      "K_pct": 22.0,
+      "BB_pct": 7.5,
+      "K_BB_pct": 14.5,
+      "xERA": 4.19,
+      "FIP": 4.11,
+      "SIERA": 4.15,
+      "Velo": 93.0,
+      "HardHit_pct": 33.3,
+      "Barrel_pct": 7.0,
+      "BABIP": 0.286,
+      "LOB_pct": 63.4
+    },
+    "name": "Robert Gasser",
+    "team": "MIL",
+    "player_id": 688107,
+    "season": 2026,
+    "normalized": {
+      "DI": 62.33,
+      "CCI": 87.62,
+      "RPSI": 91.48,
+      "SQI": 79.85,
+      "LAI": 66.96,
+      "SEI": 23.64
+    },
+    "UPS": 70.05,
+    "rank": 167,
+    "reliability_pct": 71.2,
+    "adjusted_UPS": 64.28,
+    "low_sample": false,
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 71.1,
@@ -11182,11 +11249,78 @@
       "SEI": 14.84
     },
     "UPS": 68.28,
-    "rank": 167,
+    "rank": 168,
     "reliability_pct": 78.0,
     "adjusted_UPS": 64.27,
     "low_sample": false,
     "low_sample_threshold": 8.0
+  },
+  {
+    "IP": 161.0,
+    "ERA": 4.64,
+    "WAR": 0.17,
+    "salary": 8100000.0,
+    "K": 150,
+    "BB": 58,
+    "K_pct": 21.6,
+    "BB_pct": 8.3,
+    "xERA": 3.85,
+    "FIP": 4.27,
+    "SIERA": 4.35,
+    "fb_velo": 93.0,
+    "hardhit_pct": 38.3,
+    "barrel_pct": 6.1,
+    "BABIP": 0.29,
+    "LOB_pct": 58.9,
+    "H": 155,
+    "ER": 83,
+    "HR": 23,
+    "SV": 0,
+    "HLD": 0,
+    "W": 9,
+    "L": 11,
+    "K9": 8.39,
+    "WHIP": 1.32,
+    "role": "starter",
+    "raw": {
+      "DI": 16.23,
+      "CCI": 91.53,
+      "RPSI": 4.18,
+      "SQI": 48.6,
+      "LAI": -12.28,
+      "SEI": 0.021
+    },
+    "components": {
+      "K_pct": 21.6,
+      "BB_pct": 8.3,
+      "K_BB_pct": 13.3,
+      "xERA": 3.85,
+      "FIP": 4.27,
+      "SIERA": 4.35,
+      "Velo": 93.0,
+      "HardHit_pct": 38.3,
+      "Barrel_pct": 6.1,
+      "BABIP": 0.29,
+      "LOB_pct": 58.9
+    },
+    "name": "Freddy Peralta",
+    "team": "New York/TBR",
+    "player_id": 642547,
+    "season": 2026,
+    "normalized": {
+      "DI": 60.73,
+      "CCI": 85.88,
+      "RPSI": 91.46,
+      "SQI": 77.8,
+      "LAI": 65.18,
+      "SEI": 15.64
+    },
+    "UPS": 67.8,
+    "rank": 169,
+    "reliability_pct": 80.1,
+    "adjusted_UPS": 64.26,
+    "low_sample": false,
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 140.2,
@@ -11249,11 +11383,11 @@
       "SEI": 15.91
     },
     "UPS": 68.32,
-    "rank": 168,
+    "rank": 170,
     "reliability_pct": 77.8,
     "adjusted_UPS": 64.25,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 124.1,
@@ -11316,78 +11450,78 @@
       "SEI": 16.87
     },
     "UPS": 68.83,
-    "rank": 169,
+    "rank": 171,
     "reliability_pct": 75.6,
     "adjusted_UPS": 64.24,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
-    "IP": 158.0,
-    "ERA": 4.67,
-    "WAR": 0.17,
-    "salary": 8100000.0,
-    "K": 146,
-    "BB": 58,
-    "K_pct": 21.3,
-    "BB_pct": 8.5,
-    "xERA": 3.85,
-    "FIP": 4.35,
-    "SIERA": 4.35,
+    "IP": 117.0,
+    "ERA": 5.54,
+    "WAR": 0.95,
+    "salary": 780000,
+    "K": 102,
+    "BB": 43,
+    "K_pct": 19.9,
+    "BB_pct": 8.4,
+    "xERA": 4.55,
+    "FIP": 4.78,
+    "SIERA": 4.73,
     "fb_velo": 93.0,
-    "hardhit_pct": 38.3,
-    "barrel_pct": 6.1,
-    "BABIP": 0.29,
-    "LOB_pct": 58.9,
-    "H": 153,
-    "ER": 82,
-    "HR": 23,
+    "hardhit_pct": 35.1,
+    "barrel_pct": 8.1,
+    "BABIP": 0.31,
+    "LOB_pct": 58.5,
+    "H": 124,
+    "ER": 72,
+    "HR": 20,
     "SV": 0,
     "HLD": 0,
-    "W": 9,
-    "L": 11,
-    "K9": 8.32,
-    "WHIP": 1.34,
+    "W": 3,
+    "L": 9,
+    "K9": 7.85,
+    "WHIP": 1.43,
     "role": "starter",
     "raw": {
-      "DI": 16.23,
-      "CCI": 91.53,
-      "RPSI": 4.18,
-      "SQI": 48.6,
-      "LAI": -12.28,
-      "SEI": 0.021
+      "DI": 14.64,
+      "CCI": 91.52,
+      "RPSI": 4.67,
+      "SQI": 49.8,
+      "LAI": -12.51,
+      "SEI": 1.2179
     },
     "components": {
-      "K_pct": 21.3,
-      "BB_pct": 8.5,
-      "K_BB_pct": 12.8,
-      "xERA": 3.85,
-      "FIP": 4.35,
-      "SIERA": 4.35,
+      "K_pct": 19.9,
+      "BB_pct": 8.4,
+      "K_BB_pct": 11.5,
+      "xERA": 4.55,
+      "FIP": 4.78,
+      "SIERA": 4.73,
       "Velo": 93.0,
-      "HardHit_pct": 38.3,
-      "Barrel_pct": 6.1,
-      "BABIP": 0.29,
-      "LOB_pct": 58.9
+      "HardHit_pct": 35.1,
+      "Barrel_pct": 8.1,
+      "BABIP": 0.31,
+      "LOB_pct": 58.5
     },
-    "name": "Freddy Peralta",
-    "team": "New York/TBR",
-    "player_id": 642547,
+    "name": "Andrew Painter",
+    "team": "PHI",
+    "player_id": 691725,
     "season": 2026,
     "normalized": {
-      "DI": 60.73,
-      "CCI": 85.88,
-      "RPSI": 91.46,
-      "SQI": 77.8,
-      "LAI": 65.18,
-      "SEI": 15.64
+      "DI": 58.88,
+      "CCI": 85.87,
+      "RPSI": 91.13,
+      "SQI": 78.4,
+      "LAI": 65.07,
+      "SEI": 26.9
     },
-    "UPS": 67.8,
-    "rank": 170,
-    "reliability_pct": 79.8,
-    "adjusted_UPS": 64.2,
+    "UPS": 69.07,
+    "rank": 172,
+    "reliability_pct": 74.5,
+    "adjusted_UPS": 64.21,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 52.0,
@@ -11450,7 +11584,7 @@
       "SEI": 22.8
     },
     "UPS": 69.65,
-    "rank": 171,
+    "rank": 173,
     "reliability_pct": 72.2,
     "adjusted_UPS": 64.19,
     "low_sample": false,
@@ -11517,78 +11651,11 @@
       "SEI": 35.1
     },
     "UPS": 71.33,
-    "rank": 172,
+    "rank": 174,
     "reliability_pct": 66.4,
     "adjusted_UPS": 64.17,
     "low_sample": false,
-    "low_sample_threshold": 34.7
-  },
-  {
-    "IP": 96.1,
-    "ERA": 4.3,
-    "WAR": 0.68,
-    "salary": 780000,
-    "K": 92,
-    "BB": 31,
-    "K_pct": 22.1,
-    "BB_pct": 7.4,
-    "xERA": 4.19,
-    "FIP": 4.15,
-    "SIERA": 4.15,
-    "fb_velo": 93.0,
-    "hardhit_pct": 33.3,
-    "barrel_pct": 7.0,
-    "BABIP": 0.286,
-    "LOB_pct": 63.4,
-    "H": 91,
-    "ER": 46,
-    "HR": 14,
-    "SV": 0,
-    "HLD": 0,
-    "W": 4,
-    "L": 5,
-    "K9": 8.62,
-    "WHIP": 1.27,
-    "role": "starter",
-    "raw": {
-      "DI": 17.6,
-      "CCI": 92.57,
-      "RPSI": 4.16,
-      "SQI": 52.7,
-      "LAI": -8.54,
-      "SEI": 0.8718
-    },
-    "components": {
-      "K_pct": 22.1,
-      "BB_pct": 7.4,
-      "K_BB_pct": 14.7,
-      "xERA": 4.19,
-      "FIP": 4.15,
-      "SIERA": 4.15,
-      "Velo": 93.0,
-      "HardHit_pct": 33.3,
-      "Barrel_pct": 7.0,
-      "BABIP": 0.286,
-      "LOB_pct": 63.4
-    },
-    "name": "Robert Gasser",
-    "team": "MIL",
-    "player_id": 688107,
-    "season": 2026,
-    "normalized": {
-      "DI": 62.33,
-      "CCI": 87.62,
-      "RPSI": 91.48,
-      "SQI": 79.85,
-      "LAI": 66.96,
-      "SEI": 23.64
-    },
-    "UPS": 70.05,
-    "rank": 173,
-    "reliability_pct": 70.6,
-    "adjusted_UPS": 64.16,
-    "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 67.2,
@@ -11651,78 +11718,11 @@
       "SEI": 16.86
     },
     "UPS": 68.37,
-    "rank": 174,
+    "rank": 175,
     "reliability_pct": 77.1,
     "adjusted_UPS": 64.16,
     "low_sample": false,
     "low_sample_threshold": 8.0
-  },
-  {
-    "IP": 115.1,
-    "ERA": 5.54,
-    "WAR": 0.95,
-    "salary": 780000,
-    "K": 100,
-    "BB": 43,
-    "K_pct": 19.7,
-    "BB_pct": 8.5,
-    "xERA": 4.55,
-    "FIP": 4.73,
-    "SIERA": 4.73,
-    "fb_velo": 93.0,
-    "hardhit_pct": 35.1,
-    "barrel_pct": 8.1,
-    "BABIP": 0.31,
-    "LOB_pct": 58.5,
-    "H": 123,
-    "ER": 71,
-    "HR": 19,
-    "SV": 0,
-    "HLD": 0,
-    "W": 3,
-    "L": 9,
-    "K9": 7.82,
-    "WHIP": 1.44,
-    "role": "starter",
-    "raw": {
-      "DI": 14.64,
-      "CCI": 91.52,
-      "RPSI": 4.67,
-      "SQI": 49.8,
-      "LAI": -12.51,
-      "SEI": 1.2179
-    },
-    "components": {
-      "K_pct": 19.7,
-      "BB_pct": 8.5,
-      "K_BB_pct": 11.2,
-      "xERA": 4.55,
-      "FIP": 4.73,
-      "SIERA": 4.73,
-      "Velo": 93.0,
-      "HardHit_pct": 35.1,
-      "Barrel_pct": 8.1,
-      "BABIP": 0.31,
-      "LOB_pct": 58.5
-    },
-    "name": "Andrew Painter",
-    "team": "PHI",
-    "player_id": 691725,
-    "season": 2026,
-    "normalized": {
-      "DI": 58.88,
-      "CCI": 85.87,
-      "RPSI": 91.13,
-      "SQI": 78.4,
-      "LAI": 65.07,
-      "SEI": 26.9
-    },
-    "UPS": 69.07,
-    "rank": 175,
-    "reliability_pct": 74.2,
-    "adjusted_UPS": 64.15,
-    "low_sample": false,
-    "low_sample_threshold": 34.7
   },
   {
     "IP": 42.2,
@@ -12526,7 +12526,7 @@
     "reliability_pct": 77.6,
     "adjusted_UPS": 64.01,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 137.2,
@@ -12593,7 +12593,7 @@
     "reliability_pct": 77.4,
     "adjusted_UPS": 63.99,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 107.1,
@@ -12660,7 +12660,7 @@
     "reliability_pct": 72.8,
     "adjusted_UPS": 63.98,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 57.2,
@@ -12861,7 +12861,7 @@
     "reliability_pct": 63.0,
     "adjusted_UPS": 63.89,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 72.1,
@@ -13062,7 +13062,7 @@
     "reliability_pct": 75.0,
     "adjusted_UPS": 63.86,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 56.0,
@@ -13196,7 +13196,7 @@
     "reliability_pct": 80.8,
     "adjusted_UPS": 63.83,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 29.2,
@@ -13464,7 +13464,7 @@
     "reliability_pct": 79.5,
     "adjusted_UPS": 63.71,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 169.0,
@@ -13531,7 +13531,7 @@
     "reliability_pct": 80.9,
     "adjusted_UPS": 63.71,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 149.1,
@@ -13598,7 +13598,7 @@
     "reliability_pct": 78.8,
     "adjusted_UPS": 63.7,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 143.1,
@@ -13665,7 +13665,7 @@
     "reliability_pct": 78.2,
     "adjusted_UPS": 63.69,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 32.0,
@@ -13866,7 +13866,7 @@
     "reliability_pct": 76.8,
     "adjusted_UPS": 63.57,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 62.2,
@@ -14000,7 +14000,7 @@
     "reliability_pct": 71.4,
     "adjusted_UPS": 63.54,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 141.2,
@@ -14067,7 +14067,7 @@
     "reliability_pct": 77.9,
     "adjusted_UPS": 63.54,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 65.0,
@@ -14134,7 +14134,7 @@
     "reliability_pct": 61.9,
     "adjusted_UPS": 63.53,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 147.1,
@@ -14201,7 +14201,7 @@
     "reliability_pct": 78.6,
     "adjusted_UPS": 63.52,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 38.2,
@@ -14335,7 +14335,7 @@
     "reliability_pct": 64.6,
     "adjusted_UPS": 63.44,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 97.0,
@@ -14402,7 +14402,7 @@
     "reliability_pct": 70.8,
     "adjusted_UPS": 63.44,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 34.1,
@@ -14536,7 +14536,7 @@
     "reliability_pct": 72.2,
     "adjusted_UPS": 63.41,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 51.2,
@@ -14670,7 +14670,7 @@
     "reliability_pct": 71.1,
     "adjusted_UPS": 63.39,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 59.0,
@@ -14804,7 +14804,7 @@
     "reliability_pct": 67.0,
     "adjusted_UPS": 63.33,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 80.0,
@@ -14871,7 +14871,7 @@
     "reliability_pct": 66.7,
     "adjusted_UPS": 63.31,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 51.0,
@@ -15005,7 +15005,7 @@
     "reliability_pct": 74.0,
     "adjusted_UPS": 63.26,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 60.0,
@@ -15206,7 +15206,7 @@
     "reliability_pct": 75.5,
     "adjusted_UPS": 63.24,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 53.1,
@@ -15477,6 +15477,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 43.2,
+    "ERA": 2.47,
+    "WAR": 1.09,
+    "salary": 780000,
+    "K": 31,
+    "BB": 17,
+    "K_pct": 18.2,
+    "BB_pct": 10.0,
+    "xERA": 3.07,
+    "FIP": 4.75,
+    "SIERA": 4.9,
+    "fb_velo": 93.0,
+    "hardhit_pct": 28.0,
+    "barrel_pct": 4.2,
+    "BABIP": 0.147,
+    "LOB_pct": 66.7,
+    "H": 22,
+    "ER": 12,
+    "HR": 6,
+    "SV": 0,
+    "HLD": 5,
+    "W": 1,
+    "L": 2,
+    "K9": 6.46,
+    "WHIP": 0.89,
+    "role": "reliever",
+    "raw": {
+      "DI": 11.29,
+      "CCI": 90.18,
+      "RPSI": 4.29,
+      "SQI": 60.8,
+      "LAI": -5.96,
+      "SEI": 1.3974
+    },
+    "components": {
+      "K_pct": 18.2,
+      "BB_pct": 10.0,
+      "K_BB_pct": 8.2,
+      "xERA": 3.07,
+      "FIP": 4.75,
+      "SIERA": 4.9,
+      "Velo": 93.0,
+      "HardHit_pct": 28.0,
+      "Barrel_pct": 4.2,
+      "BABIP": 0.147,
+      "LOB_pct": 66.7
+    },
+    "name": "Jacob Waguespack",
+    "team": "DET",
+    "player_id": 621097,
+    "season": 2026,
+    "normalized": {
+      "DI": 54.99,
+      "CCI": 83.63,
+      "RPSI": 91.39,
+      "SQI": 83.9,
+      "LAI": 68.19,
+      "SEI": 28.59
+    },
+    "UPS": 69.3,
+    "rank": 232,
+    "reliability_pct": 68.4,
+    "adjusted_UPS": 63.19,
+    "low_sample": false,
+    "low_sample_threshold": 8.0
+  },
+  {
     "IP": 60.0,
     "ERA": 3.6,
     "WAR": 0.2,
@@ -15537,7 +15604,7 @@
       "SEI": 15.54
     },
     "UPS": 67.57,
-    "rank": 232,
+    "rank": 233,
     "reliability_pct": 75.0,
     "adjusted_UPS": 63.18,
     "low_sample": false,
@@ -15604,11 +15671,11 @@
       "SEI": 15.45
     },
     "UPS": 67.28,
-    "rank": 233,
+    "rank": 234,
     "reliability_pct": 76.2,
     "adjusted_UPS": 63.17,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 162.1,
@@ -15671,11 +15738,11 @@
       "SEI": 16.25
     },
     "UPS": 66.4,
-    "rank": 234,
+    "rank": 235,
     "reliability_pct": 80.2,
     "adjusted_UPS": 63.15,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 159.0,
@@ -15738,11 +15805,11 @@
       "SEI": 18.57
     },
     "UPS": 66.44,
-    "rank": 235,
+    "rank": 236,
     "reliability_pct": 79.9,
     "adjusted_UPS": 63.14,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 34.1,
@@ -15805,7 +15872,7 @@
       "SEI": 15.97
     },
     "UPS": 70.83,
-    "rank": 236,
+    "rank": 237,
     "reliability_pct": 63.0,
     "adjusted_UPS": 63.13,
     "low_sample": false,
@@ -15872,11 +15939,11 @@
       "SEI": 16.07
     },
     "UPS": 67.73,
-    "rank": 237,
+    "rank": 238,
     "reliability_pct": 74.1,
     "adjusted_UPS": 63.13,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 59.0,
@@ -15939,7 +16006,7 @@
       "SEI": 15.89
     },
     "UPS": 67.58,
-    "rank": 238,
+    "rank": 239,
     "reliability_pct": 74.7,
     "adjusted_UPS": 63.13,
     "low_sample": false,
@@ -16006,11 +16073,11 @@
       "SEI": 16.31
     },
     "UPS": 67.53,
-    "rank": 239,
+    "rank": 240,
     "reliability_pct": 74.9,
     "adjusted_UPS": 63.12,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 40.2,
@@ -16073,7 +16140,7 @@
       "SEI": 16.82
     },
     "UPS": 69.63,
-    "rank": 240,
+    "rank": 241,
     "reliability_pct": 66.8,
     "adjusted_UPS": 63.11,
     "low_sample": false,
@@ -16140,7 +16207,7 @@
       "SEI": 23.88
     },
     "UPS": 69.05,
-    "rank": 241,
+    "rank": 242,
     "reliability_pct": 68.8,
     "adjusted_UPS": 63.1,
     "low_sample": false,
@@ -16207,7 +16274,7 @@
       "SEI": 17.85
     },
     "UPS": 67.7,
-    "rank": 242,
+    "rank": 243,
     "reliability_pct": 74.0,
     "adjusted_UPS": 63.1,
     "low_sample": false,
@@ -16274,11 +16341,11 @@
       "SEI": 16.12
     },
     "UPS": 68.03,
-    "rank": 243,
+    "rank": 244,
     "reliability_pct": 72.6,
     "adjusted_UPS": 63.09,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 46.2,
@@ -16341,7 +16408,7 @@
       "SEI": 15.25
     },
     "UPS": 68.68,
-    "rank": 244,
+    "rank": 245,
     "reliability_pct": 69.8,
     "adjusted_UPS": 63.04,
     "low_sample": false,
@@ -16408,78 +16475,11 @@
       "SEI": 18.91
     },
     "UPS": 67.45,
-    "rank": 245,
+    "rank": 246,
     "reliability_pct": 74.6,
     "adjusted_UPS": 63.01,
     "low_sample": false,
-    "low_sample_threshold": 34.7
-  },
-  {
-    "IP": 41.2,
-    "ERA": 2.59,
-    "WAR": 1.09,
-    "salary": 780000,
-    "K": 28,
-    "BB": 16,
-    "K_pct": 17.2,
-    "BB_pct": 9.8,
-    "xERA": 3.07,
-    "FIP": 4.9,
-    "SIERA": 4.9,
-    "fb_velo": 93.0,
-    "hardhit_pct": 28.0,
-    "barrel_pct": 4.2,
-    "BABIP": 0.147,
-    "LOB_pct": 66.7,
-    "H": 22,
-    "ER": 12,
-    "HR": 6,
-    "SV": 0,
-    "HLD": 5,
-    "W": 1,
-    "L": 2,
-    "K9": 6.12,
-    "WHIP": 0.91,
-    "role": "reliever",
-    "raw": {
-      "DI": 11.29,
-      "CCI": 90.18,
-      "RPSI": 4.29,
-      "SQI": 60.8,
-      "LAI": -5.96,
-      "SEI": 1.3974
-    },
-    "components": {
-      "K_pct": 17.2,
-      "BB_pct": 9.8,
-      "K_BB_pct": 7.4,
-      "xERA": 3.07,
-      "FIP": 4.9,
-      "SIERA": 4.9,
-      "Velo": 93.0,
-      "HardHit_pct": 28.0,
-      "Barrel_pct": 4.2,
-      "BABIP": 0.147,
-      "LOB_pct": 66.7
-    },
-    "name": "Jacob Waguespack",
-    "team": "DET",
-    "player_id": 621097,
-    "season": 2026,
-    "normalized": {
-      "DI": 54.99,
-      "CCI": 83.63,
-      "RPSI": 91.39,
-      "SQI": 83.9,
-      "LAI": 68.19,
-      "SEI": 28.59
-    },
-    "UPS": 69.3,
-    "rank": 246,
-    "reliability_pct": 67.3,
-    "adjusted_UPS": 62.99,
-    "low_sample": false,
-    "low_sample_threshold": 8.0
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 41.1,
@@ -16613,7 +16613,7 @@
     "reliability_pct": 77.4,
     "adjusted_UPS": 62.98,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 49.0,
@@ -16881,7 +16881,7 @@
     "reliability_pct": 79.4,
     "adjusted_UPS": 62.94,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 28.2,
@@ -17149,7 +17149,7 @@
     "reliability_pct": 77.5,
     "adjusted_UPS": 62.92,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 67.2,
@@ -17216,7 +17216,7 @@
     "reliability_pct": 62.7,
     "adjusted_UPS": 62.91,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 61.1,
@@ -17551,7 +17551,7 @@
     "reliability_pct": 76.9,
     "adjusted_UPS": 62.82,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 46.0,
@@ -17685,7 +17685,7 @@
     "reliability_pct": 65.6,
     "adjusted_UPS": 62.77,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 43.0,
@@ -17819,7 +17819,7 @@
     "reliability_pct": 76.2,
     "adjusted_UPS": 62.77,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 43.0,
@@ -17953,7 +17953,7 @@
     "reliability_pct": 74.7,
     "adjusted_UPS": 62.76,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 65.0,
@@ -18221,7 +18221,7 @@
     "reliability_pct": 67.3,
     "adjusted_UPS": 62.64,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 58.1,
@@ -18489,7 +18489,7 @@
     "reliability_pct": 78.0,
     "adjusted_UPS": 62.54,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 87.0,
@@ -19159,7 +19159,7 @@
     "reliability_pct": 70.8,
     "adjusted_UPS": 62.4,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 59.0,
@@ -19360,7 +19360,7 @@
     "reliability_pct": 73.2,
     "adjusted_UPS": 62.35,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 31.1,
@@ -19494,7 +19494,7 @@
     "reliability_pct": 77.5,
     "adjusted_UPS": 62.32,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 38.2,
@@ -19628,7 +19628,7 @@
     "reliability_pct": 70.8,
     "adjusted_UPS": 62.26,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 68.1,
@@ -19695,7 +19695,7 @@
     "reliability_pct": 63.0,
     "adjusted_UPS": 62.25,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 41.1,
@@ -19765,6 +19765,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 107.1,
+    "ERA": 4.61,
+    "WAR": -0.3,
+    "salary": 2666666.0,
+    "K": 84,
+    "BB": 35,
+    "K_pct": 17.9,
+    "BB_pct": 7.5,
+    "xERA": 5.27,
+    "FIP": 3.95,
+    "SIERA": 4.06,
+    "fb_velo": 93.0,
+    "hardhit_pct": 40.8,
+    "barrel_pct": 7.7,
+    "BABIP": 0.316,
+    "LOB_pct": 61.5,
+    "H": 116,
+    "ER": 55,
+    "HR": 11,
+    "SV": 1,
+    "HLD": 0,
+    "W": 6,
+    "L": 7,
+    "K9": 7.06,
+    "WHIP": 1.41,
+    "role": "starter",
+    "raw": {
+      "DI": 12.64,
+      "CCI": 92.37,
+      "RPSI": 4.47,
+      "SQI": 44.5,
+      "LAI": -10.97,
+      "SEI": -0.1125
+    },
+    "components": {
+      "K_pct": 17.9,
+      "BB_pct": 7.5,
+      "K_BB_pct": 10.4,
+      "xERA": 5.27,
+      "FIP": 3.95,
+      "SIERA": 4.06,
+      "Velo": 93.0,
+      "HardHit_pct": 40.8,
+      "Barrel_pct": 7.7,
+      "BABIP": 0.316,
+      "LOB_pct": 61.5
+    },
+    "name": "Brayan Bello",
+    "team": "BOS",
+    "player_id": 678394,
+    "season": 2026,
+    "normalized": {
+      "DI": 56.56,
+      "CCI": 87.28,
+      "RPSI": 91.26,
+      "SQI": 75.75,
+      "LAI": 65.81,
+      "SEI": 14.38
+    },
+    "UPS": 66.82,
+    "rank": 296,
+    "reliability_pct": 72.8,
+    "adjusted_UPS": 62.25,
+    "low_sample": false,
+    "low_sample_threshold": 34.9
+  },
+  {
     "IP": 42.1,
     "ERA": 3.83,
     "WAR": 0.15,
@@ -19825,7 +19892,7 @@
       "SEI": 17.25
     },
     "UPS": 68.06,
-    "rank": 296,
+    "rank": 297,
     "reliability_pct": 67.8,
     "adjusted_UPS": 62.24,
     "low_sample": false,
@@ -19892,7 +19959,7 @@
       "SEI": 17.97
     },
     "UPS": 67.77,
-    "rank": 297,
+    "rank": 298,
     "reliability_pct": 68.8,
     "adjusted_UPS": 62.23,
     "low_sample": false,
@@ -19959,11 +20026,11 @@
       "SEI": 19.11
     },
     "UPS": 67.58,
-    "rank": 298,
+    "rank": 299,
     "reliability_pct": 69.5,
     "adjusted_UPS": 62.22,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 51.1,
@@ -20026,7 +20093,7 @@
       "SEI": 9.77
     },
     "UPS": 67.0,
-    "rank": 299,
+    "rank": 300,
     "reliability_pct": 71.9,
     "adjusted_UPS": 62.22,
     "low_sample": false,
@@ -20093,11 +20160,11 @@
       "SEI": 15.32
     },
     "UPS": 66.15,
-    "rank": 300,
+    "rank": 301,
     "reliability_pct": 75.6,
     "adjusted_UPS": 62.21,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 156.2,
@@ -20160,78 +20227,11 @@
       "SEI": 15.91
     },
     "UPS": 65.3,
-    "rank": 301,
+    "rank": 302,
     "reliability_pct": 79.6,
     "adjusted_UPS": 62.18,
     "low_sample": false,
-    "low_sample_threshold": 34.7
-  },
-  {
-    "IP": 104.1,
-    "ERA": 4.74,
-    "WAR": -0.3,
-    "salary": 2666666.0,
-    "K": 79,
-    "BB": 35,
-    "K_pct": 17.2,
-    "BB_pct": 7.6,
-    "xERA": 5.27,
-    "FIP": 4.06,
-    "SIERA": 4.06,
-    "fb_velo": 93.0,
-    "hardhit_pct": 40.8,
-    "barrel_pct": 7.7,
-    "BABIP": 0.316,
-    "LOB_pct": 61.5,
-    "H": 114,
-    "ER": 55,
-    "HR": 11,
-    "SV": 1,
-    "HLD": 0,
-    "W": 6,
-    "L": 7,
-    "K9": 6.83,
-    "WHIP": 1.43,
-    "role": "starter",
-    "raw": {
-      "DI": 12.64,
-      "CCI": 92.37,
-      "RPSI": 4.47,
-      "SQI": 44.5,
-      "LAI": -10.97,
-      "SEI": -0.1125
-    },
-    "components": {
-      "K_pct": 17.2,
-      "BB_pct": 7.6,
-      "K_BB_pct": 9.6,
-      "xERA": 5.27,
-      "FIP": 4.06,
-      "SIERA": 4.06,
-      "Velo": 93.0,
-      "HardHit_pct": 40.8,
-      "Barrel_pct": 7.7,
-      "BABIP": 0.316,
-      "LOB_pct": 61.5
-    },
-    "name": "Brayan Bello",
-    "team": "BOS",
-    "player_id": 678394,
-    "season": 2026,
-    "normalized": {
-      "DI": 56.56,
-      "CCI": 87.28,
-      "RPSI": 91.26,
-      "SQI": 75.75,
-      "LAI": 65.81,
-      "SEI": 14.38
-    },
-    "UPS": 66.82,
-    "rank": 302,
-    "reliability_pct": 72.2,
-    "adjusted_UPS": 62.15,
-    "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 115.2,
@@ -20298,7 +20298,7 @@
     "reliability_pct": 74.2,
     "adjusted_UPS": 62.14,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 53.2,
@@ -20700,7 +20700,7 @@
     "reliability_pct": 68.3,
     "adjusted_UPS": 61.96,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 69.1,
@@ -20767,7 +20767,7 @@
     "reliability_pct": 63.3,
     "adjusted_UPS": 61.95,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 37.1,
@@ -20968,7 +20968,7 @@
     "reliability_pct": 74.4,
     "adjusted_UPS": 61.93,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 40.2,
@@ -21236,7 +21236,7 @@
     "reliability_pct": 73.0,
     "adjusted_UPS": 61.88,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 110.0,
@@ -21303,7 +21303,7 @@
     "reliability_pct": 73.3,
     "adjusted_UPS": 61.88,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 37.2,
@@ -21437,7 +21437,7 @@
     "reliability_pct": 65.5,
     "adjusted_UPS": 61.79,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 108.1,
@@ -21504,7 +21504,7 @@
     "reliability_pct": 73.0,
     "adjusted_UPS": 61.79,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 79.1,
@@ -21571,7 +21571,7 @@
     "reliability_pct": 66.4,
     "adjusted_UPS": 61.76,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 36.0,
@@ -21705,7 +21705,7 @@
     "reliability_pct": 64.6,
     "adjusted_UPS": 61.73,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 33.2,
@@ -22040,7 +22040,7 @@
     "reliability_pct": 65.0,
     "adjusted_UPS": 61.66,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 41.1,
@@ -22241,7 +22241,7 @@
     "reliability_pct": 74.4,
     "adjusted_UPS": 61.63,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 96.2,
@@ -22308,7 +22308,7 @@
     "reliability_pct": 70.6,
     "adjusted_UPS": 61.61,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 49.2,
@@ -22777,7 +22777,7 @@
     "reliability_pct": 65.8,
     "adjusted_UPS": 61.49,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 31.1,
@@ -22911,7 +22911,7 @@
     "reliability_pct": 66.7,
     "adjusted_UPS": 61.46,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 80.0,
@@ -22978,7 +22978,7 @@
     "reliability_pct": 66.7,
     "adjusted_UPS": 61.45,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 48.1,
@@ -23581,7 +23581,7 @@
     "reliability_pct": 75.6,
     "adjusted_UPS": 61.34,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 96.1,
@@ -23648,7 +23648,7 @@
     "reliability_pct": 70.6,
     "adjusted_UPS": 61.33,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 56.1,
@@ -23782,7 +23782,7 @@
     "reliability_pct": 64.7,
     "adjusted_UPS": 61.28,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 50.0,
@@ -23916,7 +23916,7 @@
     "reliability_pct": 48.8,
     "adjusted_UPS": 61.25,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 39.0,
@@ -24050,7 +24050,7 @@
     "reliability_pct": 60.9,
     "adjusted_UPS": 61.22,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 48.2,
@@ -24787,7 +24787,7 @@
     "reliability_pct": 76.1,
     "adjusted_UPS": 61.07,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 48.0,
@@ -24988,7 +24988,7 @@
     "reliability_pct": 69.3,
     "adjusted_UPS": 61.04,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 86.0,
@@ -25055,7 +25055,7 @@
     "reliability_pct": 68.3,
     "adjusted_UPS": 61.02,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 70.1,
@@ -25122,7 +25122,7 @@
     "reliability_pct": 63.7,
     "adjusted_UPS": 61.01,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 84.2,
@@ -25189,7 +25189,7 @@
     "reliability_pct": 67.8,
     "adjusted_UPS": 60.93,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 37.2,
@@ -25323,7 +25323,7 @@
     "reliability_pct": 70.8,
     "adjusted_UPS": 60.9,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 45.1,
@@ -25390,7 +25390,7 @@
     "reliability_pct": 53.0,
     "adjusted_UPS": 60.89,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 33.2,
@@ -25591,7 +25591,7 @@
     "reliability_pct": 64.7,
     "adjusted_UPS": 60.83,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 29.2,
@@ -25792,7 +25792,7 @@
     "reliability_pct": 61.5,
     "adjusted_UPS": 60.81,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 29.2,
@@ -26060,7 +26060,7 @@
     "reliability_pct": 72.2,
     "adjusted_UPS": 60.77,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 83.2,
@@ -26127,7 +26127,7 @@
     "reliability_pct": 67.5,
     "adjusted_UPS": 60.74,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 31.2,
@@ -26261,7 +26261,7 @@
     "reliability_pct": 65.5,
     "adjusted_UPS": 60.65,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 41.2,
@@ -26462,7 +26462,7 @@
     "reliability_pct": 60.9,
     "adjusted_UPS": 60.63,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 54.0,
@@ -26529,7 +26529,7 @@
     "reliability_pct": 57.4,
     "adjusted_UPS": 60.6,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 38.2,
@@ -26797,7 +26797,7 @@
     "reliability_pct": 60.4,
     "adjusted_UPS": 60.5,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 22.0,
@@ -27400,7 +27400,7 @@
     "reliability_pct": 70.2,
     "adjusted_UPS": 60.24,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 57.2,
@@ -27601,7 +27601,7 @@
     "reliability_pct": 70.0,
     "adjusted_UPS": 60.17,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 78.1,
@@ -27668,7 +27668,7 @@
     "reliability_pct": 66.1,
     "adjusted_UPS": 60.16,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 33.0,
@@ -28070,7 +28070,7 @@
     "reliability_pct": 64.3,
     "adjusted_UPS": 60.07,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 54.0,
@@ -28137,7 +28137,7 @@
     "reliability_pct": 57.4,
     "adjusted_UPS": 60.06,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 57.2,
@@ -28204,7 +28204,7 @@
     "reliability_pct": 58.8,
     "adjusted_UPS": 60.0,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 26.0,
@@ -28338,7 +28338,7 @@
     "reliability_pct": 56.6,
     "adjusted_UPS": 59.96,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 26.0,
@@ -28472,7 +28472,7 @@
     "reliability_pct": 58.8,
     "adjusted_UPS": 59.93,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 40.0,
@@ -28539,7 +28539,7 @@
     "reliability_pct": 50.0,
     "adjusted_UPS": 59.89,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 35.2,
@@ -28740,7 +28740,7 @@
     "reliability_pct": 63.6,
     "adjusted_UPS": 59.79,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 26.2,
@@ -28810,6 +28810,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 69.0,
+    "ERA": 5.74,
+    "WAR": -0.32,
+    "salary": 780000,
+    "K": 63,
+    "BB": 31,
+    "K_pct": 20.7,
+    "BB_pct": 10.2,
+    "xERA": 5.67,
+    "FIP": 4.42,
+    "SIERA": 4.57,
+    "fb_velo": 93.0,
+    "hardhit_pct": 39.7,
+    "barrel_pct": 9.0,
+    "BABIP": 0.285,
+    "LOB_pct": 55.4,
+    "H": 64,
+    "ER": 44,
+    "HR": 9,
+    "SV": 0,
+    "HLD": 1,
+    "W": 3,
+    "L": 9,
+    "K9": 8.22,
+    "WHIP": 1.38,
+    "role": "starter",
+    "raw": {
+      "DI": 13.6,
+      "CCI": 89.56,
+      "RPSI": 4.94,
+      "SQI": 44.3,
+      "LAI": -16.35,
+      "SEI": -0.4103
+    },
+    "components": {
+      "K_pct": 20.7,
+      "BB_pct": 10.2,
+      "K_BB_pct": 10.5,
+      "xERA": 5.67,
+      "FIP": 4.42,
+      "SIERA": 4.57,
+      "Velo": 93.0,
+      "HardHit_pct": 39.7,
+      "Barrel_pct": 9.0,
+      "BABIP": 0.285,
+      "LOB_pct": 55.4
+    },
+    "name": "Noah Schultz",
+    "team": "CHW",
+    "player_id": 702273,
+    "season": 2026,
+    "normalized": {
+      "DI": 57.67,
+      "CCI": 82.6,
+      "RPSI": 90.94,
+      "SQI": 75.65,
+      "LAI": 63.25,
+      "SEI": 11.58
+    },
+    "UPS": 65.45,
+    "rank": 431,
+    "reliability_pct": 63.3,
+    "adjusted_UPS": 59.78,
+    "low_sample": false,
+    "low_sample_threshold": 34.9
+  },
+  {
     "IP": 45.1,
     "ERA": 5.96,
     "WAR": -0.96,
@@ -28870,7 +28937,7 @@
       "SEI": 13.0
     },
     "UPS": 64.05,
-    "rank": 431,
+    "rank": 432,
     "reliability_pct": 69.3,
     "adjusted_UPS": 59.73,
     "low_sample": false,
@@ -28937,78 +29004,11 @@
       "SEI": 24.01
     },
     "UPS": 70.16,
-    "rank": 432,
+    "rank": 433,
     "reliability_pct": 48.1,
     "adjusted_UPS": 59.7,
     "low_sample": false,
-    "low_sample_threshold": 34.7
-  },
-  {
-    "IP": 67.1,
-    "ERA": 5.88,
-    "WAR": -0.32,
-    "salary": 780000,
-    "K": 59,
-    "BB": 31,
-    "K_pct": 19.9,
-    "BB_pct": 10.4,
-    "xERA": 5.67,
-    "FIP": 4.57,
-    "SIERA": 4.57,
-    "fb_velo": 93.0,
-    "hardhit_pct": 39.7,
-    "barrel_pct": 9.0,
-    "BABIP": 0.285,
-    "LOB_pct": 55.4,
-    "H": 62,
-    "ER": 44,
-    "HR": 9,
-    "SV": 0,
-    "HLD": 0,
-    "W": 3,
-    "L": 9,
-    "K9": 7.91,
-    "WHIP": 1.38,
-    "role": "starter",
-    "raw": {
-      "DI": 13.6,
-      "CCI": 89.56,
-      "RPSI": 4.94,
-      "SQI": 44.3,
-      "LAI": -16.35,
-      "SEI": -0.4103
-    },
-    "components": {
-      "K_pct": 19.9,
-      "BB_pct": 10.4,
-      "K_BB_pct": 9.5,
-      "xERA": 5.67,
-      "FIP": 4.57,
-      "SIERA": 4.57,
-      "Velo": 93.0,
-      "HardHit_pct": 39.7,
-      "Barrel_pct": 9.0,
-      "BABIP": 0.285,
-      "LOB_pct": 55.4
-    },
-    "name": "Noah Schultz",
-    "team": "CHW",
-    "player_id": 702273,
-    "season": 2026,
-    "normalized": {
-      "DI": 57.67,
-      "CCI": 82.6,
-      "RPSI": 90.94,
-      "SQI": 75.65,
-      "LAI": 63.25,
-      "SEI": 11.58
-    },
-    "UPS": 65.45,
-    "rank": 433,
-    "reliability_pct": 62.7,
-    "adjusted_UPS": 59.68,
-    "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 20.0,
@@ -29209,7 +29209,7 @@
     "reliability_pct": 57.0,
     "adjusted_UPS": 59.65,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 57.0,
@@ -29276,7 +29276,7 @@
     "reliability_pct": 58.8,
     "adjusted_UPS": 59.61,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 48.2,
@@ -29343,7 +29343,7 @@
     "reliability_pct": 54.6,
     "adjusted_UPS": 59.59,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 31.2,
@@ -29678,7 +29678,7 @@
     "reliability_pct": 60.0,
     "adjusted_UPS": 59.42,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 20.1,
@@ -29879,7 +29879,7 @@
     "reliability_pct": 58.0,
     "adjusted_UPS": 59.35,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 14.1,
@@ -30016,6 +30016,73 @@
     "low_sample_threshold": 8.0
   },
   {
+    "IP": 40.2,
+    "ERA": 3.98,
+    "WAR": 0.39,
+    "salary": 7680790.0,
+    "K": 43,
+    "BB": 14,
+    "K_pct": 25.0,
+    "BB_pct": 8.1,
+    "xERA": 4.46,
+    "FIP": 4.37,
+    "SIERA": 4.63,
+    "fb_velo": 93.0,
+    "hardhit_pct": 35.1,
+    "barrel_pct": 9.3,
+    "BABIP": 0.275,
+    "LOB_pct": 66.7,
+    "H": 35,
+    "ER": 18,
+    "HR": 7,
+    "SV": 0,
+    "HLD": 0,
+    "W": 2,
+    "L": 3,
+    "K9": 9.63,
+    "WHIP": 1.2,
+    "role": "starter",
+    "raw": {
+      "DI": 17.7,
+      "CCI": 91.22,
+      "RPSI": 4.58,
+      "SQI": 48.6,
+      "LAI": -5.92,
+      "SEI": 0.0508
+    },
+    "components": {
+      "K_pct": 25.0,
+      "BB_pct": 8.1,
+      "K_BB_pct": 16.9,
+      "xERA": 4.46,
+      "FIP": 4.37,
+      "SIERA": 4.63,
+      "Velo": 93.0,
+      "HardHit_pct": 35.1,
+      "Barrel_pct": 9.3,
+      "BABIP": 0.275,
+      "LOB_pct": 66.7
+    },
+    "name": "Jackson Jobe",
+    "team": "DET",
+    "player_id": 695549,
+    "season": 2026,
+    "normalized": {
+      "DI": 62.44,
+      "CCI": 85.37,
+      "RPSI": 91.19,
+      "SQI": 77.8,
+      "LAI": 68.2,
+      "SEI": 15.92
+    },
+    "UPS": 68.49,
+    "rank": 449,
+    "reliability_pct": 50.1,
+    "adjusted_UPS": 59.27,
+    "low_sample": false,
+    "low_sample_threshold": 34.9
+  },
+  {
     "IP": 30.0,
     "ERA": 3.3,
     "WAR": 0.66,
@@ -30076,11 +30143,11 @@
       "SEI": 17.92
     },
     "UPS": 71.52,
-    "rank": 449,
+    "rank": 450,
     "reliability_pct": 42.9,
     "adjusted_UPS": 59.22,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 25.1,
@@ -30143,7 +30210,7 @@
       "SEI": 14.76
     },
     "UPS": 66.55,
-    "rank": 450,
+    "rank": 451,
     "reliability_pct": 55.7,
     "adjusted_UPS": 59.21,
     "low_sample": false,
@@ -30210,7 +30277,7 @@
       "SEI": 15.68
     },
     "UPS": 67.07,
-    "rank": 451,
+    "rank": 452,
     "reliability_pct": 53.6,
     "adjusted_UPS": 59.15,
     "low_sample": false,
@@ -30277,11 +30344,11 @@
       "SEI": 14.35
     },
     "UPS": 65.04,
-    "rank": 452,
+    "rank": 453,
     "reliability_pct": 60.9,
     "adjusted_UPS": 59.15,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 33.1,
@@ -30344,7 +30411,7 @@
       "SEI": 15.16
     },
     "UPS": 64.67,
-    "rank": 453,
+    "rank": 454,
     "reliability_pct": 62.3,
     "adjusted_UPS": 59.14,
     "low_sample": false,
@@ -30411,7 +30478,7 @@
       "SEI": 13.27
     },
     "UPS": 66.73,
-    "rank": 454,
+    "rank": 455,
     "reliability_pct": 54.5,
     "adjusted_UPS": 59.13,
     "low_sample": false,
@@ -30478,7 +30545,7 @@
       "SEI": 0.0
     },
     "UPS": 63.37,
-    "rank": 455,
+    "rank": 456,
     "reliability_pct": 68.3,
     "adjusted_UPS": 59.13,
     "low_sample": false,
@@ -30545,7 +30612,7 @@
       "SEI": 16.16
     },
     "UPS": 67.79,
-    "rank": 456,
+    "rank": 457,
     "reliability_pct": 51.2,
     "adjusted_UPS": 59.11,
     "low_sample": false,
@@ -30612,7 +30679,7 @@
       "SEI": 14.02
     },
     "UPS": 65.99,
-    "rank": 457,
+    "rank": 458,
     "reliability_pct": 56.7,
     "adjusted_UPS": 59.07,
     "low_sample": false,
@@ -30679,7 +30746,7 @@
       "SEI": 10.98
     },
     "UPS": 64.41,
-    "rank": 458,
+    "rank": 459,
     "reliability_pct": 63.0,
     "adjusted_UPS": 59.07,
     "low_sample": false,
@@ -30746,7 +30813,7 @@
       "SEI": 17.89
     },
     "UPS": 70.2,
-    "rank": 459,
+    "rank": 460,
     "reliability_pct": 44.8,
     "adjusted_UPS": 59.04,
     "low_sample": false,
@@ -30813,7 +30880,7 @@
       "SEI": 13.87
     },
     "UPS": 67.15,
-    "rank": 460,
+    "rank": 461,
     "reliability_pct": 52.6,
     "adjusted_UPS": 59.02,
     "low_sample": false,
@@ -30880,7 +30947,7 @@
       "SEI": 18.7
     },
     "UPS": 70.97,
-    "rank": 461,
+    "rank": 462,
     "reliability_pct": 42.9,
     "adjusted_UPS": 58.99,
     "low_sample": false,
@@ -30947,7 +31014,7 @@
       "SEI": 18.94
     },
     "UPS": 70.87,
-    "rank": 462,
+    "rank": 463,
     "reliability_pct": 42.9,
     "adjusted_UPS": 58.94,
     "low_sample": false,
@@ -31014,7 +31081,7 @@
       "SEI": 13.42
     },
     "UPS": 65.74,
-    "rank": 463,
+    "rank": 464,
     "reliability_pct": 56.6,
     "adjusted_UPS": 58.91,
     "low_sample": false,
@@ -31081,7 +31148,7 @@
       "SEI": 15.7
     },
     "UPS": 68.69,
-    "rank": 464,
+    "rank": 465,
     "reliability_pct": 47.6,
     "adjusted_UPS": 58.9,
     "low_sample": false,
@@ -31148,7 +31215,7 @@
       "SEI": 16.41
     },
     "UPS": 69.19,
-    "rank": 465,
+    "rank": 466,
     "reliability_pct": 45.9,
     "adjusted_UPS": 58.82,
     "low_sample": false,
@@ -31215,7 +31282,7 @@
       "SEI": 14.72
     },
     "UPS": 69.75,
-    "rank": 466,
+    "rank": 467,
     "reliability_pct": 44.4,
     "adjusted_UPS": 58.78,
     "low_sample": false,
@@ -31282,7 +31349,7 @@
       "SEI": 14.11
     },
     "UPS": 67.48,
-    "rank": 467,
+    "rank": 468,
     "reliability_pct": 50.2,
     "adjusted_UPS": 58.78,
     "low_sample": false,
@@ -31349,7 +31416,7 @@
       "SEI": 15.29
     },
     "UPS": 66.31,
-    "rank": 468,
+    "rank": 469,
     "reliability_pct": 53.7,
     "adjusted_UPS": 58.76,
     "low_sample": false,
@@ -31416,11 +31483,11 @@
       "SEI": 20.63
     },
     "UPS": 67.8,
-    "rank": 469,
+    "rank": 470,
     "reliability_pct": 48.8,
     "adjusted_UPS": 58.7,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 32.2,
@@ -31483,7 +31550,7 @@
       "SEI": 11.73
     },
     "UPS": 64.09,
-    "rank": 470,
+    "rank": 471,
     "reliability_pct": 61.7,
     "adjusted_UPS": 58.69,
     "low_sample": false,
@@ -31550,7 +31617,7 @@
       "SEI": 17.22
     },
     "UPS": 67.36,
-    "rank": 471,
+    "rank": 472,
     "reliability_pct": 50.0,
     "adjusted_UPS": 58.68,
     "low_sample": false,
@@ -31617,7 +31684,7 @@
       "SEI": 13.57
     },
     "UPS": 62.99,
-    "rank": 472,
+    "rank": 473,
     "reliability_pct": 66.8,
     "adjusted_UPS": 58.67,
     "low_sample": false,
@@ -31684,7 +31751,7 @@
       "SEI": 16.13
     },
     "UPS": 70.91,
-    "rank": 473,
+    "rank": 474,
     "reliability_pct": 41.3,
     "adjusted_UPS": 58.65,
     "low_sample": false,
@@ -31751,11 +31818,11 @@
       "SEI": 15.18
     },
     "UPS": 67.39,
-    "rank": 474,
+    "rank": 475,
     "reliability_pct": 49.4,
     "adjusted_UPS": 58.58,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 21.1,
@@ -31818,7 +31885,7 @@
       "SEI": 13.75
     },
     "UPS": 66.7,
-    "rank": 475,
+    "rank": 476,
     "reliability_pct": 51.3,
     "adjusted_UPS": 58.57,
     "low_sample": false,
@@ -31885,7 +31952,7 @@
       "SEI": 14.11
     },
     "UPS": 65.38,
-    "rank": 476,
+    "rank": 477,
     "reliability_pct": 55.7,
     "adjusted_UPS": 58.56,
     "low_sample": false,
@@ -31952,78 +32019,11 @@
       "SEI": 15.27
     },
     "UPS": 64.96,
-    "rank": 477,
+    "rank": 478,
     "reliability_pct": 57.0,
     "adjusted_UPS": 58.53,
     "low_sample": false,
-    "low_sample_threshold": 34.7
-  },
-  {
-    "IP": 34.2,
-    "ERA": 3.89,
-    "WAR": 0.39,
-    "salary": 7680790.0,
-    "K": 34,
-    "BB": 13,
-    "K_pct": 23.0,
-    "BB_pct": 8.8,
-    "xERA": 4.46,
-    "FIP": 4.63,
-    "SIERA": 4.63,
-    "fb_velo": 93.0,
-    "hardhit_pct": 35.1,
-    "barrel_pct": 9.3,
-    "BABIP": 0.275,
-    "LOB_pct": 66.7,
-    "H": 31,
-    "ER": 15,
-    "HR": 6,
-    "SV": 0,
-    "HLD": 0,
-    "W": 2,
-    "L": 2,
-    "K9": 8.95,
-    "WHIP": 1.27,
-    "role": "starter",
-    "raw": {
-      "DI": 17.7,
-      "CCI": 91.22,
-      "RPSI": 4.58,
-      "SQI": 48.6,
-      "LAI": -5.92,
-      "SEI": 0.0508
-    },
-    "components": {
-      "K_pct": 23.0,
-      "BB_pct": 8.8,
-      "K_BB_pct": 14.2,
-      "xERA": 4.46,
-      "FIP": 4.63,
-      "SIERA": 4.63,
-      "Velo": 93.0,
-      "HardHit_pct": 35.1,
-      "Barrel_pct": 9.3,
-      "BABIP": 0.275,
-      "LOB_pct": 66.7
-    },
-    "name": "Jackson Jobe",
-    "team": "DET",
-    "player_id": 695549,
-    "season": 2026,
-    "normalized": {
-      "DI": 62.44,
-      "CCI": 85.37,
-      "RPSI": 91.19,
-      "SQI": 77.8,
-      "LAI": 68.2,
-      "SEI": 15.92
-    },
-    "UPS": 68.49,
-    "rank": 478,
-    "reliability_pct": 46.1,
-    "adjusted_UPS": 58.52,
-    "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 18.0,
@@ -32157,7 +32157,7 @@
     "reliability_pct": 61.5,
     "adjusted_UPS": 58.5,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 28.0,
@@ -32492,7 +32492,7 @@
     "reliability_pct": 48.1,
     "adjusted_UPS": 58.3,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 26.2,
@@ -33229,7 +33229,7 @@
     "reliability_pct": 47.5,
     "adjusted_UPS": 58.04,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 13.1,
@@ -33430,7 +33430,7 @@
     "reliability_pct": 52.4,
     "adjusted_UPS": 57.99,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 27.2,
@@ -33765,7 +33765,7 @@
     "reliability_pct": 42.9,
     "adjusted_UPS": 57.77,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 16.2,
@@ -34234,7 +34234,7 @@
     "reliability_pct": 46.7,
     "adjusted_UPS": 57.65,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 15.1,
@@ -34435,7 +34435,7 @@
     "reliability_pct": 41.2,
     "adjusted_UPS": 57.61,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 16.1,
@@ -34569,7 +34569,7 @@
     "reliability_pct": 50.6,
     "adjusted_UPS": 57.54,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 16.2,
@@ -34703,7 +34703,7 @@
     "reliability_pct": 44.4,
     "adjusted_UPS": 57.5,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 16.1,
@@ -35038,7 +35038,7 @@
     "reliability_pct": 44.6,
     "adjusted_UPS": 57.33,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 22.0,
@@ -35172,7 +35172,7 @@
     "reliability_pct": 40.5,
     "adjusted_UPS": 57.31,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 17.1,
@@ -35373,7 +35373,7 @@
     "reliability_pct": 46.0,
     "adjusted_UPS": 57.28,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 15.2,
@@ -35641,7 +35641,7 @@
     "reliability_pct": 52.4,
     "adjusted_UPS": 57.13,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 30.1,
@@ -35708,7 +35708,7 @@
     "reliability_pct": 42.9,
     "adjusted_UPS": 57.12,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 17.1,
@@ -35842,7 +35842,7 @@
     "reliability_pct": 52.4,
     "adjusted_UPS": 57.1,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 26.0,
@@ -35976,7 +35976,7 @@
     "reliability_pct": 46.0,
     "adjusted_UPS": 57.08,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 16.2,
@@ -36378,7 +36378,7 @@
     "reliability_pct": 62.3,
     "adjusted_UPS": 57.02,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 13.2,
@@ -36512,7 +36512,7 @@
     "reliability_pct": 40.3,
     "adjusted_UPS": 56.99,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 14.1,
@@ -37115,7 +37115,7 @@
     "reliability_pct": 51.9,
     "adjusted_UPS": 56.83,
     "low_sample": false,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 25.1,
@@ -37182,7 +37182,7 @@
     "reliability_pct": 38.6,
     "adjusted_UPS": 56.74,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 28.2,
@@ -37249,7 +37249,7 @@
     "reliability_pct": 41.3,
     "adjusted_UPS": 56.74,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 14.2,
@@ -37785,7 +37785,7 @@
     "reliability_pct": 45.4,
     "adjusted_UPS": 56.49,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 31.2,
@@ -37852,7 +37852,7 @@
     "reliability_pct": 43.8,
     "adjusted_UPS": 56.45,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 11.2,
@@ -38321,7 +38321,7 @@
     "reliability_pct": 33.4,
     "adjusted_UPS": 56.3,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 12.1,
@@ -39058,7 +39058,7 @@
     "reliability_pct": 36.5,
     "adjusted_UPS": 56.08,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 26.2,
@@ -39125,7 +39125,7 @@
     "reliability_pct": 39.6,
     "adjusted_UPS": 56.06,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 12.2,
@@ -39326,7 +39326,7 @@
     "reliability_pct": 46.1,
     "adjusted_UPS": 55.99,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 10.1,
@@ -39594,7 +39594,7 @@
     "reliability_pct": 40.3,
     "adjusted_UPS": 55.93,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 14.0,
@@ -39728,7 +39728,7 @@
     "reliability_pct": 44.5,
     "adjusted_UPS": 55.9,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 10.1,
@@ -40130,7 +40130,7 @@
     "reliability_pct": 39.4,
     "adjusted_UPS": 55.62,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 9.2,
@@ -40666,7 +40666,7 @@
     "reliability_pct": 32.3,
     "adjusted_UPS": 55.49,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 17.2,
@@ -40800,7 +40800,7 @@
     "reliability_pct": 45.2,
     "adjusted_UPS": 55.47,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 8.2,
@@ -41068,7 +41068,7 @@
     "reliability_pct": 32.2,
     "adjusted_UPS": 55.33,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 29.2,
@@ -41135,7 +41135,7 @@
     "reliability_pct": 42.2,
     "adjusted_UPS": 55.31,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 19.1,
@@ -41336,7 +41336,7 @@
     "reliability_pct": 35.6,
     "adjusted_UPS": 55.21,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 16.2,
@@ -41537,7 +41537,7 @@
     "reliability_pct": 37.6,
     "adjusted_UPS": 55.14,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 20.2,
@@ -41604,7 +41604,7 @@
     "reliability_pct": 33.6,
     "adjusted_UPS": 55.09,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 6.0,
@@ -41805,7 +41805,7 @@
     "reliability_pct": 35.7,
     "adjusted_UPS": 55.06,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 8.2,
@@ -42073,7 +42073,7 @@
     "reliability_pct": 32.4,
     "adjusted_UPS": 54.95,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 12.2,
@@ -42542,7 +42542,7 @@
     "reliability_pct": 28.7,
     "adjusted_UPS": 54.79,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 18.2,
@@ -42609,7 +42609,7 @@
     "reliability_pct": 31.3,
     "adjusted_UPS": 54.75,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 8.2,
@@ -43346,7 +43346,7 @@
     "reliability_pct": 29.9,
     "adjusted_UPS": 54.5,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 6.2,
@@ -43614,7 +43614,7 @@
     "reliability_pct": 31.2,
     "adjusted_UPS": 54.36,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 8.0,
@@ -46093,7 +46093,7 @@
     "reliability_pct": 20.2,
     "adjusted_UPS": 53.16,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 6.0,
@@ -46562,7 +46562,7 @@
     "reliability_pct": 20.0,
     "adjusted_UPS": 53.05,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 3.1,
@@ -47634,7 +47634,7 @@
     "reliability_pct": 15.1,
     "adjusted_UPS": 52.62,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 4.0,
@@ -48103,7 +48103,7 @@
     "reliability_pct": 20.3,
     "adjusted_UPS": 52.55,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 6.2,
@@ -48237,7 +48237,7 @@
     "reliability_pct": 15.3,
     "adjusted_UPS": 52.54,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 6.0,
@@ -49175,7 +49175,7 @@
     "reliability_pct": 16.8,
     "adjusted_UPS": 52.23,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 5.0,
@@ -49510,7 +49510,7 @@
     "reliability_pct": 15.1,
     "adjusted_UPS": 52.13,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 4.2,
@@ -50381,7 +50381,7 @@
     "reliability_pct": 11.1,
     "adjusted_UPS": 51.85,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 2.0,
@@ -51587,7 +51587,7 @@
     "reliability_pct": 7.4,
     "adjusted_UPS": 51.49,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 3.0,
@@ -52391,7 +52391,7 @@
     "reliability_pct": 9.1,
     "adjusted_UPS": 51.31,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 3.2,
@@ -52726,7 +52726,7 @@
     "reliability_pct": 11.1,
     "adjusted_UPS": 51.2,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 2.0,
@@ -53463,7 +53463,7 @@
     "reliability_pct": 5.0,
     "adjusted_UPS": 50.98,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 2.0,
@@ -54870,7 +54870,7 @@
     "reliability_pct": 7.0,
     "adjusted_UPS": 50.82,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 1.0,
@@ -55004,7 +55004,7 @@
     "reliability_pct": 9.3,
     "adjusted_UPS": 50.78,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 1.0,
@@ -55272,7 +55272,7 @@
     "reliability_pct": 7.4,
     "adjusted_UPS": 50.71,
     "low_sample": true,
-    "low_sample_threshold": 34.7
+    "low_sample_threshold": 34.9
   },
   {
     "IP": 3.0,
